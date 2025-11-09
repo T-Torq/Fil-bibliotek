@@ -1,0 +1,788 @@
+Citation: Sanchez-Graells, Albert.
+2024. Resh(AI)ping Good
+Administration: Addressing the Mass
+Effects of Public Sector Digitalisation.
+Laws 13: 9. https://doi.org/10.3390/
+laws13010009
+Academic Editor: Patricia Easteal
+Received: 20 December 2023
+Revised: 3 February 2024
+Accepted: 6 February 2024
+Published: 16 February 2024
+Copyright: © 2024 by the author.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+laws
+Article
+Resh(AI)ping Good Administration: Addressing the Mass
+Effects of Public Sector Digitalisation
+Albert Sanchez-Graells
+Law School, Faculty of Arts, Law and Social Sciences, University of Bristol, Clifton Campus, Bristol BS8 1RJ, UK;
+a.sanchez-graells@bristol.ac.uk
+Abstract: Public sector digitalisation is transforming public governance at an accelerating rate. Digitalisation is outpacing the evolution of the legal framework. Despite several strands of international
+efforts to adjust good administration guarantees to new modes of digital public governance, progress
+has so far been slow and tepid. The increasing automation of decision-making processes puts significant pressure on traditional good administration guarantees, jeopardises individual due process
+rights, and risks eroding public trust. Automated decision-making has, so far, attracted the bulk of
+scholarly attention, especially in the European context. However, most analyses seek to reconcile
+existing duties towards individuals under the right to good administration with the challenges arising
+from digitalisation. Taking a critical and technology-centred doctrinal approach to developments
+under the law of the European Union and the Council of Europe, this paper goes beyond current
+debates to challenge the sufficiency of existing good administration duties. By stressing the mass
+effects that can derive from automated decision-making by the public sector, the paper advances the
+need to adapt good administration guarantees to a collective dimension through an extension and a
+broadening of the public sector’s good administration duties: that is, through an extended ex ante
+control of organisational risk-taking, and a broader ex post duty of automated redress. These legal
+modifications should be urgently implemented.
+Keywords: public sector; digitalisation; automated decision-making; good administration; mass
+effects; collective interests; public trust; organisational risk-taking; automated redress
+1. Introduction
+Much like in every other area of socio-economic activity, the “COVID-19 digital shift”
+and the mainstreaming of advances in artificial intelligence (AI) have prompted discussion
+of how the public sector could harness the advantages of digital technologies and datadriven insights. AI brings the abstract promise of a more efficient, adaptable, personalisable,
+and fairer public administration (Esko and Koulu 2023; Coglianese and Lai 2022; Sunstein
+2022). Around the world, States are thus experimenting with AI technology, seeking
+more streamlined and efficient digital government and public services (OECD.AI 2023;
+Joint Research Centre AI Watch 2022)—in no small part as a driver for rationalisation or
+savings-generation in the organisation of their public administrations. The adoption of datadriven approaches, digital technologies, and AI to support or automate decision-making in
+the public sector is quickly transforming public governance (Yeung 2022; Dunleavy and
+Margetts 2023).
+Such “digital transformation” poses significant risks that require new regulatory
+approaches (Kaminski 2023). Generative AI, for example, has been shown to create unreliability, misuse, and systemic risks (Maham and Küspert 2023)—which are particularly
+acute in public sector automated decision-making (ADM) supported by AI (Finck 2020;
+Kuziemski and Misuraca 2020). The accelerating shift towards new modes of digital public
+governance, therefore, requires an adaptation of the legal framework—and there is broad
+support for this view (see, e.g., Curtis et al. (2023)). There are signs of a growing (soft)
+Laws 2024, 13, 9. https://doi.org/10.3390/laws13010009 https://www.mdpi.com/journal/laws
+Laws 2024, 13, 9 2 of 15
+international consensus on the need to regulate public sector AI adoption as part of broader
+rules on AI use (AI Safety Summit 2023; Ministry of Foreign Affairs of Japan 2023), with
+the United States of America recently taking perhaps the most decided approach to date.1
+However, progress has generally been slow and tepid so far, particularly in the context of
+the European Union (EU) and the Council of Europe (CoE), on which this paper will focus.
+Pushing for such legal adaptations, much academic work has recently emerged on
+the need to adjust the regulation of ADM to protect the individual rights of those at the
+receiving end of these new modes of delivery of administrative (in)justice (Demková et al.
+2023). In the European context, the emerging consensus is that the current legal framework
+is ineffective in tackling some (or most) of these risks, where, e.g., the technology pushes the
+limits of the General Data Protection Regulation (GDPR)2 or even those of new instruments
+of EU digital law, including the (at the time of writing, on 19 December 2023) yet to be
+finalised EU AI Act3—on which there is a burgeoning literature, see, e.g. (Demková 2023a,
+2023b; Fink and Finck 2022; Gentile 2023; Cutts 2023). The legal framework is also seen
+as ineffective in preventing discrimination on grounds not (directly) linked to currently
+protected characteristics (Wachter 2022), thus leaving a gap in relation to new forms
+of algorithmic discrimination. The continued preservation of individual rights will thus
+require adjustments in the current legal framework (Laukyte 2022; Chevalier and Menéndez
+Sebastián 2022) and will eventually reshape individual rights under current approaches
+to good administration (Zerilli 2023). This will be part of the “digital transformation” of
+administrative law, but developments in individual rights cannot provide a full picture.
+Many other “traditional” administrative law doctrines will require careful reconsideration,
+and new doctrines and rules may be needed (Bello y Villarino 2023). The effectiveness of all
+changes and adaptations will, of course, hinge on their understanding and interpretation
+by practitioners (Røhl 2022).
+Crucially, new modes of digital public governance not only jeopardise individual
+rights but also threaten collective rights and interests in the proper functioning of the
+public sector as a crucial driver of the legitimacy of administrative action (Smuha 2021;
+Ranchordás 2022; Coglianese 2023; Kouroutakis 2023; Carney 2023). It has been stressed that
+there is a need to rethink administrative procedural fairness and to move beyond current
+individualistic approaches (Meers et al. 2023; Tomlinson et al. 2023). In a similar attempt to
+go beyond the “individual unit” in reshaping good administration guarantees and taking a
+critical and technology-centred doctrinal approach to developments under EU and CoE law
+(Section 2), this paper goes beyond current debates on the regulation of ADM to challenge
+the sufficiency of existing good administration duties. By stressing the mass effects that
+can derive from ADM in the public sector, whether as a result of AI adoption or based on
+the use of less sophisticated algorithms and forms of automation (Section 3), the paper
+advocates for the need to expand good administration guarantees to a collective dimension
+through an extension and a broadening of the public sector’s good administration duties:
+an extended ex ante control of organisational risk-taking (Section 4), and a broader ex post
+duty of automated redress (Section 5). The paper concludes with a reflection on the urgency
+of implementing the proposed legal reforms (Section 6). Although the paper focuses on the
+European context, given that some of the main issues identified in the analysis arise from
+1 Executive Order 14110, 30 October 2023. Safe, Secure, and Trustworthy Development and Use of Artificial
+Intelligence. Available at https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secureand-trustworthy-development-and-use-of-artificial-intelligence (accessed on 18 December 2023).
+2 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of
+natural persons with regard to the processing of personal data and on the free movement of such data [2016]
+OJ L119/1. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/oj (accessed on 18 December 2023).
+3 Future of Life Institute. The EU Artificial Intelligence Act. Up-to-date developments and analyses of the EU AI Act.
+Available online: https://artificialintelligenceact.eu/ (accessed on 18 December 2023).
+Laws 2024, 13, 9 3 of 15
+the individualistic logic followed in the design of good administration guarantees that are
+common to OECD jurisdictions,4
+it is of relevance beyond Europe.
+2. European Approach to Adapting the Current Legal Framework
+Section 1 stressed how the adoption of data-driven approaches, digital technologies,
+and AI to support or automate decision-making in the public sector requires an adaptation
+of existing legal frameworks and, in particular, a reconsideration of the duties arising from
+the right to good administration. This section focuses on the ongoing efforts to create new
+safeguards in EU and CoE law, which together determine the “European approach” to
+reshaping good administration for digital public governance. The section starts by setting
+out the baseline provided by the existing right to good administration in Article 41 of the
+Charter of Fundamental Rights of the EU (CFR),5 as interpreted under existing case law of
+the European Court of Justice (ECJ) and the CoE’s Principles of Administrative Law (CoE
+Principles)6
+(Section 2.1). It then considers the new guarantees under the EU AI Act once
+it enters into force, which, at the time of writing, are to some extent dependent on details
+yet to emerge following the political compromise of December 2023 (Council of the EU
+2023; European Parliament 2023) (Section 2.2). It then analyses the also ongoing efforts to
+create further new guarantees under a CoE Framework Convention on AI, Human Rights,
+Democracy and the Rule of Law (CoE AI Convention)7
+(Section 2.3). It concludes with
+a short recapitulation of the “European approach” to reshaping good administration for
+digital public governance (Section 2.4).
+2.1. Good Administration in Article 41 CFR as the Regulatory Baseline
+In establishing a right to good administration, Article 41 CFR encapsulates the eponymous general principle of EU law (Hofmann and Mihaescu 2013). It comprises an “umbrella
+right” for “Every person . . . to have his or her affairs handled impartially, fairly and within
+a reasonable time” by the public administration (Art. 41(1) CFR) (Demková and Hofmann
+2022), as well as more specific rights that derive from it, such as the right to be heard,
+the right to access the file, and the obligation of the administration to give reasons for its
+decisions (Art. 41(2) CFR). The right to good administration also comprises a duty of care so
+that the administration has the most complete and reliable information possible and takes
+it into account in its decision-making (Jan 2023a). The umbrella clause in Article 41(1) CFR
+includes some flexible elements that could accommodate an expansion and broadening of
+the right to good administration beyond its current contours. It has been authoritatively
+argued (Craig 2021, p. 1128) that it is possible “to rely on Article 41(1) for aspects of the
+right to good administration that do not readily fall within the more specific parts of Article
+41(2)” and that an expansive interpretation of Article 41(1) CFR would include, for example,
+many extensions put forward by the EU Ombudsman (2002). The effectiveness of these
+rights is underpinned by the right to an effective remedy and to a fair trial in Article 47 CFR.
+4 As evidenced, e.g., in the 2023 edition of the OECD Principles of Good Administration. Available at: https:
+//www.sigmaweb.org/publications/Principles-of-Public-Administration-2023.pdf (accessed on 19 December
+2023).
+5 Charter of Fundamental Rights of the European Union [2016] OJ C202/389. Available at: http://data.europa.
+eu/eli/treaty/char_2016/oj (accessed on 19 December 2023).
+6 Council of Europe. 2018. The Administration and You. Principles of administrative law concerning relations between individuals and public authorities. Available at: https://rm.coe.int/eng-handbook-on-administration/
+1680a03ee2 (accessed on 19 December 2023). Although the CoE Principles are not underpinned by a specific
+right to good administration in the European Convention on Human Rights (ECHR), they have been developed in cases involving administrative decision-making affecting ECHR rights. The CoE Principles are thus
+a non-binding authoritative source for the interpretation of the right to good administration in Article 41
+CFR. Additional guidance can be found in European Commission. 2017. Quality of Public administration. A
+toolbox for practitioners. Available at: https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=
+8055&type=2&furtherPubs=no (accessed on 19 December 2023).
+7 Council of Europe. 2023. Draft Framework Convention on Artificial Intelligence, Human Rights, Democracy
+and the Rule of Law (2nd reading, CAI(2023)28). Available at: https://www.coe.int/en/web/artificialintelligence/cai (accessed on 19 December 2023).
+Laws 2024, 13, 9 4 of 15
+In recent ECJ case law,8 “good administration has been unequivocally accepted as a general
+principle of EU law, meaning its requirements are binding on both the EU institutions,
+bodies and agencies, as well as on the EU Member State administrations whenever EU law
+applies” (Demková et al. 2023). Therefore, Article 41 CFR provides the relevant regulatory
+baseline under EU law, but the right to good administration could extend beyond its narrow
+codification inasmuch as it constitutes a general principle of EU law and, thus, a general
+source of EU law (Art. 6 TEU).
+The proper functioning of the public administration is of crucial relevance to the rule
+of law and the functioning of constitutional democracies (e.g., Lock 2019, p. 2205; Corder
+2020; Suksi 2023). However, the CFR does not encapsulate a general or social right to a
+good public administration. Rather, in simplified terms, the right to good administration
+in Article 41 CFR follows an individualistic logic to the protection of the interests of
+those at the receiving end of administrative decision-making. Article 41 CFR needs to
+be considered in coordination with Article 47 CFR, which provides access to (judicial)
+remedies when Article 41 CFR protection has been ineffective in avoiding individual harm.
+Article 47 CFR follows an equally individualistic logic. The overall logic is, thus, one of
+empowering individuals in their relationships with the public administration, through
+procedural guarantees seeking to promote adequate decision-making and through the last
+resort possibility of enforcing them against the public administration, and/or obtaining
+redress for defective decision-making. This logic and regulatory approach are one of the
+main shortcomings in the effectiveness of the right to good administration in a digitalised
+context, as there are open questions “whether individuals are sufficiently equipped to deal
+with the new challenges posed by AI” (Wolswinkel 2022). Further, I would stress that this
+individualistic logic leaves two crucially important issues outwith the scope of protection
+under Articles 41 and 47 CFR.
+First, to the exclusion of the right to claim damages (Art. 41(3) CFR; CoE Principle
+16), substantive protection is only triggered at the point where an individual situation is
+susceptible to administrative decision-making through procedural rights (to be heard, to
+access the file) or, in fact, mostly where a decision has been made (or is to be considered to
+have been made, e.g., under the rules on administrative silence; CoE Principle 13) through
+the right to be given reasons for the decision with a view to potentially challenging it.
+(Earlier) techno-organisational decisions adopted in preparation for such decision-making
+processes are only to be taken into account if (and to the extent that) they impinge on
+specific guarantees given to the individual in relation to the specific (potential) decision,
+e.g., in terms of the objectivity which the organisational setting is capable of ensuring.
+However, techno-organisational decisions are not capable of pre-emptive challenge, or
+challenge in abstracto.
+Second, for the purposes of Article 41 CFR, it is irrelevant whether the situation
+triggering a (potential) breach of the right to good administration is unique to the individual
+facing administrative action or not. Individual rights and remedies do not vary depending
+on the number of individuals (potentially) affected by equivalent (simultaneous) decisionmaking, as each of them will (in theory) be capable of individualised enforcement of
+their own rights. The traditional approach has thus been to distinguish between the rules
+applicable to single case decision-making from those applicable to administrative rulemaking (see, e.g., Craig et al. (2015)). In the digital context, however, there is a clear
+conflation of these two dimensions, which also relate to the point at which protection is
+needed—in the sense that the general preparatory aspects of the decision-making process
+have a more direct bearing on individual outcomes.
+I argue that these implications of the individualistic logic underpinning Articles 41 and
+47 CFR are of great importance in the use of AI and other forms of technology-supported
+or automated decision-making for three reasons. First, this is important because, as just
+8 E.g., Case C-219/20, Bezirkshauptmannschaft Hartberg-Fürstenfeld (Délai de prescription), ECLI:EU:C:2022:89,
+paragraph 37; and Joined Cases C-225/19 and C-226/19, Minister van Buitenlandse Zaken, ECLI:EU:C:2020:951,
+paragraph 34.
+Laws 2024, 13, 9 5 of 15
+mentioned, techno-organisational decisions will have a much more direct bearing on
+individual decision-making in the AI context than in other settings, as in some ways,
+the deployment (pre)determines the decision almost invariably (e.g., by establishing the
+relevant parameters and weightings, by excluding all discretion, etc.). The impossibility of
+challenging such techno-organisational decisions before they are implemented can thus
+create a situation where existing Article 41 CFR rights offer “too little, too late” by way of
+protection. Second, this is also important because, in practice, individual redress may be
+nearly impossible to obtain in a context of mass decision-making, such as that enabled by
+AI, potentially leading to extremely large numbers of individual claims capable of choking
+review procedures and ultimately rendering Article 47 CFR protection ineffective, where
+such protection by tribunals or courts is significantly delayed or unobtainable. Finally, this
+is also important because redress for the social interest in the proper functioning of the
+public administration may not be (pragmatically) actionable under current mechanisms.
+These issues will be further explored in Sections 3–5.
+Ultimately, while the right to good administration can offer a springboard for the
+development of new individual (algorithmic) rights (which are, however, contested;
+Abrusci and Scott 2023)—barring a very expansive interpretation of the eponymous general
+legal principle of EU law by the ECJ—as it currently stands, it is unsuitable as a basis for
+non-individualistic approaches to strengthening good administration duties. There is, thus,
+a need to develop new guarantees and protective mechanisms on the basis of independent
+legal rules. The following two subsections will now focus on the most notable efforts
+currently underway in the European context: the EU AI Act and the CoE AI Convention.
+2.2. EU AI Act, Fundamental Rights Impact Assessment, and Blurred Boundaries
+At the time of writing, EU legislators have reached a provisional political agreement
+on the EU AI Act,9 which seeks to create additional mechanisms to protect fundamental
+rights in the context of AI use. While the EU AI Act can have a positive impact on the
+protection of individual and collective rights, it also comes with significant limitations
+(Wróbel 2022). First, the EU AI Act will only apply to AI as defined in the act. The EU
+has opted to closely follow the OECD’s revised definition of AI (OECD 2023). This creates
+a first threshold issue to consider in establishing the scope of protection that will result
+from the EU AI Act—which will depend on whether specific types of decision-making
+support or automation reach the necessary levels of, e.g., autonomy to be classed as
+“AI proper”. Consequently, at best, the EU AI Act will only provide a partial solution
+to the challenges arising from the digitalisation of the public sector and new modes of
+administrative decision-making, as some of the challenges will also arise in contexts in
+which the public administration resorts to less sophisticated (i.e., autonomous) algorithms
+and digital technologies.
+Second, the EU AI Act contains very limited obligations except in relation to prohibited
+and high-risk uses. High-risk uses will trigger important obligations that some consider
+excessive, see, e.g., (Ryan-Mosley 2023), such as the need to carry out a fundamental rights
+impact assessment before a high-risk AI system is put in the market by its deployers or
+to register in an EU database for high-risk AI systems (Council of the EU 2023). If this
+was carried out appropriately, this impact assessment could operate as a check on technoorganisational decisions adopted by the public administration seeking to use an AI, and,
+thus, mitigate some of the shortcomings identified above (Section 2.1). However, by contrast
+to the original proposal, high-risk uses are no longer established in a closed list. The final
+text is expected to include “a series of filtering conditions meant to capture only genuine
+high-risk applications”, especially in sensitive areas such as education, employment, critical
+infrastructure, public services, law enforcement, border control, and administration of
+justice (Bertuzzi 2023). This creates a second threshold issue in establishing the scope of
+9 See note 3 above. For an analysis conducted while revising the final version of this text, see (Sanchez-Graells
+2024b).
+Laws 2024, 13, 9 6 of 15
+protection that will result from the EU AI Act. The coverage of anticipatory measures
+such as the pre-deployment fundamental rights impact assessment can thus be expected
+to only cover a fraction of AI uses by the public sector—which has been criticised, e.g., by
+(Kouroutakis 2023).
+A final major limitation is the absence of individual rights to enforce the EU AI Act.
+The political compromise indicates that “a natural or legal person may make a complaint to
+the relevant market surveillance authority concerning non-compliance with the AI act and
+may expect that such a complaint will be handled in line with the dedicated procedures of
+that authority” (Council of the EU 2023). While this is an improvement over the original
+proposal, it falls short of guaranteeing procedural rights comparable to those arising from
+Article 47 CFR. It is also unclear at what stage such a complaint can be realistically expected
+to be filed with the relevant authority, but it seems unlikely that, even with increased
+transparency (e.g., of the fundamental rights impact assessment), individuals will have
+access to the information required to assess non-compliance other than in relation to formal
+aspects of the EU AI Act’s obligations. Material deviations from the relevant guarantees and,
+in particular, violations of fundamental rights not captured or incorrectly evaluated in the
+relevant impact assessment will most likely only be discovered after the fact. This does not
+do much to address the issue of the (too late) timing and (in)effective access to remedies in
+the context of mass administrative decision-making identified above (Section 2.1). While it
+could be argued that other protections under the GDPR are being interpreted expansively10
+and could, as a result, offer some level of protection based on the exercise of individual
+rights (Demetzou et al. 2023), in my view, reliance on individual rights under the GDPR (as
+would be the case under the EU AI Act) would suffer from the same limits arising from the
+individual logic discussed above (Section 2.1).
+Overall, I would argue that while the EU AI Act will create important additional
+safeguards in a limited number of high-risk cases, they will be too limited to consider the
+EU AI Act a sufficient adaptation of the right to good administration under EU law.
+2.3. Council of Europe’s AI Framework Convention, Not Much to Add to the EU AI Act
+At the time of writing, the CoE is promoting the adoption of an AI Convention to create
+a minimum set of guarantees to address the challenges of AI to human rights, democracy,
+and the rule of law.11 The CoE AI Convention will face effectiveness constraints as a result
+of the “minimum common denominator” approach to setting its content (Bertuzzi 2024), as
+well as a result of the need for signatory States to take implementing measures over which
+they will enjoy a (large) degree of discretion. For the purposes of our discussion, it is worth
+stressing that similar to the EU AI Act discussed above (Section 2.2), the CoE AI Convention
+also creates an initial threshold issue through the definition of AI that determines its scope
+of application (Art. 2). The AI definition in the CoE AI Convention also follows the OECD’s
+and, consequently, aligns with the EU AI Act. This is also a general constraint in the CoE
+AI Convention’s potential to address the issues identified above (Section 2.1).
+Further, the Convention is bound to contain very high-level obligations susceptible to
+further concretisation at a domestic level through legislation and implementing measures
+over which signatory States will enjoy a broad margin of discretion. Such measures
+can be as broad as a general obligation to “adopt or maintain measures to ensure that
+the activities within the lifecycle of artificial intelligence systems are compatible with
+obligations to protect human rights, as enshrined in applicable international law, and in
+its domestic law” (Art. 4). Where the CoE AI Convention seeks to create more specific
+guarantees, for example, in relation to remedies, it limits the obligations to record-keeping
+and the disclosure of information, with the possibility to complain to oversight authorities
+still under discussion (Art. 14). Ultimately, the Convention will not create individual
+10 E.g., Case C-634/21, SCHUFA Holding (Scoring), ECLI: EU:C:2023:957.
+11 See note 7 above.
+Laws 2024, 13, 9 7 of 15
+enforcement rights beyond those already existing for the general protection of fundamental
+rights in any given jurisdiction.
+Similarly, in relation to the requirement for States to put in place a risk and impact
+management framework (Art. 16), the generic obligations are premised on the risk-based
+approach underpinning the Convention (Art. 1), according to which all “measures shall be
+graduated and differentiated as may be necessary in view of the severity and probability of
+the occurrence of adverse impacts on human rights, democracy and the rule of law throughout the lifecycle of artificial intelligence systems” (Art. 1(2)). This comes to reproduce the
+second threshold issue identified with the EU AI Act (Section 2.2) and can exacerbate it as
+the risk-based approach will not only guide the identification of uses capable of “severe
+and probable adverse impacts on human rights” (also known as “high-risk”) but also the
+design of the relevant measures—similarly, see (Van Kolfschooten and Shachar 2023).
+Overall, once again, I would argue that while the CoE AI Convention can create a
+framework that eventually results in the implementation of important additional safeguards
+in a limited number of high-risk cases, it is unlikely to generate any obligations or duties
+beyond those arising from the EU AI Act and, as such and in the EU’s context, the CoE AI
+Convention will not promote a sufficient adaptation of the right to good administration.
+2.4. Recapitulation
+The analysis in this Section 2 has shown how, as enshrined in the CFR, the right to
+good administration follows an individualistic logic that risks creating situations where the
+adoption of digital technologies to support or automate administrative decision-making
+is not subjected to timely and meaningful opportunities for individuals to protect their
+rights. This logic also precludes pre-deployment challenges based on broader collective
+rights and social interests in the proper functioning of the public administration. The
+analysis has also shown that neither the EU AI Act nor the CoE AI Convention would do
+enough to address the relevant issues save in relation to the relatively narrow (and likely
+to be contested) category of high-risk AI uses by the public sector. Even in that relatively
+narrow context, both instruments would fall short from the perspective of individual
+remedies, and their ability to meaningfully address the risks taken with the adoption of
+digital technologies would depend on the technically complex and likely to-be-contested
+implementation of novel tools, such as fundamental rights impact assessments. As such, I
+argue that the “European approach” to reshaping good administration for digital public
+governance falls short because it does not address the two main shortcomings identified
+in relation to the regulatory baseline currently provided by Articles 41 and 47 CFR: that
+is, the risk of granting individual rights only exercisable once the damaging automated
+or supported decision-making has taken place, and only exercisable in the context of
+review or appeal procedures at risk of being overwhelmed by the potential sheer number
+of claims arising from “single points of failure” in the decision-making process. Against
+this background, Section 3 will focus on the main challenge for the adaptation of good
+administration guarantees, which stems from the mass effects of the digitalisation of public
+sector decision-making. Sections 4 and 5 will detail the additional adaptations of the right
+to good administration that are, in my view, required to address this challenge.
+3. Mass Effects of the Digitalisation of Public Sector Decision-Making as the
+Crucial Challenge
+It is increasingly accepted that regulating AI use by the public sector, and more
+generally, requires a precautionary or anticipatory approach (Kaminski 2023). At least in
+part, this stems (or should stem) from the realisation that AI deployment can generate mass
+effects that are very difficult or simply impossible to correct for after the fact. Experience
+has already shown that the implementation of defective or discriminatory algorithms
+by the public sector can generate massive harm thwarting the lives and opportunities
+of very many citizens—and oftentimes the most vulnerable and marginalised (Sinclair
+2023). This has become painfully obvious under the light of scandals such as the Robodebt
+Laws 2024, 13, 9 8 of 15
+scheme implemented in Australia (Royal Commission into the Robodebt Scheme 2023),
+the UK’s Post Office scandal involving the Horizon software (Marshall 2022), or, in the
+also scandalous deployment of the digital welfare fraud detection system (System Risk
+Indication, SyRI) in the Netherlands (Fenger and Simonse 2024). These cases show how
+highly automated and data-driven screening mechanisms deployed at the population level
+generate extremely harmful levels of mass effects and how difficult it is for individuals to
+obtain adequate redress and compensation. The standard approach to the enforcement of
+human and fundamental rights, including the right to good administration through ex post
+individual claims, is bound to fail in the digital context. Furthermore, there are additional
+ways in which AI can erode the individualisation of decision-making. AI systems might
+handle cases in batches rather than giving them individual consideration, or self-learning
+processes might ensure that future decisions are influenced by past ones (Binns 2021). This
+lack of individual consideration might be problematic, even if the massified outcomes are
+not systematically harmful, and there may be further (unobservable) breaches of existing
+guarantees under good administration duties.
+The current (analog) regime developed in a context of “human-exclusive” decisionmaking that, by definition, is (severely) constrained by limitations in the amount of information that can be processed and by the speed with which decisions can be made,
+communicated, and executed. This context has provided the implicit paradigm for the conceptualisation and implementation of the right to good administration. In that regard, the
+unavoidable (slow) pace of administrative decision-making within that paradigm worked to
+foster good administration, in that the necessary delay between the start of an administrative
+procedure and the adoption of the relevant (human-exclusive) decision created space (and
+time) for the exercise of individual rights. Within that paradigm, even faulty approaches to
+decision-making (e.g., by an official or a branch of the public administration) would have
+limited effects as a result of constraints on the volume of decisions capable of adoption before a (successful) challenge forced a change of approach. The specific procedural rights (to
+access the file, to be heard, to obtain reasons for decisions, to challenge them) underpinning
+the current incarnation of the right to good administration are premised on such paradigm
+of individualised decision-making (see above Section 2.1).
+To be sure, the standardisation of administrative processes and the increased processing capabilities of information and communication technologies (ICT) already exerted
+pressure on such paradigm, as the cost and the delay of processing information reduced
+and, as a direct consequence, the volume of (individual) decisions that could be created
+by a single (still) human decision-maker increased (Dunleavy et al. 2006). However, the
+threshold for “mass effects” was arguably not crossed until data-driven approaches and the
+adoption of algorithms, including AI, to support or automate decision-making have become
+commonplace. This has suddenly changed the relevant paradigm. In the new paradigm,
+there is little constraint on the volume of (individual) decisions that can be made through
+human–machine collaboration, or through complete automation. The challenge here is
+not (primarily) on how to adapt the existing procedural rights because they make little
+(pragmatic) sense in the context of instant (automated) decision-making. Once the data has
+been chosen, collected, and structured, and once the algorithm has been chosen (trained and
+tested), there is barely any delay between the start of a digitalised decision-making process
+and the generation of the relevant algorithmic output (decision). This renders most specific
+rights either very difficult to implement or largely irrelevant, as decision-making largely
+becomes a fait accompli. Specific decisions in relation to the data and the algorithm will
+pre-determine the relevant decisions. Crucially, given the level of centralisation in decisionmaking and the negligible marginal costs of each additional decision, techno-organisational
+decisions preceding the adoption of the (individual) decisions by the relevant supported
+or automated process can thus irretrievably translate into breaches of the right to good
+administration (as well as other fundamental rights) of many citizens at once, all “with a
+simple click of the mouse” so to speak.
+Laws 2024, 13, 9 9 of 15
+In my view, the mass effects generated by decision-making supported or automated
+through digital technologies constitute the most distinctive feature and the most crucial
+challenge for the adaptation of good administration duties in the new paradigm of digital
+public governance. However, the challenges in ensuring individual guarantees derived
+from the right to good administration in a mass decision-making setting are rarely acknowledged, although there are some exceptions, for example, in relation to the right to
+access the file (EU Agency for Fundamental Rights 2020). I argue that the focus should
+be on tackling the issue of mass effects. This would require a dual approach. First, it
+would require seeking to minimise the risk of such (negative) mass effects materialising
+through intense scrutiny and testing of the relevant technical solutions pre-deployment
+(Bello y Villarino 2023). Second, it would require creating proactive duties incumbent
+upon the public administration to undo such (negative) mass effects so that reversing or
+compensating for the effects of the supported or automated decision-making does not
+depend on the ability of the affected citizens to identify and challenge this situation.
+Conceptually, this would require both an extension of the right to good administration
+to phases of decision-making that are not yet directly relevant to the individual (Section 4),
+as well as the broadening of good administration guarantees to a collective dimension to
+account for the new risks arising in the AI-driven administrative context and to avoid those
+risks being internalised by those at the receiving end of the decision-making (Section 5).
+Whether it would be possible to implement these adaptations on the basis of Articles 41
+and 47 CFR, as they stand, could be a relevant consideration in order to implement this
+proposal. However, in my view, the individualistic logic of the system (above Section 2.1)
+makes it nigh impossible, and an explicit reform of the CFR would be preferable, in my
+view. In any case, the remainder of the paper will not be concerned with this level of
+technical considerations.
+4. Ex Ante Control of Organisational Risk-Taking
+At its core, the adoption of digital technologies to support or automate public sector decision-making implies organisational risk-taking and, as things stand, this decision
+can be made without the public sector having to consider (or internalise) the significant
+externalities that the decision can impose on those at the receiving end of the decisionmaking process. Given the potential mass effects of discrete techno-organisational decisions
+discussed above (Section 3), it is not acceptable, or commensurate with the levels of protection desirable in systems of human and fundamental rights, to expect large numbers of
+citizens—or specific minorities or groups disproportionately impacted by (biased) decisionmaking—to have to rely on individualised ex post challenges to the implementation of
+those techno-organisational decisions. The right to good administration—or the mirroring
+duty of good administration incumbent on the public sector—must encompass a proactive
+and thorough ex ante assessment of the likely impact of techno-organisational decisions on
+the ability of the public sector user to respect individual rights when deploying AI. Such
+assessment needs to take place at the point of organisational risk-taking: or, in other words,
+ahead or in anticipation of the technological deployment.
+In my view, such assessment of the likely (in)compatibility of a planned technological
+deployment with individual rights needs to be undertaken by an institution with sufficient
+independence and domain expertise, which rules out a self-assessment by the public sector
+user and/or its technology providers. Even if the relevant fundamental rights impact
+assessment was published in full and subjected to public consultation or contestation,
+there is no guarantee that the process would result in a sufficiently robust control of
+the planned technological deployment. Both the public sector user and the technology
+provider would have incentives to gloss over important fundamental rights issues, or
+could behave strategically in terms of information disclosure or the interpretation of the
+impact assessment at the later stage of technological deployment. For it to be effective, an
+ex ante control of the likely impact of a technological deployment on fundamental rights
+and its broader alignment with the relevant goals of digital regulation, thus, needs to be
+Laws 2024, 13, 9 10 of 15
+implemented through a system of licencing or permissioning of public sector AI use. In
+relation to the public procurement procedures that will usually operate as the conduit for
+the acquisition of such digital technologies (unless they are developed in-house), I have
+developed elsewhere a proposal for the system to be managed by an “AI in the Public
+Sector Authority” (AIPSA) (Sanchez-Graells 2024a) (along similar lines see Martín Delgado
+2022; Gavaghan et al. 2019).
+To foster the effectiveness of such a system of ex ante control and permissioning of the
+adoption of digital technologies to support or automate public sector decision-making, the
+right to good administration would need to be broadened so that it encompasses a right to
+enforce such licencing mechanism against any planned or implemented AI deployment by
+the public sector, which is an alternative, but complementary approach to disclosure-based
+proposals (see, e.g., Smuha 2021; Laux et al. 2023). The right could be framed in negative
+terms, such as an individual right not to be affected by administrative decisions resulting
+from the use of unlicenced systems or systems violating the terms of the relevant licence,
+which would be a variation of the right not to be subjected to automated decision-making,
+as it would not challenge the what is done, but how AI is deployed by the public sector.
+The risk of nullity of all relevant administrative decisions, coupled with the obligation
+to proactively compensate for their negative effects, would work as effective deterrents
+against the unlicenced adoption of digital technologies by public sector users.
+The need to facilitate oversight before mass effects are created has already been
+stressed in the existing literature, e.g., arguing for the need to facilitate the early review
+of decisions to adopt AI by setting aside considerations of the “non-regulatory nature of
+the administrative process in civil law systems, or the ripeness doctrine in common law
+systems” (Kouroutakis 2023, p. 12). Along similar lines, the need to consider whether
+express legislative authorisation for the use of ADM technologies may be necessary or
+desirable has also been stressed (Miller 2023) as an opportunity for a broader assessment of
+the planned AI deployment and its socio-technical characteristics. The proposal here charts
+an intermediate path that can be complementary of both such approaches, inasmuch as it
+seeks to establish a system of ex ante control and permissioning but not at the legislative
+level, and with the primary goal of avoiding oversight dependency on the viability of
+(or initiative for) a (judicial) challenge. The crucial aspect of the proposal from the good
+administration perspective would be that the mechanisms for the public enforcement of
+the permissioning system would be strengthened by the parallel mechanism based on
+individual rights under a revised Article 41 CFR. To further facilitate the enforcement of
+such individual rights, it would be advisable to consider the possibility of their exercise
+in a collective manner, e.g., through representative institutions. A detailed assessment of
+those possibilities exceeds the scope of this paper.
+5. Ex Post Automated Redress Duty
+It is also increasingly accepted that the automation of decision-making and the mass effects that can result from a single techno-organisational decision pose significant challenges
+to existing remedy systems (e.g., Jan (2023b)). The importance of remedies in ensuring
+the proper use of AI systems has been receiving increasing attention, including the role
+of redress as a mechanism to enhance human agency in AI-dominated decision-making
+environments (Fanni et al. 2023). This can lead to proposals to, e.g., decouple AI adoption from its mass effects by requiring human involvement in the review of challenges
+against the initial (automated) decision. However, in my view, assessing redress in the
+context of mass administrative decision-making seems to require a slightly different (albeit
+complementary) approach.
+In a context of mass decision-making, it is easy to see how the tribunals and courts
+could quickly become overwhelmed and ineffective if they had to deal with thousands or
+even hundreds of thousands of claims arising from a single techno-organisational decision
+(e.g., the implementation of a faulty algorithm in any core digital government service to do
+with taxation or social security). Given the growing interconnectedness of administrative
+Laws 2024, 13, 9 11 of 15
+procedures through the multiple uses of data points and increasing data interconnections
+or feedforward processes in public sector “data lakes”, it is also increasingly clear that
+the outputs of a techno-organisational solution (e.g., a flag of potential social benefit
+fraud) can then “snowball” through an increasingly interconnected and data-driven public
+administration (e.g., to trigger further flags in relation to other administrative procedures),
+thus further increasing the volume and variety of harms, damages, and complaints that can
+arise from a single AI deployment (see, e.g., Widlak et al. 2021). This further compounds
+the mass effects of supported or automated decision-making processes, as the increase in
+scale of the potential negative impacts not only concerns a plurality of citizens, but also
+a plurality of interests by any single citizen. The more centralized or interconnected the
+public sector, the higher the risk of disproportionate effects arising from faulty supported
+or automated decision-making processes.
+Equally, it is increasingly accepted that there are social interests (e.g., in the proper
+functioning of the public administration as a crucial element in citizens’ assessments of the
+functioning of the State and the underlying constitutional settlement) that are not amenable
+to the current system of individual redress (Smuha 2021). Either because the related
+incentives do not operate in favour of enforcing any existing checks and balances (e.g.,
+where the individual interest is relatively small and would thus not “activate” individual
+claims), or because the erosion of social interests is the result of compounded technoorganisational processes with interactive effects in the long run that cannot be separately
+challenged effectively (Yeung 2019, pp. 42, 75). This poses a major difficulty and also risks
+undermining confidence in the administrative justice system more generally (along the
+same lines Meers et al. 2023; Tomlinson et al. 2023).
+While ex ante controls on the adoption of AI by the public sector (as above, Section 4)
+should reduce the likelihood or frequency of such mass and/or collective and social harms,
+they would not be altogether excluded. It is thus necessary to think about ways to tackle
+the issue. In my view, a broadening of the right to good administration to encompass a
+proactive duty on the public administration using an AI deployment to undo the harms
+arising from techno-organisational decisions would go some way in that regard (similarly,
+Widlak et al. 2021). A public administration that was put on notice of a (potential) harm
+arising from an AI deployment would immediately become duty-bound to (a) suspend
+or discontinue the use of the AI, and (b) proactively redress the situation for everyone
+affected without the need for any individual claims. To facilitate this, the existence of a
+mechanism to discontinue the technical deployment and adequate records of the effects
+and outputs it has generated would be required and would need to be established as
+conditions for the permission to use the relevant technology (above Section 4). The user
+public administration put on notice would also be (c) under a duty to report to the licencing
+or permissioning authority (AIPSA) so that relevant duties to revisit the assessment of
+equivalent or compounded AI deployments potentially affected by the same problem are
+triggered. All public authorities using such AI deployments would be under (d) a duty
+to collaborate in the efforts to proactively undo the damage and to “fix the system” going
+forward. For this to be implemented, there should be adequate records and inventories
+on the use of data and digital technology solutions across the public sector, which would
+require the creation of registries more comprehensive than, e.g., the narrow registers of
+high-risk AI use foreseen in the EU AI Act.
+The implementation of this proposal would require a modification of Articles 41 and
+47 CFR, as well as, most likely, the creation of additional legislation at domestic level. A
+detailed assessment of those implementation issues exceeds the possibilities of this paper.
+6. Conclusions
+In this paper, I have stressed the “individual rights logic” underpinning the promotion
+of good administration, which is a common basis of, e.g., OECD jurisdictions. By focusing
+on European legislation, I have shown how the limitations of the current incarnation of
+the right to good administration in the CFR will not be sufficiently addressed through the
+Laws 2024, 13, 9 12 of 15
+adoption of the EU AI Act or by the adoption of the CoE AI Convention. The emerging
+“European approach” to reshaping good administration for digital public governance is
+significantly constrained due to the threshold issues that result from having placed the
+regulatory focus on high-risk AI uses, as well as by the absence of strictly enforceable
+individual rights. This will do little to address the broader gaps in the regulation of
+good administration.
+Such gaps are particularly visible when the focus is put on the mass effects that the
+digitalisation of public sector decision-making is bound to generate. Such mass effects
+risk depriving good administration rights from any practical effect where supported or
+automated decision-making systems present administrative decisions as a fait accompli and
+where the sheer numbers of potentially affected citizens and related (snowball) claims are
+bound to overwhelm existing mechanisms for the review or appeal of those decisions.
+To try to address the challenge of mass effects, I have put forward a proposal to both
+extend and broaden good administration rights under the CFR. First, I have proposed
+an extension of the right to good administration to the control of techno-organisational
+decisions, that is, to (preparatory) phases of administrative decision-making that are not
+yet directly relevant to the individual. The new (extended) right would be a mechanism
+to reinforce the creation of a mechanism of external oversight of public sector adoption of
+digital technologies through ex ante permissioning or licencing (Sanchez-Graells 2024a).
+It would consist of an individual right not to be affected by administrative decisions
+resulting from the use of unlicenced systems or systems violating the terms of the relevant
+licence. Second, I have proposed a broadening of the existing right to obtain redress for
+the damages arising from defective decision-making, which would have to encompass a
+proactive duty on the public administration to undo the damage arising from supported
+or automated decision-making, as well as a duty of inter-administrative cooperation to
+mitigate or compensate for consequential damages (or risks) arising from the increased
+centralisation and interconnection of a data-driven public sector.
+In my view, both interventions are closely interrelated and, if implemented properly,
+could offer significant mitigations of the risks inherent in the digitalisation of the public sector. A final reflection is that such interventions—or equivalent ones proposed by
+others—are urgent. While the legislative framework adapts at a slow pace, the public sector
+is quickly accumulating a stock of data and digital technology supported or automated
+decision-making solutions that will be very difficult to dismantle once it gets embedded.
+Even if it can be dismantled, such dismantling will be very costly. More importantly, the
+accelerating process of digital transformation is currently externalising significant risks on
+citizens and, most likely, disproportionately on the most vulnerable citizens. This mere fact
+is in itself a threat to the existing obligations to protect and promote a broad array of human
+and fundamental rights. We should not need to wait for the next big scandal to happen
+before we take decisive action. Much like the EU has been keen to be a trendsetter in the
+regulation of (some uses of) AI, it should also be willing to be a trendsetter in shaping good
+administration for the new digital governance paradigm.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Data are contained within the article.
+Acknowledgments: This paper builds on the preliminary thoughts presented at the symposium
+on “Safeguarding the Right to Good Administration in the Age of AI”, part of the III DigiCon
+Conference, held at the European University Institute on 19–20 October 2023. I am grateful to the
+symposium convenors Simona Demková, Melanie Fink, and Giulia Gentile, to Filipe Brito Bastos and
+Marco Almada and all other participants for very thought-provoking discussions. I am furthermore
+grateful to Marco Almada for additional comments on an early draft of this paper. I am also thankful
+to Colin Gavaghan for the invitation to contribute to this special issue and for a broad array of
+Laws 2024, 13, 9 13 of 15
+helpful conversations Any remaining errors are solely my responsibility. Comments and feedback
+are welcome.
+Conflicts of Interest: The author declares no conflicts of interest.
+References
+Abrusci, Elena, and Richard Mackenzie-Gray Scott. 2023. The questionable necessity of a new human right against being subject to
+automated decision-making. International Journal of Law and Information Technology 31: 114–43. [CrossRef]
+AI Safety Summit. 2023. The Bletchley Declaration by Countries Attending the AI Safety Summit. November 1–2. Available online:
+https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declarationby-countries-attending-the-ai-safety-summit-1-2-november-2023 (accessed on 18 December 2023).
+Bello y Villarino, José-Miguel. 2023. A Tale of Two Automated States. Why a One-Size-Fits-All Approach to Administrative Law
+Reform to Accommodate AI Will Fail. In Money, Power, and AI. Automated Banks and Automated States. Edited by Zofia Bednarz
+and Monika Zalnieriute. Cambridge: Cambridge University Press, pp. 136–51.
+Bertuzzi, Luca. 2023. European Union Squares the Circle on the World’s First AI Rulebook. Available online: https://www.euractiv.
+com/section/artificial-intelligence/news/european-union-squares-the-circle-on-the-worlds-first-ai-rulebook/ (accessed on 19
+December 2023).
+Bertuzzi, Luca. 2024. Tug of War Continues on International AI Treaty as Text Gets Softened Further. Available online:
+https://www.euractiv.com/section/artificial-intelligence/news/tug-of-war-continues-on-international-ai-treaty-as-text-getssoftened-further/ (accessed on 2 February 2024).
+Binns, Reuben. 2021. Analogies and Disanalogies Between Machine-Driven and Human-Driven Legal Judgement. Computational and
+Text-Driven Law 1: 1–12.
+Carney, Terry. 2023. The Automated Welfare State. Challenges for Socioeconomic Rights of the Marginalised. In Money, Power, and AI.
+Automated Banks and Automated States. Edited by Zofia Bednarz and Monika Zalnieriute. Cambridge: Cambridge University Press,
+pp. 95–115.
+Chevalier, Emiliem, and Eva Ma Menéndez Sebastián. 2022. Digitalisation and Good Administration Principles. European Review of
+Digital Administration & Law 3: 5–8.
+Coglianese, Cary. 2023. Law and Empathy in the Automated State. In Money, Power, and AI. Automated Banks and Automated States.
+Edited by Zofia Bednarz and Monika Zalnieriute. Cambridge: Cambridge University Press, pp. 173–88.
+Coglianese, Cary, and Alicia Lai. 2022. Algorithm vs. Algorithm. Duke Law Journal 71: 1281–340.
+Corder, Hugh. 2020. A Right to Administrative Justice ‘New’ or Just Repackaging the Old? In The Cambridge Handbook of New Human
+Rights. Edited by Andreas von Arnauld, Kerstin von der Decken and Mart Susi. Cambridge: Cambridge University Press,
+pp. 491–514.
+Council of the EU. 2023. Artificial Intelligence Act: Council and Parliament Strike a Deal on the First Rules for AI in the World.
+Available online: https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-counciland-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/ (accessed on 19 December 2023).
+Craig, Paul. 2021. Article 41. The Right to Good Administration. In The EU Charter of Fundamental Rights. A Commentary. Edited by
+Steve Peers, Tamara Hervey, Jeff Kenner and Angela Ward. Oxford: Beck–Hart–Nomos, pp. 1125–52.
+Craig, Paul, Herwig C. H. Hofmann, Jens-Peter Schneider, and Jacques Ziller. 2015. ReNEUAL Model Rules on EU Administrative
+Procedure. Oxford: Oxford University Press.
+Curtis, Caitlin, Nicole Gillespie, and Steven Lockey. 2023. AI-deploying organizations are key to addressing ‘perfect storm’ of AI risks.
+AI and Ethics 3: 145–53. [CrossRef] [PubMed]
+Cutts, Tatiana. 2023. Supervising Automated Decisions. In Money, Power, and AI. Automated Banks and Automated States. Edited by Zofia
+Bednarz and Monika Zalnieriute. Cambridge: Cambridge University Press, pp. 205–20.
+Demetzou, Katerina, Sebastião Barros Vale, and Gabriela Zanfir-Fortuna. 2023. The thin red line: Refocusing data protection law on
+ADM, a global perspective with lessons from case-law. Computer Law & Security Review 49: 105806.
+Demková, Simona. 2023a. Automated Decision-Making and Effective Remedies. The New Dynamics in the Protection of EU Fundamental
+Rights in the Area of Freedom, Security and Justice. Cheltenham: Edward Elgar.
+Demková, Simona. 2023b. The EU’s Artificial Intelligence Laboratory and Fundamental Rights. In Redressing Fundamental Rights
+Violations by the EU: The Promise of the ‘Complete System of Remedies’. Edited by Melanie Fink. Cambridge: Cambridge University
+Press. Available online: https://ssrn.com/abstract=4566098 (accessed on 18 December 2023).
+Demková, Simona, and Herwig C. H. Hofmann. 2022. General principles of procedural justice. In Research Handbook on General
+Principles in EU Law. Edited by Katja S. Ziegler, Päivi J. Neuvonen and Violeta Moreno-Lax. Cheltenham: Edward Elgar, pp.
+209–26.
+Demková, Simona, Melanie Fink, and Giulia Gentile. 2023. The Digital Future of European Public Administration: Introduction
+to the Symposium on Safeguarding the Right to Good Administration in the Age of AI. The Digital Constitutionalist. Available online: https://digi-con.org/the-digital-future-of-european-public-administration-introduction-to-the-symposium-onsafeguarding-the-right-to-good-administration-in-the-age-of-ai/ (accessed on 18 December 2023).
+Laws 2024, 13, 9 14 of 15
+Dunleavy, Patrick, and Helen Margetts. 2023. Data science, artificial intelligence and the third wave of digital era governance. Public
+Policy and Administration, ahead of print. [CrossRef]
+Dunleavy, Patrick, Helen Margetts, Simon Bastow, and Jane Tinkler. 2006. Digital Era Governance: IT Corporations, the State, and
+e-Government. Oxford: Oxford University Press.
+Esko, Terhi, and Riikka Koulu. 2023. Imaginaries of better administration: Renegotiating the relationship between citizens and digital
+public power. Big Data & Society 10: 1–14. [CrossRef]
+EU Agency for Fundamental Rights. 2020. Getting the Future Right. Artificial Intelligence and Fundamental Rights. Available online:
+https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights (accessed on 19 December 2023).
+EU Ombudsman. 2002. The European Code of Good Administrative Behaviour. Available online: https://www.ombudsman.europa.
+eu/sv/publication/en/3510 (accessed on 19 December 2023).
+European Parliament. 2023. Artificial Intelligence Act: Deal on Comprehensive Rules for Trustworthy AI. Available online: https:
+//www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensiverules-for-trustworthy-ai (accessed on 19 December 2023).
+Fanni, Rosanna, Valerie Eveline Steinkogler, Giulia Zampedri, and Jo Pierson. 2023. Enhancing human agency through redress in
+Artificial Intelligence Systems. AI & Society 38: 537–47.
+Fenger, Menno, and Robin Simonse. 2024. The Implosion of the Dutch Surveillance Welfare State. Social Policy and Administration,
+ahead of print. [CrossRef]
+Finck, Michèle. 2020. Automated Decision-Making and Administrative Law. In The Oxford Handbook of Comparative Administrative Law.
+Edited by Peter Cane, Herwig C. H. Hofmann, Eric C. Ip and Peter L. Lindseth. Oxford: Oxford University Press, pp. 656–76.
+Fink, Melanie, and Michele Finck. 2022. Reasoned A(I)dministration: Explanation requirements in EU law and the automation of
+public administration. European Law Review 47: 376–92.
+Gavaghan, Colin, Alistair Knott, James Maclaurin, John Zerilli, and Joy Liddicoat. 2019. Government Use of Artificial Intelligence in
+New Zealand. Available online: https://ourarchive.otago.ac.nz/bitstream/handle/10523/9372/NZLF%20report.pdf (accessed
+on 19 December 2023).
+Gentile, Giulia. 2023. Between Online and Offline Due Process: The Digital Services Act. In New Directions in Digitalisation: Perspectives
+from EU Competition Law and the Charter of Fundamental Rights. Edited by Annegret Engel and Xavier Groussot. Heidelberg:
+Springer. Available online: https://ssrn.com/abstract=4550655 (accessed on 18 December 2023).
+Hofmann, Hervig C. H., and Bucura C. Mihaescu. 2013. The Relation between the Charter’s Fundamental Rights and the Unwritten
+General Principles of EU Law: Good Administration as the Test Case. European Constitutional Law Review 9: 73–101. [CrossRef]
+Jan, Benjamin. 2023a. Can the Duty of Care Be Complied With in the Algorithmic State? The Digital Constitutionalist. Available online:
+https://digi-con.org/can-the-duty-of-care-be-complied-with-in-the-algorithmic-state/ (accessed on 19 December 2023).
+Jan, Benjamin. 2023b. Safeguarding the Right to an Effective Remedy in Algorithmic Multi-Governance Systems: An Inquiry in
+Artificial Intelligence-Powered Informational Cooperation in the EU Administrative Space. Review of European Administrative Law
+16: 9–36.
+Joint Research Centre AI Watch. 2022. European Landscape on the Use of Artificial Intelligence by the Public Sector. Available online:
+https://ai-watch.ec.europa.eu/publications/ai-watch-european-landscape-use-artificial-intelligence-public-sector_en (accessed
+on 18 December 2023).
+Kaminski, Margot E. 2023. Regulating the risks of AI. Boston University Law Review 103: 1347–411. [CrossRef]
+Kouroutakis, Antonios E. 2023. Public Data, AI Applications and the Transformation of the State: Contemporary Challenges to
+Democracy. Available online: https://ssrn.com/abstract=4569189 (accessed on 18 December 2023).
+Kuziemski, Maciej, and Gianluca Misuraca. 2020. AI governance in the public sector: Three tales from the frontiers of automated
+decision-making in democratic settings. Telecommunications Policy 44: 101976. [CrossRef]
+Laukyte, Migle. 2022. Averting enfeeblement and fostering empowerment: Algorithmic rights and the right to good administration.
+Computer Law & Security Review 46: 105718.
+Laux, Johann, Sandra Wachter, and Brent Mittelstadt. 2023. Three Pathways for Standardisation and Ethical Disclosure by Default
+under the European Union Artificial Intelligence Act. Available online: https://ssrn.com/abstract=4365079 (accessed on 19
+December 2023).
+Lock, Tobias. 2019. Article 41 CFR Right to good administration. In The EU Treaties and the Charter of Fundamental Rights: A Commentary.
+Edited by Manuel Kellerbauer, Marcus Klamert and Jonathan Tomkin. Oxford: Oxford University Press, pp. 2204–7.
+Maham, Pegah, and Sabrina Küspert. 2023. Governing General Purpose AI. A Comprehensive Map of Unreliability, Misuse
+and Systemic Risks. Stiftung Neue Verantwortung. Available online: https://www.stiftung-nv.de/sites/default/files/snv_
+governing_general_purpose_ai_pdf.pdf (accessed on 18 December 2023).
+Marshall, Paul. 2022. Scandal at the Post Office: The Intersection of Law, Ethics and Politics. Digital Evidence and Electronic Signature
+Law Review 19: 12–28. [CrossRef]
+Martín Delgado, Isaac. 2022. Automation, Artificial Intelligence and Sound Administration. A Few Insights in the Light of the Spanish
+Legal System. European Review of Digital Administration & Law 3: 9–30.
+Meers, Jed, Simon Halliday, and Joe Tomlinson. 2023. Why we need to rethink procedural fairness for the digital age and how we
+should do it. In Research Handbook on Law & Technology. Edited by Bartosz Brozeck, Olia Kanevskaia and Przemysław Pałka.
+Cheltenham: Edward Elgar, pp. 468–82.
+Laws 2024, 13, 9 15 of 15
+Miller, Paul. 2023. A New ‘Machinery of Government’? The Automation of Administrative Decision-Making. In Money, Power, and AI.
+Automated Banks and Automated States. Edited by Zofia Bednarz and Monika Zalnieriute. Cambridge: Cambridge University Press,
+pp. 116–35.
+Ministry of Foreign Affairs of Japan. 2023. G7 Leaders’ Statement on the Hiroshima AI Process. Available online: https://www.mofa.
+go.jp/ecm/ec/page5e_000076.html (accessed on 18 December 2023).
+OECD. 2023. Updates to the OECD’s Definition of an AI System Explained. Available online: https://oecd.ai/en/wonk/ai-systemdefinition-update (accessed on 19 December 2023).
+OECD.AI. 2023. Policy Observatory. Available online: https://oecd.ai/en/policy-areas (accessed on 18 December 2023).
+Ranchordás, Sofia. 2022. Empathy in the Digital Administrative State. Duke Law Journal 71: 1341–89. [CrossRef]
+Royal Commission into the Robodebt Scheme. 2023. Final Report. Available online: https://robodebt.royalcommission.gov.au/
+publications/report (accessed on 3 February 2024).
+Ryan-Mosley, Tate. 2023. Why the EU AI Act Was So Hard to Agree on. Three Key Issues That Jeopardized the EU AI Act. MIT
+Technology Review. Available online: https://www.technologyreview.com/2023/12/11/1084849/why-the-eu-ai-act-was-sohard-to-agree-on/ (accessed on 3 February 2024).
+Røhl, Ulrik Bisgaard Ulsrod. 2022. Automated, Administrative Decision-making and Good Administration. Friends, Foes or Complete
+Strangers? Ph.D thesis, University of Aalborg, Aalborg, Denmark. [CrossRef]
+Sanchez-Graells, Albert. 2024a. Digital Technologies and Public Procurement. Gatekeeping and Experimentation in Digital Public Governance.
+Oxford: Oxford University Press.
+Sanchez-Graells, Albert. 2024b. Public Procurement of Artificial Intelligence: Recent Developments and Remaining Challenges in EU
+Law. LTZ (Legal Tech Journal) 2/2024. Available online: https://ssrn.com/abstract=4706400 (accessed on 3 February 2024).
+Sinclair, Alexandra J. 2023. A Tale of Two Systems: An Account of Transparency Deficits in the Use of Machine Learning
+Algorithms to Detect Benefit Fraud in the UK and The Netherlands. The Digital Constitutionalist. Available online:
+https://digi-con.org/a-tale-of-two-systems-an-account-of-transparency-deficits-in-the-use-of-machine-learning-algorithmsto-detect-benefit-fraud-in-the-uk-and-the-netherlands/ (accessed on 19 December 2023).
+Smuha, Nathalie A. 2021. Beyond the individual: Governing AI’s societal harm. Internet Policy Review 10: 1–32. [CrossRef]
+Suksi, Markku. 2023. The Rule of Law and Automated Decision-Making. Exploring Fundamentals of Algorithmic Governance. Heidelberg:
+Springer.
+Sunstein, Cass R. 2022. Governing by Algorithm? No Noise and (Potentially) Less Bias. Duke Law Journal 71: 1175–205. [CrossRef]
+Tomlinson, Joe, Eleana Kasoulide, Jed Meers, and Simon Halliday. 2023. Whose procedural fairness? Journal of Social Welfare and Family
+Law 45: 278–93. [CrossRef]
+Van Kolfschooten, Hannah, and Carmel Shachar. 2023. The Council of Europe’s AI Convention (2023–2024): Promises and pitfalls for
+health protection. Health Protection 138: 104935. [CrossRef] [PubMed]
+Wachter, Sandra. 2022. The Theory of Artificial Immutability: Protecting Algorithmic Groups Under Anti-Discrimination Law. Tulane
+Law Review 97: 149–204. [CrossRef]
+Widlak, Arjan, Marlies van Eck, and Rik Peeters. 2021. Towards principles of good digital administration: Fairness, accountability
+and proportionality in automated decision-making. In The Algorithmic Society. Technology, Power, and Knowledge. Edited by Marc
+Schuilenburg and Rik Peeters. Abingdon-on-Thames: Routledge, pp. 67–84.
+Wolswinkel, Johan. 2022. Comparative Study on Administrative Law and the Use of Artificial Intelligence and Other Algorithmic
+Systems in Administrative Decision-Making in the Member States of the Council of Europe. Available online: https://coe.int/
+documents/22298481/0/CDCJ(2022)31E+-+FINAL+6.pdf/4cb20e4b-3da9-d4d4-2da0-65c11cd16116?t=1670943260563 (accessed
+on 19 December 2023).
+Wróbel, Izabela. 2022. Artificial intelligence systems and the right to good administration. Review of European and Comparative Law 49:
+203–23. [CrossRef]
+Yeung, Karen. 2019. A Study of the Implications of Advanced Digital Technologies (including AI Systems) for the Concept of Responsibility within a Human Rights Framework. Available online: https://rm.coe.int/a-study-of-the-implications-of-advanced-digitaltechnologies-including/168096bdab (accessed on 19 December 2023).
+Yeung, Karen. 2022. The New Public Analytics as an Emerging Paradigm in Public Sector Administration. Tilburg Law Review 27: 1–32.
+[CrossRef]
+Zerilli, John. 2023. Process Rights and the Automation of Public Services through AI: The Case of the Liberal State. Just Security.
+Available online: https://www.justsecurity.org/89758/process-rights-and-the-automation-of-public-services-through-ai-thecase-of-the-liberal-state/ (accessed on 18 December 2023).
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
