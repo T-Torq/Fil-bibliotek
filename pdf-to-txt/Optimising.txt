@@ -1,0 +1,707 @@
+Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150 1
+Open access
+Optimising pharmacy processes in
+medication delivery service through
+digitalisation and automation
+Kian Hong Hong Ng , Wen Jun Tiew, Yook Ting, Amanda Woo,
+Wei Xiong, Nathaniel Lim, Tou Teik, George Lim, Arleen Susan Baskaran
+To cite: Ng KHH, Tiew WJ,
+Woo YTing,A, et al. Optimising
+pharmacy processes in
+medication delivery service
+through digitalisation and
+automation. BMJ Open Quality
+2025;14:e003150. doi:10.1136/
+bmjoq-2024-003150
+Received 2 October 2024
+Accepted 27 February 2025
+Pharmacy, Changi General
+Hospital, Singapore
+Correspondence to
+Kian Hong Hong Ng;
+ngkianhong1991@gmail.com
+Quality improvement report
+© Author(s) (or their
+employer(s)) 2025. Re-use
+permitted under CC BY-NC. No
+commercial re-use. See rights
+and permissions. Published by
+BMJ Group.
+ABSTRACT
+The rapid expansion of medication delivery service (MDS)
+during COVID-19 created many new roles in the pharmacy
+which are manpower intensive and not sustainable as
+pharmacy resumes counter collection services. To keep
+MDS operations sustainable, we identified the need to
+streamline and automate processes which are manual
+and repetitive. We seek to determine if the Plan, Do, Study,
+Act (PDSA) cycles would effectively reduce the man-hours
+required for the MDS over two phases in 1 year. Phase 1
+involved digitalisation of order taking and automation of
+the data entry process. Phase 2 involved automating the
+order generation and accounting process to replicate the
+patient information matching task which was performed
+manually during bagging and dispatch of delivery
+orders. The baseline period for this study was from
+December 2020 to January 2021. The results following
+implementation of PDSA cycles in the respective phases
+were collected between January 2021 to June 2021 and
+July 2021 to December 2021. The average time taken for
+data entry per delivery order reduced from a range of 0.5
+to 2.15min to 0.08 to 0.1min depending on the ordering
+method (p<0.05). The average time taken for bagging
+and dispatch per delivery order shortened from 2.7 min to
+0.28 min (p<0.05). The improvements were sustained and
+cumulatively contributed to 11.8-man-hour savings. The
+impact of the interventions was discussed. As MDS gains
+prominence as an important alternative for medication
+collection due to its rapid expansion due to COVID-19,
+it is crucial for the pharmacy to expand its capacity and
+information technology capabilities to cope with higher
+workload from both MDS and walk-in patients.
+PROBLEM
+The rapid expansion of medication delivery
+service (MDS) during COVID-19 created
+new work processes in the pharmacy which
+are manpower intensive and not sustainable
+as pharmacy resumed counter collection
+services. Although MDS was meant to decant
+patients home after their consultation, a
+greater number of orders taken meant more
+rostered man-hours were required for the
+downstream processing.
+Both MDS and counter collection tap on
+the existing pharmacy processes for keying,
+packing and dispensing which have been
+optimised through the implementation of
+Outpatient Pharmacy Automated System
+previously.1
+ MDS requires an additional 18
+man-hours on the roster for the new MDS
+processes. Due to the ongoing pandemic, it
+was inevitable for staff attrition due to COVID
+infection to also affect the overall pharmacy
+operations.2
+Previous efforts were targeted at promoting
+MDS through adoption of digital order-taking
+platforms.3–5 Incorporation of delivery orders
+from digital platforms offered insights on the
+potential for digitising all incoming orders
+to streamline information transfer for downstream processing. There is a growing body of
+evidence which demonstrates the benefits of
+process automation in terms of productivity,
+cost savings and improved accuracy.6–9 Noting
+that the additional work processes were
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+⇒ Digitalisation and automation in pharmacy services,
+such as robotic dispensing systems and electronic
+order integration, improve efficiency, reduce errors,
+and free staff for patient care, particularly during crises like COVID-19.
+WHAT THIS STUDY ADDS
+⇒ This study uniquely demonstrates low-cost automation (e.g., Excel macros, SikuliX) as a feasible
+alternative to expensive systems, achieving 11.8
+man-hour savings/day with minimal capital expenditure. The integration of barcode scanning and
+next-day delivery models further advances realworld solutions for accuracy and scalability, aligning with calls for adaptable, crisis-ready pharmacy
+workflows.
+HOW THIS STUDY MIGHT AFFECT RESEARCH,
+PRACTICE OR POLICY
+⇒ This study underscores the need for healthcare
+systems to prioritize IT infrastructure and staff training in digitalization, informing policies that support
+scalable, crisis-resilient pharmacy services while
+maintaining patient access during emergencies like
+pandemics.
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+2 Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150
+Open access
+manual in nature, the project team can replicate similar
+successes by identifying suitable candidates for automation to optimise the MDS operations while ensuring accuracy and freeing up valuable human resources for patient
+care activities.
+This project aimed to reduce the man-hours required
+for these additional MDS processes by 50% within a 1-year
+intervention time period. As there were no previous data
+for these additional MDS processes, the aim is to compare
+the average time taken for the identified processes before
+and after the interventions.
+BACKGROUND
+Changi General Hospital (CGH) is a public hospital
+serving the southern and eastern parts of the island. It is
+one of the largest hospitals in Singapore, with a capacity
+of over 1000 beds.10 The hospital began to rapidly expand
+pharmacy processes for MDS during the first quarter of
+2020 to cope with the disruptions from the COVID-19
+pandemic.11 12 Demand for medication delivery quickly
+picked up when the local government raised the Disease
+Outbreak Response System Condition to orange in
+February 2020 and subsequently implemented the
+‘circuit breaker’ in April 2020 to control COVID-19
+spread. Members of the public were advised to minimise
+movements and interactions in public and private places
+and to remain at home unless for essential purposes.13 14
+On a national level, delivery service fees were waived
+by public healthcare institutions for patients on prescription medicines to allow patients to avoid travelling to
+healthcare facilities.11 Close to 395000 medication deliveries were made from 1 February to 19 August 2020. An
+average of 3200 deliveries were made in August 2020, a
+10-fold increase from before the pandemic started.12 15
+The outpatient pharmacy processed an average of
+5200 deliveries per month between April to June 2020,
+an eight-fold increase relative to the previous quarter
+(figure 1). This delivery load sustained and even escalated to an average of 7800 deliveries between October
+2020 to March 2021. The numbers only began stabilising from April 2021 onwards, averaging 5500 deliveries
+monthly as pharmacy ceased offering urgent same-day
+or next-day delivery options and introduced a daily cap
+to the number of deliveries. The intention was to transit
+patients back to collecting medications in pharmacy as
+the COVID situation continued to improve during phase
+3 reopening.16 17 During this transition, resources were
+redirected to support pharmacy operations for physical
+collection. MDS operations were not sustainable if the
+numbers remained high.
+The outpatient pharmacy serves patients from all
+SOCs within the Medical Centre. Patients who had
+same-day consultations or walk-in patients could opt
+for MDS by submitting their prescriptions or medication balance memo for order taking at the MDS counter
+outside the pharmacy. Otherwise, patients could call in
+to the pharmacy to place orders. Orders would then
+be recorded onto paper order slips. For digital order
+submission, they could log in to the digital health app,
+Health Hub or Health Buddy or submit via FormSG,
+which was a secure digital form builder platform that
+enabled the pharmacy to customise a delivery form for
+data collection.3 4
+Figure 1 Monthly delivery load trend versus pharmacy waiting time trend in 2020 and 2021.
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150 3
+Open access
+The fish bone diagram (figure 2) summarises the issues
+encountered by the outpatient pharmacy in sustaining
+MDS operations.
+We defined the manpower input based on the average
+time taken per delivery for each of the identified processes
+in MDS. A process mapping was done to broadly define
+the main processes which were involved in a delivery order
+(figure 3). Within each main process, tasks which bear
+characteristics that promote automation were identified.
+These identified tasks, although clearly defined in job
+scope, are manual and highly repetitive. There was potential for existing information technology (IT) systems to
+provide patient details if delivery details were recorded
+electronically instead. Through a retrospective analysis of
+our delivery transaction record, we established that most
+delivery addresses are consistent with the database in the
+outpatient appointment system (OAS) which is linked
+to our prescribing and pharmacy system. Therefore, our
+interventions could potentially tap into the OAS to replicate and reduce work done by these existing roles.
+Our project aim was to substantially reduce the overall
+man-hours required for these MDS processes through
+digitising delivery details and automating the work done
+in these roles. We also aim to simplify the workflow within
+each process and eliminate manual roles through our
+interventions.
+MEASUREMENT
+Between December 2020 and January 2021, a time
+motion study was done to collect baseline data for the
+MDS processes. Pharmacy staff who were rostered for
+the respective MDS duties were instructed to record the
+number of delivery orders processed during their rostered
+time slots. The average time taken per order would then
+be calculated based on the average number of orders
+completed within the rostered duration. The exercise was
+conducted over a 1-month period to include all eligible
+pharmacy staff who could be involved. Self-reporting was
+chosen over the observation method for data recording
+Figure 2 Fish bone Diagram identifying potential root causes for unsustainable medication delivery service (MDS) operations.
+Figure 3 Medication delivery service (MDS) process mapping in a flow Chart.
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+4 Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150
+Open access
+feasibility purposes, and a longer period was considered
+to allow for a fairer representation of the overall productivity under the current processes. This also helped to
+minimise the Hawthorne effect.18
+The productivity post-intervention was measured based
+on the time taken to process each delivery order either
+by the rostered staff using the digitalisation tool or the
+automation tools itself. Zero minutes would be recorded
+if the role has been eliminated due to the intervention.
+DESIGN
+The team was led by the pharmacist in charge of the
+Medication Delivery Service along with five other
+pharmacists who were working in the Medical Centre
+Outpatient Pharmacy. A software engineer from
+Health Services Research (HSR) provided support
+for this project as subject matter expert for automation. Our project sponsor was our outpatient pharmacy manager who lent us her support to engage in
+discussions with external stakeholders to implement
+legacy changes and enlist support from our Allied
+Health Director to expedite our IT requests with the
+Integrated Health Information Systems (IHIS). The
+implementation of our automation relied on our
+highly adaptable outpatient pharmacy team.
+We reviewed the baseline data that was collected
+and rationalise that the implementation timeline for
+this Quality Improvement (QI) project would be in
+two phases, over a period of 1 year. Rapid Plan, Do,
+Study, Act (PDSA) testing cycles were adopted in our
+approach.19 The intent was to fully digitise the delivery
+order details in the upstream processes in the first
+phase, then observe the impact on the downstream
+processes before formulating new interventions. We
+engaged the pharmacy staff involved in these roles on
+the ground to ensure their active participation and
+ownership for successful implementation.
+STRATEGY
+Intervention phase 1 (January 2021 to June 2021)
+Patient Registration system
+Plan, Do, Study, Act (PDSA) cycle 1
+An electronic form was created using macros in Excel
+to eliminate order slips recording and the additional
+step of transcribing electronically.20 The recorded
+information was stored electronically on order
+submission. Delivery details could be auto-populated
+from database records the next time a patient identification number (ID) was entered.
+Plan, Do, Study, Act (PDSA) cycle 2
+Functional enhancements were added to improve
+usability and robustness. An auto-backup feature
+prevents data loss. An overwrite database function
+allowed users to update patient particulars if changes
+were noted. Confirmation prompts were added to
+remind users to verify information. Shortcut keys such
+as ‘details as per OAS’, ‘fridge item’ tick box and hot
+keys for ‘clear form’ were added on the electronic
+form to reduce repetitive data entry.
+SikuliX
+Plan, Do, Study, Act (PDSA) cycle 1
+For same-day clinic patients, the patient details on
+the physical prescription itself were also available on
+OAS. In collaboration with HSR, a visual automation
+tool called SikuliX was trialled to automate the data
+entry process. This programme would identify and
+interact with graphical user interface (GUI) components on the OAS to extract and input delivery details
+onto Excel records based on the list of patient IDs
+collated from the submitted physical prescriptions.21
+Plan, Do, Study, Act (PDSA) cycle 2
+Ground user feedbacks that the SikuliX programme
+would halt unexpectedly during auto-population of
+delivery details. Script modifications to account for
+specific conditions or inter-variability in interface
+across computers were executed with guidance from
+HSR’s developer to improve reliability and robustness
+of the process, and an auto-save function was added to
+prevent data loss during programme halt.
+FormSG
+Plan, Do, Study, Act (PDSA) cycle 1
+The initial extraction process for FormSG orders was
+cumbersome as orders were extracted via email for
+printing to facilitate order screening and manual data
+entry subsequently. To eliminate data entry, a JavaScript
+application by FormSG was used to export delivery details
+into Excel for processing.
+Plan, Do, Study, Act (PDSA) cycle 2
+Email extraction and printing of FormSG orders were still
+necessary for downstream MDS processes. A new script
+application was created in collaboration with the IHIS
+developer to generate print-ready FormSG orders files
+and export delivery details into Excel, processing became
+instantaneous.
+Intervention phase 2 (July 2021 to December 2021)
+Up to June 2021, the interventions implemented during
+phase 1 were sustained and could maintain accuracy
+of delivery details. Generation of delivery labels from
+patients details became smoother as delivery details were
+fully digitised and delivery orders could be consolidated
+easily. However, the downstream process of bagging and
+dispatch was still hindered by the reliance on physical
+documents for patient information matching, and the
+generation of pharmacy bills was a potential rate-limiting
+step.
+Under the improved workflow, prescriptions processed
+through SikuliX and FormSG slips were still retained
+for patient information matching by the ‘sealer’ before
+affixing the delivery label and sealing the parcel
+(figure 4). The inclusion of pharmacy bills in the delivery
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150 5
+Open access
+parcel was still required to provide patients with price
+information of their delivery order(s). We identified
+the pharmacy billing step to be a separate process from
+the MDS operations that could be performed after the
+delivery order was keyed into the system for packing and
+dispensing. Hence, bagging and dispatch to assemble the
+delivery parcel could only start once the delivery labels
+are generated, delivery orders are dispensed, and pharmacy bills are printed.
+1) Eliminating repetitive patient information matching
+Plan, Do, Study, Act (PDSA) cycle 1: using Macros to eliminate
+patient information matching
+Tapping on the successful use of macros in Excel in the
+electronic order form from phase 1, the team explored
+developing new macro functions by programming on
+Visual Basic Editor to replicate and consolidate the
+patient information matching function involved in
+the current workflow.22
+The new macros function for the delivery transaction record in Excel enabled systematic generation
+of dispensing order sheets with their corresponding
+delivery labels. This enabled pharmacy dispensers to
+take over the role of ‘bagger’ to bag up dispensed
+medications and ‘sealer’ to affix delivery labels before
+sealing off the parcels. The team sought feedback
+from the dispensing staff to keep the workload per
+order sheet manageable. The consensus was to keep
+to a maximum of eight patients per dispensing order
+sheet with their corresponding delivery labels.
+Separately, another new macro function for the work
+order Excel enabled the ‘dispatcher’ to scan barcodes on
+delivery labels to highlight the corresponding delivery
+order numbers on Excel when accounting for parcels
+prior to dispatch.
+Plan, Do, Study, Act (PDSA) cycle 2: eliminating pharmacy bills in
+parcels
+The delivery parcel could not be sealed off by the pharmacy dispenser as it was still pending inclusion of the pharmacy bill. To address this issue, the team, together with
+our project sponsor, engaged the stakeholders from the
+Business Office and Finance Department for consensus
+to exclude pharmacy bills from delivery parcels. Patients
+may access the pharmacy bills for their delivery orders
+and make payments electronically via the digital health
+app—Health Hub or Health Buddy. The pharmacy would
+continue to print bills and mail them out separately
+Figure 4 Quality improvement for phase 2.
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+6 Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150
+Open access
+by post until the stakeholders were able to review and
+approve for the complete removal of sending out pharmacy bills to patients. Under the new workflow (figure 4),
+the pharmacy dispenser could seal off the delivery parcel
+after dispensing the medications and pasting the corresponding delivery labels.
+2) Switching to the next day delivery model
+Despite the automations from the earlier PDSA cycles,
+ad hoc new delivery requests or urgent changes to
+delivery timing or date were still disruptive to operations. Also, there was recurring feedback from patients
+regarding late deliveries and requests for earlier
+delivery timeslots. The current same-day dispatchdelivery arrangement involved CGH as the dispatch
+point. Couriers would come in at least 1 hour before
+each delivery time slot (2–6 PM, 6–10 PM). This model
+was originally preferred as pharmacy offered same day
+or next day urgent delivery to clinic patients during
+the early days of COVID-19. The project team reviewed
+the suitability of the current model and engaged the
+Agency of Logistics and Procurement Services which
+contracted the current vendor for courier services to
+explore alternatives within the scope of work in the
+current contract.
+A new dispatch for next day delivery model was
+introduced in January 2022 which relocated the
+dispatch point to the courier’s warehouse. Ambient
+and cold chain storage of the medication parcels
+were maintained in accordance with Singapore Standard 644 (SS 644): guidelines for supply and delivery
+of medication at the vendor’s warehouse.23 Delivery
+orders for all timeslots were accounted via bar code
+scanning by the ‘dispatcher’ before dispatching to
+the collection driver once daily in the late afternoon.
+Parcels were transported back to the warehouse for
+sorting and route planning before delivery the next
+working day. Couriers would collect medication
+parcels from the warehouse and return failed deliveries for rescheduling. Patients were advised to liaise
+directly with the courier for rescheduling of failed
+deliveries or upcoming deliveries if the delivery date
+was within three working days’ time to reduce unnecessary follow-up processing on the pharmacy’s end.
+Furthermore, a new delivery time slot (10 AM–2 PM)
+could be introduced to maximise the utility of the
+courier service and improve convenience for patients.
+RESULTS
+An independent t-test was used to determine the statistical significance of the results before and after interventions for both QI phases.
+The improvement made by the respective interventions
+from phases 1 and 2 was represented in the control chart
+(figure 5) over a 1-year period.
+At the end of the PDSA cycles during phase 1, the
+average time taken per order improved from between
+0.90 and 2.15min to between 0.08 and 0.1min depending
+on the ordering method (table 1)(p<0.05). The variance
+(represented by error bar in figure 5) for the time taken
+for data entry from order slip using the Pharmacy Registration System (PRS) and prescription via SikuliX respectively reduced by 10%.
+Figure 5 Progress of time taken for each medication delivery service (MDS) process after interventions.
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150 7
+Open access
+For the second phase of QI, the overall average time
+taken per order for bagging and dispatch improved from
+2.7min per delivery order to 0.28min per order (p<0.05).
+There were corresponding 15% and 10% reduction in
+variances for bagging of medication and matching of label
+with the help of Excel in macros in transaction records to
+consolidate the role of ‘bagger’ and ‘sealer’.
+The implementation of PRS, SikuliX and FormSG
+collator enabled the data entry and order collation to be
+more efficient and accurate. The PRS helped to digitise
+delivery details and eliminated additional manual transcribing from order slips. The initiation of PRS enabled
+pharmacy staff to perform data entry of new order
+requests in real time, and the creation of electronic database from PRS significantly sped up retrieval of delivery
+order details for patients.
+The quality improvement effort from phase 2 was
+contingent on the adoption of the digital tools from phase
+1 which enabled the full digitisation of delivery details
+recording. The consolidation of roles only incurred an
+additional 0.18-min workload per order for the pharmacy dispenser. Adopting barcode scanning of delivery
+labels to account for parcels on the work order Excel
+greatly improved accuracy, eliminated time variance and
+reduced time taken per order by 80%. It also promoted
+more autonomy for the ‘dispatcher’ in helping to track
+and reconcile missing parcels.
+The switch to the next-day delivery model has reduced
+phone calls regarding amendment of delivery timings,
+rescheduling of failed deliveries and checking of delivery
+status. Patients would receive system-generated SMS
+reminders regarding their delivery on the morning of
+delivery, and the customer service number of the courier
+would be provided as well.
+Overall, feedback from our pharmacy staff was positive
+despite many rounds of workflow changes since January
+2021. Pharmacy technicians and assistants were receptive
+towards adopting the digital tools and even provided user
+feedback to further improve the user experience. Sufficient user trainings were conducted to ensure full participation from the pharmacy team. The interventions from
+our QI project were sustained and contributed to cumulative 11.8-man-hour savings on average per day, more than
+50% of our initial project aim. Digitisation of delivery
+order details enabled accurate real-time tabulation and
+effective control of daily delivery load for manpower optimisation of MDS operations. Pharmacy could thus plan
+ahead for extended weekends due to public holidays
+whereby sharp spikes in delivery requests were usually
+expected or even unexpected prolonged high staff
+absences.
+In a separate manpower project in January 2022, the
+streamlined MDS processes allowed for the outpatient
+pharmacy roster to be reorganise into four smaller teams
+Table 1 Average time taken for the respective medication delivery service (MDS) process with respect to the PDSA cycle
+Phase 1 (January 2021 to June 2021)
+Average time taken per order (minutes) Average number of orders to data
+entry per day
+Average time saved per day
+(minutes) Previous workflow PDSA cycle
+Data entry from order slip Data entry via PRS 63 56.7
+1.8±0.36 0.90±0.09
+Data entry from prescription Data entry via SikuliX 52 33.8
+0.90±0.09 0.25
+Data entry from FormSG slips Process via FormSG collator 75 161.25
+2.15 0
+Total man-hour savings per day ≈ 4.2hours
+Phase 2 (July 2021 to December 2021)
+Previous workflow PDSA cycle Average number of orders per day Average time saved per day
+(minutes)
+Bagging medications Bagging medications after dispensing 190 171
+1±0.25 0.10±0.01
+Match the delivery label to the
+medication
+Affix the delivery label by the dispenser 79.8
+0.5±0.10 0.08±0.008
+Match the invoice to the package Post out the invoice separately 133
+0.7±0.14 0
+Manual account against order paper Barcode scan label to account 76
+0.5±0.1 0.1
+Total man-hour savings per day ≈ 7.6hours
+PDSA, Plan, Do, Study, Act.
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+8 Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150
+Open access
+to cater to MDS operations on a weekly rotation. The
+team-based approach offered pharmacy staff respite from
+direct patient fronting duties, which proved effective in
+improving staff well-being and morale. A staff perception
+survey was conducted among 26 staff 1 year postimplementation. The majority of employees reported positive outcomes across all six measured aspects (figure 6).
+More than 90% of the staff also felt that they experienced
+improved satisfaction at work after starting the teambased roster.
+The balancing measures tracked in this project were the
+average pharmacy waiting time for medication collection by
+month (figure 1). The manpower savings from this project
+were mainly targeting pharmacy technicians and assistants
+who were involved in either upstream or downstream of
+MDS operations. More than half are not involved in counter
+dispensing. Our team noted high turnover of pharmacist,
+pharmacy technician and assistants in similar proportions
+which could have affected the waiting time as pharmacies face
+declining manpower resources. The overall high turnover
+was found to be related to growing fatigue due to COVID-19’s
+impact at the workplace.24 25 There was no significant correlation found between the implementation of PDSA cycles from
+both phases on pharmacy waiting time.
+LESSONS AND LIMITATIONS
+Lessons Learnt
+Our project has demonstrated the positive impacts of process
+automation in productivity and accuracy. The project could
+not have happened without inter-departmental collaboration from HSR and IHIS during phase 1 to trial out RPA via
+SikuliX and to develop the FormSG order extraction process
+respectively.
+Although this project was driven by the need to reduce
+manpower input for MDS, the experience gained from using
+automation tools has led the team to spread their applications
+in other areas within pharmacy. A SikuliX script was written to
+automate data extraction from the pharmacy system for stock
+tallying during audits. This eliminated manually searching
+and recording of stock levels for each item, leading to significant time savings. Electronic forms were created using
+macros in Excel for the purpose of recording patient’s ID
+when top-up prescriptions were handed over from different
+clinics using a time stamp. This sped up information retrieval
+when accounting for the possession of prescriptions before
+supplying top-up medications to patient. Therefore, these
+digital tools are versatile and can be applied in a variety of
+ways to improve productivity and reduce manpower hours
+spent on repetitive manual work in pharmacy.26
+Gathering feedback from ground staff and regular updates
+on the workflow changes during roll calls was necessary to
+keep them engaged since the start of the project. Data-driven
+decision-making helped convince all parties to adopt the new
+digital tools quickly.
+Limitations
+Due to the operational nature of data collection for the MDS
+processes before and after the PDSA cycles, it is possible for
+errors arising from transcription mistakes, variability in staff
+efficiency and external factors involving language barriers
+or complex prescription orders to contribute to longer
+time taken for each process. Other external factors such as
+unanticipated system downtimes resulting in delivery data
+loss remained unaddressed as the back-up data needs to
+be reconciled manually once a downtime is identified. This
+underscores the need for a more robust error-handling
+process and improved user feedback mechanism to enable
+timely modifications to the Excel macros script, enhancing its
+reliability and minimise errors.
+High cost and long lead time for system enhancements
+remained a major hurdle in improving productivity for new
+pharmacy services which emerged due to COVID-19.26 It is
+important to note that no capital expenditure (Capex) was
+incurred to purchase new systems for this QI project. The
+development of these digital tools incurred man-hours from
+our project team, HSR and IHIS.
+We believe that streamlining MDS digital platforms for
+patients is the long-term solution to keep MDS operations
+lean and sustainable. Based on the overall ease of collating
+patient and delivery details, Health Buddy and Health Hub
+are the preferred platforms because the enhanced Medicine
+Order Service feature allows patient to retrieve prescription
+Figure 6 Survey result on staff perception towards team-based roster for medication delivery service (MDS) operations.
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+Ng KHH, et al. BMJ Open Quality 2025;14:e003150. doi:10.1136/bmjoq-2024-003150 9
+Open access
+records in terms of medication balance from our pharmacy
+systems when placing delivery orders. 27 Patient education
+to address potential barriers towards the adoption of Health
+Buddy and Health Hub is the next potential area of focus for
+the team.
+CONCLUSION
+The adoption of digital and automation tools to record
+delivery orders electronically was critical in enabling downstream interventions to improve the overall productivity of
+MDS. The key motivation behind the project was to keep
+MDS operation sustainable by simplifying work processes and
+eliminating manual roles performing repetitive tasks.
+The interventions proposed required technical expertise
+from the HSR and IHIS for development and participation
+from an adaptable pharmacy workforce for successful implementation. This project demonstrated how automation
+could be implemented in a zero-cost manner using existing
+hospital resources.
+The digital transformation of MDS provides insights on
+adjusting manpower structure to expand the scalability of
+MDS to cope with higher patient load in future. As MDS
+gains prominence as an important alternative for medication
+collection due to its rapid expansion due to COVID-19, it is
+crucial for pharmacy to expand its capacity and IT capabilities to cope with higher workload from both MDS and walk-in
+patients. The team is looking into system enhancements to
+further integrate MDS as part of the patient journey in the
+SOCs.
+Contributors WJ and NKH both contributed to the design and writing of this
+quality improvement report. WJ and NKH both contributed to data collection and
+interpretation of the results of this study. NKH was the main author of the submitted
+report. Both WJ and NKH were involved in editing the report for clarity and details.
+NKH submitted the report and takes responsibility for the overall content. BAS was
+the guarantor for this project.
+Funding The authors have not declared a specific grant for this research from any
+funding agency in the public, commercial or not-for-profit sectors.
+Competing interests None declared.
+Patient and public involvement Patients and/or the public were not involved in
+the design, conduct, reporting or dissemination plans of this research.
+Patient consent for publication Not applicable.
+Ethics approval Not applicable.
+Provenance and peer review Not commissioned; externally peer-reviewed.
+Data availability statement Data are available in a public, open access repository.
+Data are available upon reasonable request.
+Open access This is an open access article distributed in accordance with the
+Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which
+permits others to distribute, remix, adapt, build upon this work non-commercially,
+and license their derivative works on different terms, provided the original work is
+properly cited, appropriate credit is given, any changes made indicated, and the use
+is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ORCID iD
+Kian Hong Hong Ng http://orcid.org/0009-0008-3102-2954
+REFERENCES
+1 Cgh.com.sg. 2019. Available: https://www.cgh.com.sg/news/patientcare/better-quicker-care-at-cghs-new-centre
+2 Begum S, Chua N. S’pore healthcare workers feel the strain of
+manpower crunch amid rise in covid-19 cases. The Straits Times;
+2021. Available: https://www.straitstimes.com/singapore/health/
+spore-healthcare-workers-feel-the-strain-of-manpower-crunch-amidrise-in-covid-19
+3 Patients to benefit from improved medication access and better
+medication literacy. Singhealthacademy.edu.sg; 2019. Available:
+https://www.singhealthacademy.edu.sg/news/patient-care/
+patients-to-benefit-from-improved-medication-access-and-bettermedication-literacy
+4 FAQs for health buddy - singhealth. Singhealth.com.sg; 2019.
+Available: https://www.singhealth.com.sg/patient-care/patientvisitor-info/pages/health-buddy-faqs.aspx
+5 FormSG: from idea to hit platform in a year. Gov.sg; 2024. Available:
+https://knowledge.csc.gov.sg/ethos-issue-21/formsg-from-idea-tohit-platform-in-a-year/
+6 Spinks J, Jackson J, Kirkpatrick CM, et al. Disruptive innovation in
+community pharmacy - Impact of automation on the pharmacist
+workforce. Res Social Adm Pharm 2017;13:394–7.
+7 Schneider PJ, Pedersen CA, Scheckelhoff DJ. ASHP national
+survey of pharmacy practice in hospital settings: Dispensing and
+administration-2017. Am J Health Syst Pharm 2018;75:1203–26.
+8 Weir NM, Newham R, Bennie M. A literature review of human factors
+and ergonomics within the pharmacy dispensing process. Res Social
+Adm Pharm 2020;16:637–45.
+9 Zayas-Cabán T, Haque SN, Kemper N. Identifying Opportunities for
+Workflow Automation in Health Care: Lessons Learned from Other
+Industries. Appl Clin Inform 2021;12:686–97.
+10 Hospital overview. Com.sg; 2024. Available: https://www.cgh.com.sg/
+about-us
+11 Tiffany Fumiko Tay. Coronavirus: public healthcare institutions waive
+medicine delivery fees for patients. The Straits Times; 2020. Available:
+https://www.straitstimes.com/singapore/coronavirus-public-healthcareinstitutions-waive-medicine-delivery-fees-for-patients
+12 News highlights. Ministry of Health; 2024. Available: https://www.
+moh.gov.sg/news-highlights/details/medication-delivery
+13 Risk assessment raised to dorscon orange. Ministry of Health;
+2024. Available: https://www.gov.sg/article/additional-measuresintroduced-with-dorscon-orange
+14 Circuit breaker to minimise further spread of COVID-19. Ministry of
+Health; 2024. Available: https://www.moh.gov.sg/news-highlights/
+details/circuit-breaker-to-minimise-further-spread-of-covid-19
+15 MOH. News highlights. n.d. Available: https://www.moh.gov.sg/newshighlights/details/medication-delivery-services-available-to-patients
+16 MOH. News highlights. n.d. Available: https://www.moh.gov.sg/
+news-highlights/details/end-of-circuit-breaker-phased-approach-toresuming-activities-safely
+17 Ministry of Health. Moving into phase three of re-opening. 2024.
+Available: https://www.moh.gov.sg/newsroom/moving-into-phasethree-of-re-opening
+18 McCambridge J, Witton J, Elbourne DR. Systematic review of the
+Hawthorne effect: new concepts are needed to study research
+participation effects. J Clin Epidemiol 2014;67:267–77.
+19 Taylor MJ, McNicholas C, Nicolay C, et al. Systematic review of the
+application of the plan–do–study–act method to improve quality in
+healthcare. BMJ Qual Saf 2014;23:290–8.
+20 How to use excel macros to save time and automate your work.
+Computerworld. n.d. Available: https://www.computerworld.com/
+article/1614590/how-to-use-excel-macros-save-time-automate-work.
+html
+21 Github.io. 2024. Available: https://sikulix.github.io/docs/
+22 Differences between office scripts and VBA macros - office scripts.
+2023. Available: https://learn.microsoft.com/en-us/office/dev/scripts/
+resources/vba-differences
+23 Singapore Manufacturing Federation. News. 2024. Available: https://
+www.smfederation.org.sg/news/new-standards-launch-guidelinessupply-and-delivery-medicon
+24 MOH. News highlights. n.d. Available: https://www.moh.gov.sg/
+news-highlights/details/impact-of-covid-19-on-resignation-andrecruitment-of-healthcare-professionals/
+25 Tan C. More healthcare workers in S’pore quit amid growing fatigue as
+covid-19 drags on. The Straits Times; 2021. Available: https://www.
+straitstimes.com/singapore/politics/more-healthcare-workers-in-sporeresigning-amid-growing-fatigue-as-covid-19-drags
+26 Huang WL, Liao SL, Huang HL, et al. A case study of lean digital
+transformation through robotic process automation in healthcare.
+Sci Rep 2024;14:14626. Available: https://www.nature.com/articles/
+s41598-024-65715-9
+27 Chian L. SGH patients can now track medication balance inapp, collect medicine from selected fscs. The Straits Times;
+2022. Available: https://www.straitstimes.com/singapore/health/
+sgh-patients-can-now-track-medication-balance-in-app-collectmedicines-from-select-family-service-centres
+BMJ Open Quality: first published as 10.1136/bmjoq-2024-003150 on 24 March 2025. Downloaded from https://bmjopenquality.bmj.com on 7 November 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.

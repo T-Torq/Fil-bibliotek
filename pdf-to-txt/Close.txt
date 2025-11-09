@@ -1,0 +1,1034 @@
+Contents lists available at ScienceDirect
+Government Information Quarterly
+journal homepage: www.elsevier.com/locate/govinf
+Close encounters of the digital kind: A research agenda for the digitalization
+of public services
+Ida Lindgrena,⁎
+, Christian Østergaard Madsenb
+, Sara Hofmannc
+, Ulf Melina
+a Linköping University, Department of Management and Engineering, Sweden
+b IT University Copenhagen, Department of Computer Science, Denmark
+c University of Agder, Department of Information Systems, Norway
+ARTICLE INFO
+Keywords:
+Citizen–government interaction
+Digitalization
+Theory-building
+Public service
+ABSTRACT
+This paper contributes to e-government research by presenting a review and discussion on how digitalization of
+public services has affected the interaction between citizens and government. We argue for a conceptualization
+and critical reflection on the nature of the underlying interaction between citizens and public officials - the public
+encounter - that digital public services are developed to support. We apply a qualitative and hermeneutic approach and illustrate that digital public services change public encounters concerning when, where, and how
+interactions occur, what each actor does, and the skills required of them. By relating these changes to emerging
+digital technologies (e.g. data mining, machine learning, sensor technology, and service automation), we illustrate that while these new technologies carry the potential to further digitalize service provision and fulfill the
+democratic goals of digital government, authorities can apply the same technology to restrict, control, and
+surveil citizens. Based on a critical discussion on what digitalization might entail for society, we identify problem
+areas arising from this development and propose a research agenda for understanding this phenomenon further.
+We raise questions and ethical concerns regarding accountability and reskilling of citizens and public officials as
+public service provision becomes citizen self-service.
+1. Introduction and background
+Public organizations worldwide are adopting digital technologies to
+support the public encounter; the interaction between citizens and public
+officials (Goodsell, 1981). New opportunities for digitalization of public
+service provision associated with data mining, machine learning, sensor
+technology, and service automation have been discussed with great
+curiosity and optimism by scholars and policymakers alike (Matheus,
+Janssen, & Maheshwari, 2018; European Commission, 2016). These
+emerging digital technologies may fulfill the primary goals for digital
+government, which include improving efficiency and service quality by
+reducing service lead times, increasing transparency, and offering
+seamless service provision across organizations (cf. Layne & Lee, 2001).
+Rapid technological development and the drive of policy makers towards automatization and digital self-service make it imperative for egovernment scholars to understand how digitalization influences the
+interaction between citizens and public authorities in the context of
+public service provision.
+Within e-government, the digitalization of public services has been
+studied in areas such as design (Grimsley & Meehan, 2007), channel
+choice (Ebbers, Pieterson, & Noordman, 2008), the digital divide
+(Ebbers, Janssen, & Van Deursen, 2016; Helbig, Gil-García, & Ferro,
+2009), and value creation (Nielsen & Persson, 2017). However, few
+researchers have addressed the consequences of digitalization for one of
+the core activities at hand—the interaction between citizens and public
+officials. This gap has been observed both at the empirical and theoretical level. Numerous empirical studies have been conducted on egovernment diffusion among government organizations (West, 2004;
+Norris & Reddick, 2013) and citizens' willingness to adopt e-government services (Hofmann, Räckers, & Becker, 2012). However, such
+adoption studies often treat digital public services either as hypothetic
+or generic phenomena, thereby ignoring the context and diversity of eservices and their importance for citizens (Hofmann et al., 2012;
+Madsen, Berger, & Phythian, 2014). Furthermore, scholars rarely go
+beyond the point of adoption, mostly studying e-services from either
+the organizational or citizen perspective rather than analyzing the interaction occurring directly between governments and citizens (Madsen
+& Kræmmergaard, 2015a). Additionally, literature reviews have repeatedly called for more native theory development within e-government (Bannister & Connolly, 2015; Heeks & Bailur, 2007) and holistic
+https://doi.org/10.1016/j.giq.2019.03.002
+Received 31 August 2018; Received in revised form 1 March 2019; Accepted 1 March 2019
+⁎ Corresponding author at: Linköping University, Department of Management and Engineering, SE-581 83 Linköping, Sweden.
+E-mail addresses: ida.lindgren@liu.se (I. Lindgren), chrm@itu.dk (C.Ø. Madsen), sara.hofmann@uia.no (S. Hofmann), ulf.melin@liu.se (U. Melin).
+Government Information Quarterly 36 (2019) 427–436
+Available online 12 March 2019
+0740-624X/ © 2019 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+T
+studies of the interplay between systems and individuals (Meijer &
+Bekkers, 2015).
+Hence, both empirical and theoretical gaps exist in the e-government literature concerning how digitalization influences public services. The present study addresses this gap by analyzing the interaction
+between citizens and public authorities in relation to digital public services; i.e., public services provided or mediated through internet-based
+technology (Jansen & Ølnes, 2016; Lindgren & Jansson, 2013). In order
+to advance our understanding of the interaction between citizens and
+public organizations, this paper departs from the notion of the public
+encounter defined by Goodsell (1981, p. 4) as “the interaction of citizen
+and official as they communicate to conduct business”. We claim that
+digitalization has altered the underlying conditions for public encounters and call for the analysis and conceptualization of how the
+digitalization of public services has affected, and continues to affect, the
+interaction between citizens and public authorities. For this purpose,
+the aim of this paper is to discuss the possible consequences of digital
+public services for the public encounter and propose a research agenda
+for studying this phenomenon further. The research questions guiding
+our work are: (1) How has digitalization of public services affected the
+public encounter? (2) What are the unaddressed research areas concerning the digitalization of the public encounter?
+The present study is important for a number of reasons. First, we
+contribute to e-government research by presenting a theoretical framework for understanding the public encounter and discussing how
+digital public services can affect the interactions between citizens and
+governments. We further contribute to a critical discussion on what
+digitalization of public services might entail for society by raising
+questions and ethical concerns regarding the accountability and reskilling of citizens and public officials as digital public service provision
+evolves.
+This paper is organized in the following manner. In the second
+section, we present our qualitative and hermeneutic research approach.
+In the third section, we describe the characteristics of the traditional
+public encounter. In the fourth section, the results of our literature
+review are presented, relating the digitalization of public services to
+four aspects of the public encounter: (1) its nature and purpose; (2) its
+communication forms and settings; (3) the central actors involved; and
+(4) its initiation, duration, and scope. Based on these discussions, we
+return to our research question in the fifth section and conclude with a
+discussion on the main issues, summarizing these in a research agenda
+for future research on this topic. In the sixth and last section, some final
+comments and limitations regarding this work are discussed.
+2. Research approach
+This paper is conceptually oriented and applies a qualitative and
+hermeneutic research approach (Klein & Myers, 1999). As initially
+stated, this paper rests on the underlying assumption that the accelerated digitalization of public services affects or even changes the
+logic and nature of the public encounter. Digitalization can be understood as “a sociotechnical process of applying digitizing technologies to
+broader social and institutional contexts”, where digitizing refers to “a
+technical process of converting analogue signals into a digital form”
+(Tilson, Lyytinen, & Sørensen, 2010, p. 749). Hence, we perceive the
+digital interaction between the citizen and the public official as being
+part of a sociotechnical system (Trist, 1981), where digitalization requires particular prerequisites and enables outcomes in both technical
+and social aspects of the system (Henman, 2010).
+Following the hermeneutic methodology suggested by Boell and
+Cecez- Kecmanovic (2014), we conducted a literature review based on
+the principles of the hermeneutic circle for analysis and interpretation.
+This is a circular approach that involves the following iterative steps:
+(1) reading; (2) mapping and classifying; (3) critical assessment; (4)
+argument development; (5) research problem/questions; and (6)
+searching (see Boell and Cecez- Kecmanovic (2014) for further details).
+This approach acknowledges that the researcher has accumulated
+knowledge and experience that can be used as a starting point for the
+review process. By reading (1) scientific papers on the chosen topic in a
+systematic and analytical manner, the researcher can classify relevant
+ideas, findings, and contributions within a body of literature. Thereafter, classification and mapping (2) can be performed using various
+types of analytical tools. In our case, we used the framework presented
+by Goodsell (1981) as a conceptual framework guiding the analysis (we
+motivate our choice of framework below). The following step involves a
+critical assessment (3) and evaluation of the state of knowledge in relation to the studied topic. Building on this assessment, problems in the
+established knowledge are identified and arguments (4) for a research
+gap are developed. These arguments, in turn, can be formulated in research questions or problem areas (5) for further study. Intertwined
+with these steps is the continuous search (6) for additional literature
+that can inform the analysis and understanding of the phenomenon at
+hand.
+In line with Boell and Cecez- Kecmanovic (2014), we read and
+searched for work on the digitalization of public services and the public
+encounter in an iterative and reflexive manner (Alvesson & Sköldberg,
+2009). The search for literature was inherently intertwined with its
+analysis and interpretation, and guided by our research questions. We
+began our search in the e-government research field, and expanded the
+search to public administration, and information systems—the fields
+from which e-government research originated (Heeks & Bailur, 2007).
+Concerning the classification and mapping of literature, we found
+several conceptualizations of potential interest to our study from the egovernment and public administration field that could serve as analytical tools. These included the public encounter (Goodsell, 1981),
+evaluation and satisfaction with the bureaucratic encounter (Katz,
+Gutek, Kahn, & Barton, 1975), the activities involved in ‘the processing
+of people’ (Hasenfeld, Rafferty, & Zald, 1987), the service encounter
+(Giesbrecht, Schwabe, & Schenk, 2017), and established discussions of
+street-level bureaucracy and discretion (Bovens & Zouridis, 2002; Busch
+& Henriksen, 2018; Lipsky, 2010). We also identified studies of service
+and consumer encounters in the private sector of e-commerce (Meuter,
+Ostrom, Roundtree, & Bitner, 2000; Moody, Lowry, & Galletta, 2017;
+Pelet & Papadopoulou, 2012; Piccoli, 2016) discussing self-service, affordance, trust, website design, and values. We chose Goodsell's (1981)
+conceptualization of the public encounter as the analytical tool for our
+work because we found it to be the most suited to answer our first
+research question: How has digitalization of public services affected the
+public encounter? Our interpretation of Goodsell's framework is presented in Section Three. While Goodsell's work is relatively unknown
+within e-government research, it is often applied within the fields of
+public administration and political science. Applying Goodsell's framework is applicable to this study for several reasons. Unlike the
+aforementioned scholars, Goodsell presents an explicit definition of the
+public encounter as a concept. Additionally, he presents four general
+dimensions of the public encounter. These are worthy of further investigation and theory building as they represent a starting point that
+allows us to examine each dimension in relation to how it is affected by
+digitization. Finally, Goodsell presented his definition of the public
+encounter in 1981, decades prior to digital self-service applications
+being developed. This conceptualization of the traditional analogue
+public encounter serves as a conceptually robust starting point for investigating and analyzing the public encounter ‘before’ and ‘after’ digitalization. However, we do not claim that Goodsell (1981) represents
+all of the previous work related to the public encounter. The aforementioned conceptualizations may—and have—been applied to study
+other aspects of the encounter. However, they are not as useful for our
+research since they are concerned with particular aspects surrounding
+the encounter rather than the encounter itself.
+Building on a critical assessment of the identified literature, we
+strived to find coherent arguments and distill problems areas concerning digitalization of public services as a means to answer our
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+428
+second research question: What are the unaddressed research areas concerning the digitalization of the public encounter? The synthesized outcome
+of our interpretation and analysis of the literature is presented in
+Section 4. In addition, identified problem areas are presented in Section
+4 and subsequently discussed in terms of a suggested research agenda in
+Section 5. With this research agenda, we call for further work to expand
+our e-government research community's body of knowledge. Following
+Gregor (2006), our arguments and proposed research agenda serves as
+the core of a theory for analysis, explanation, and prediction of how and
+why the digitalization of public services has affected—and will continue to affect—the public encounter.
+3. Understanding the traditional public encounter
+We use the concept of public encounter, as conceptualized by
+Goodsell (1981), as our point of departure. The public encounter serves
+as a baseline for understanding the stereotypical traditional analogue
+public encounter, and thus provides a starting point for investigating
+and analyzing the public encounter ‘before’ and ‘after’ digitalization.
+Goodsell (1981) defines the public encounter as “the interaction of citizen and official as they communicate to conduct business” (p. 4) and
+proceeds to outline and delimit four general aspects of the encounter:
+(1) the nature and purpose of the encounter;
+(2) the communication form(s) and setting(s) in which the encounter
+occurs;
+(3) the central actors involved; and
+(4) the encounters' initiation, duration, and scope.
+We will briefly outline these four general aspects of the public encounter below.
+Concerning the nature and purpose of the public encounter, the public
+encounter covers the purposive and dyadic interpersonal interaction
+between a private citizen and a government official. This interaction
+occurs to meet a specific end and is neither random nor accidental. The
+“public” refers to the specific setting of the encounter, implying that
+citizens are members of the “public” and that they interact with government officials (and not members of private organizations). Goodsell
+focuses on citizens' interactions with “executive or administrative personnel” (Goodsell, 1981, p. 5) in relation to administrative services,
+such as tax collection or public benefits. Areas pertaining to politics
+such as voting, lobbying, asking citizens for advice, and generally interacting with elected officials are excluded, as is interaction with the
+judicial system (judges). Goodsell (1981) divides the purpose of public
+encounters into three broad categories:
+• The exchange of information, such as citizens inquiring about public
+services or government employees conducting census studies.
+• The provision of public services, either by citizen request or through
+outreach programs.
+• Control or constraint, which is typically initiated by government. This
+category pertains to interactions intended to limit or restrict citizens'
+behavior (e.g., imposing penalties and tax collection).
+The second aspect concerns the communication forms and settings of
+the public encounter. Goodsell (1981) presents different types of media
+and settings (or communication channels) where an encounter may
+occur: face-to-face, letters, telephone, or a combination. While the encounter typically takes place in an official setting such as a government
+agency, it can also occur in the citizen's home, or even out in public.
+Goodsell points out that the physical location of the encounter and how
+it is designed can affect the attitude and behavior of both the citizen
+and the public official.
+The third aspect of the public encounter concerns the central actors
+involved, referring to the dyadic nature of the encounter and the specific
+roles taken by the citizen and the public official involved in the
+interaction. There is a sharp contrast between the two sides, where “the
+public official has authority and is vested with legal powers; the citizen
+is a private individual standing alone before the sovereign state”
+(Goodsell, 1981, p. 5). Furthermore, for the citizen, the case addressed
+is likely to be of personal importance. Typically, it is a single case
+wherein the citizen is inexperienced in the task at hand (“an amateur”;
+Goodsell, 1981). In contrast, the official is a trained professional and
+expert on the task. For the public official, the interaction is just another
+case among many. The official has legal powers, but is simultaneously
+constrained by formal directives and rules, as well as informal norms
+for behavior and even supervision (Goodsell, 1981). On the other hand,
+the citizen has freedom of action in addressing the government in almost any way s/he wants. Similarly, Lenk (2002) argues that this
+asymmetrical relationship between citizen and public official often is
+very strong, particularly when the citizen depends on the outcome of
+the encounter for her/his livelihood. This asymmetrical relationship is
+highlighted as an important aspect of public service delivery and taps
+into other related discussions on the nature of public services. Public
+service provision does not occur in a free market where the citizen can
+choose between service providers (Hirschman, 1970), and citizens have
+certain constitutional rights that must be ensured through the rule of
+law and the fair distribution of social resources (cf. Fountain, 2001).
+The fourth aspect, the encounter's initiation, duration, and scope, acknowledges that both citizens and public officials can initiate an encounter. Goodsell (1981) applies the framework of Lefton and
+Rosengren (1966) to discuss the lateral and longitudinal dimensions of
+public encounters. The lateral dimension, or scope, covers the extent to
+which the underlying public service influences the citizen's life. This
+ranges from services only influencing limited aspects, such as renewing
+a driver's license, to covering the citizen's total needs through “total
+institutionalization” (e.g., being in a jail, hospital, or boarding school
+(Goodsell, 1981, p. 6). The longitudinal dimension covers the time span
+over which the encounter occurs. It can be brief or occur over a long
+period, as a singular event or as a sequence of repetitive events. Lefton
+and Rosengren (1966) argue that organizations have different—even
+contrasting—interests from their clients, making the lateral and longitudinal dimensions important because they are likely to have “significantly different impacts upon the internal structure and interpersonal processes of organizations, as well as upon extraorganizational relationships” (pp. 805–806).
+In summation, the public encounter refers to the purposive interaction between the citizen and public official as they communicate to
+transact matters of some mutual interest. While these interactions typically concern the exchange of information or provision of public
+services, they can also concern issues of control or constraint. The actors involved have scripted roles, and the relationship between them is
+asymmetrical; where public officials act as professionals with vested
+powers, and citizens act on behalf of themselves standing before the
+sovereign state. These interactions can occur through different media
+and channels and take place in different settings. We will now turn to
+how the digitalization of public services changes the media and communication channels, setting, and consequently our understanding of
+the public encounter itself.
+4. Relating digital public services to the public encounter
+In this section, we will attend to public encounters taking place in a
+digitalization context. We use the term digital public services to refer to
+public services provided using internet-based technologies wherein a
+citizen's interaction with a public organization is mediated partly or
+completely by an IT-system (Jansen & Ølnes, 2016; Lindgren & Jansson,
+2013). One of the core ideas driving the digitalization of public services
+is self-service (Layne & Lee, 2001; Madsen & Kræmmergaard, 2015b).
+Citizens should easily be able to access government data and services
+from their homes (or elsewhere) using IT artefacts. The need to
+streamline internal processes in government organizations to improve
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+429
+their efficiency is another driving force behind digitalization of public
+services. Hence, this development is fueled by the intent to create easier
+encounters for citizens and more efficient encounters for government
+organizations (Axelsson, Melin, & Lindgren, 2013). Thus, this concept
+refers to a heterogeneous phenomenon that varies in complexity and
+can be used for different purposes. In practice and research, digital
+public services are associated with multiple different terms, including egovernment service, e-service, public e-service, digital service, e-publicservice, and website channel (Lindgren & Jansson, 2013). Our application of the term ‘digital public service’ encompasses all of these terms.
+In the subsections below, we present the results of our hermeneutic
+literature review following the four aforementioned aspects of the
+public encounter. An overview of the main characteristics of the traditional public encounter and the digital encounter is provided in
+Table 1.
+4.1. Understanding the nature and purpose of the digital public encounter
+In the literature, we find empirical examples of how digital public
+services are used to serve all three purposes presented by Goodsell
+(1981); either alone, or in combination. The degree of interactivity and
+technical complexity of digital public services vary from clearly delimited and rather straightforward systems to large and highly complex
+systems (Jansen & Ølnes, 2016; Lindgren & Melin, 2017). To date, most
+digital public services have been designed to mimic their analogue
+predecessors (e.g., digital versions of paper-based forms (Heeks, 2006)).
+In fact, this is the most frequent purpose of digital public services
+(Eurostat, 2017). However, variation exists in the degree of human
+involvement in digital public service provision. The service might appear as being completely digital from the citizen's point of view, though
+most types of digital public services retain public official involvement
+in the service process for preparing cases and making formal decisions
+on service eligibility. For this reason, digital public services have previously been discussed in terms of being mere mediators of public services (Lindgren & Jansson, 2013), meaning that these systems provide
+citizens access to public services, though do not provide the actual
+service itself (Lindgren & Jansson, 2013). Using Goodsell's (1981) categories, this can be compared with the exchange of information.
+However, with emergent digital technologies, digital public services
+no longer merely exchange information. In other words, the purposes
+for digitalization have shifted over time to include providing public services. This implies that the entire service process is supplied through the
+digital channel, with examples including online applications for certificates and video-based meetings with public officials. In Scandinavia,
+health care is provided as a public service and digitalization has opened
+up new venues for doctor-patient interactions. Interestingly, with the
+increased use of digital services in general, the perception of a physical
+(face-to-face) meeting being required has somewhat changed, with digitalization enabling services that were previously unthinkable. This is
+apparent in the growing number of digital medical consultations (the
+Swedish National Board of Health and Welfare, 2018), where the patient can consult with medical staff through video-based conversations
+and receive prescriptions for medication. Not that long ago, it was
+unthinkable for medical staff to prescribe medication without a physical meeting with the patient. Through applications with secure
+identification and video conferencing solutions, the entire service process of consulting medical staff can be digitalized. In Scandinavia and
+beyond, the dawn of fully automated processes and systems is also
+apparent, wherein the entire service is provided digitally without the
+direct involvement of public officials (Wihlborg, Larsson, & Hedström,
+2016). With interconnected systems and better algorithms in place,
+automated digital public services have also been observed, wherein the
+system makes a formal decision and immediately communicates the
+decision to the user (Wihlborg et al., 2016). This development creates
+opportunities for more advanced uses of public service provision
+through citizen self-service.
+Goodsell (1981) presents tax collection and imprisonment as examples of the last purpose of public encounters; control and constraint.
+Indeed, in Scandinavia and elsewhere, citizens declare their taxes
+through digital services. Another example is online meetings between
+public officials and citizens that receive various forms of governmentsponsored financial support, where the citizen might be required to
+report job search activities to receive continued support. Moreover,
+electronic surveillance through bracelets is another example of digital
+services used for the control and constraint of citizens. The Chinese
+social credit system is a fourth example of digital public services being
+used to both control and constraint citizens' behavior (Liang, Das,
+Kostyuk, & Hussain, 2018). The type of social credit system implemented in China is enabled through a combination of various interconnected technologies, where the ability to generate and analyze
+large amounts of citizen data is one of the system's key components. In
+fact, new and upcoming opportunities for digitalization of public service provision associated with data mining, machine learning, sensor
+technology, and service automation carry the potential to shorten the
+lead time of services, increase transparency in their processes, and offer
+seamless service provision across organizations (European Commission,
+2016; Matheus et al., 2018). On one hand, by generating and analyzing
+large amounts of citizen data, these emerging digital technologies can
+create public services in which citizens' interactions with public authorities is simple, rapid, secure, and free from corruption. On the other
+hand, the very same advancements in technology can be used for radically different purposes, such as limiting access to public services,
+restricting and controlling citizens' behavior, and surveilling citizens'
+movements both offline and online (Heeks & Bailur, 2007; Madsen
+Table 1
+Main characteristics of the traditional public encounter and the digital encounter.
+Aspect Traditional public encounter Digital encounter
+Nature and purpose of
+encounter
+Exchange of information. Exchange of information.
+Service provision. Service provision.
+Control or constraint. Control or constraint.
+Communication form and
+setting
+Form: Letter, telephone call, office visit. Form: digital channels (e.g., websites, e-mail, IP telephony or video, chat, social
+media, mobile apps, etc.).
+Typical setting (place): in a citizen's home, a government
+office, or an institutional building.
+Typical setting (place): anywhere with internet access.
+Central actors involved Public official (executive or administrative personnel) and
+citizen.
+Self-service for citizens downplays the role of the public official. The public official
+can be completely replaced by digital technology. Providers and designers of
+technology are influential actors.
+Initiation, duration, and scope Can be initiated by either actor (public official or citizen). Can be initiated by either actor (public official or citizen), though typically by the
+citizen. Initiation may also be automated, without the involvement of human actors.
+Typically restricted to office hours. Can differ along longitudinal and lateral dimensions (regarding e.g., frequency and
+Can differ along longitudinal and lateral dimensions impact on citizen's life).
+(regarding e.g., frequency and impact on citizen's life).
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+430
+et al., 2014). We claim that these emerging technologies are neither
+good nor bad, but that public organizations' application of these technologies can significantly affect citizens' lives, either positively or negatively. We perceive this double nature of digital public services as a
+problem area that our research community must study further.
+4.2. Understanding the digital public encounter's communication form(s)
+and setting(s)
+According to Goodsell (1981), the public encounter can take place
+in different settings and through different communication forms. The
+most obvious effect of digital public services on the public encounter is
+that internet-based technologies enable new channels for communication. Prior to the introduction of digital public services, this interaction
+was primarily performed in person, by letter, or by telephone. Goodsell
+(1981) treats computers and digital technology as a part of the internal
+administrative processes. Since the 1960s, public sector organizations
+have been keen to adopt new technology to organize their work in more
+effective and efficient manners (Pieterson, Ebbers, & Madsen, 2017),
+such as storing and retrieving citizen data in shared databases. Additional functionalities have been added over time, and today, internetbased technologies can facilitate communication and interaction
+through various channels (e.g., digital post, e-mail, digital forms, chat,
+IP telephony, mobile applications, etc.). Moreover, citizens can submit
+information through online forms, resembling the exchange of physical
+letters by the mailing of written forms to a public organization. Information on various public services is now accessible from most devices with an internet connection, and citizens can search for information without interacting with public officials or visiting a physical
+location. Thus, digitalization of public service provision has changed
+the forms of citizen and public official communication. What is interesting about digitized public services is that they also change the setting
+of citizen and public official interaction.
+In the recent past, public service provision was very much associated with visiting an office at a particular time to meet with a particular public official. E-government solutions in the form of digital
+public services have changed the setting of the public encounter from a
+public official's office, to a technical device. For example, in
+Scandinavia, applications for parental benefit can be made online.
+Typically, the assessment of service eligibility is made automatically by
+the digital system. Only in deviant cases are public officials involved in
+the service process. For most parents in Scandinavia, the public service
+of applying and being granted parents' allowance is completely automated and thus resembles internet banking. This type of change is
+discussed by Pollitt (2012) in terms of digitalization changing the place
+of public service provision; a change for which the consequences are
+not well understood. What are the consequences of the interaction
+between citizens and their government being detached from the traditional place of government and moving into citizens' homes and devices? According to Pollitt (2012, p. 3), the privatization of public
+services—in combination with the virtualization of citizen-government
+relationships—has made the setting of citizens' interactions with the
+government unclear and “...very little thinking—academic or otherwise—seems to have been addressed to this issue”.
+4.3. Understanding the actors involved in the digital public encounter
+The traditional public encounter is a dyadic interaction with clear
+and scripted roles played by the citizen and the public official
+(Goodsell, 1981). This division also holds true for most digital public
+services. However, the roles appear to change in relation to digital
+public services. For traditional public encounters, as described by
+Goodsell (1981), the public official is a human professional that the
+citizen interacts with, either directly or indirectly. However, for the
+most extreme and archetypical digital public service, citizens are expected to serve themselves using the digital channel for interacting with
+their government (Madsen & Kræmmergaard, 2015b).
+Pollitt (2012) states that changing technologies in public service
+provision changes the role and tasks for both the public official and the
+public service user. The public official, instead of having tasks revolving
+around face-to-face meetings, may be faced with tasks that involve
+processing information at a computer, where the citizen served is distanced and anonymized. The public official can also become a support
+function by teaching and helping citizens with self-service applications
+(Pors, 2015). More importantly, the traditional case worker may be
+fully replaced by technology. The automation of administrative processes is increasingly perceived as a way to make public administrations
+more effective and efficient. We have the technology in place to automate digital public services to a larger extent than today, and the legal
+frameworks currently hindering these implementations are slowly
+being rewritten in Scandinavia, and elsewhere, to enable further automation (Busch, 2018). Although automated public services can yield
+benefits, previous research in this area also calls for caution. Automation of public services have been found to exclude groups of citizens
+from access to public service, and may ultimately undermine the legitimacy of the organization providing the service (Wihlborg et al.,
+2016). The primary concern regarding public service provision automation concerns cases wherein case worker discretion (cf. Lipsky,
+2010) is used to prepare a case and make formal decisions on service
+eligibility. For example, for many social services, legal frameworks
+must be interpreted in relation to each particular case in order to assess
+service eligibility. This implies that decision-making regarding service
+eligibility often involves some type of discretion on the part of public
+officials (Lipsky, 2010). It remains unclear if this type of public service
+can and should be digitized. Some scholars warn that automation of this
+type of service might create public services that are unnecessarily exclusive for ‘atypical’ citizens (cf. Wihlborg et al., 2016); there is a risk
+that these systems are designed in a way that implicitly reinforces the
+norms of some actors in society and excludes others. Automation is also
+thought to lead to more interesting work content for case workers, and
+there are examples of how automation is used for so-called “easy processes”, leaving the cases requiring more discretion to case workers
+(Busch & Henriksen, 2018). However, this strategy can also backfire.
+For example, the automation of simple cases at one Swedish agency led
+to higher stress levels among employees (Giritli Nygren, Axelsson, &
+Melin, 2014). Due to automation of simple cases, some case workers
+were laid off, while the remaining personnel were left to resolve deviant
+and difficult cases (Giritli Nygren et al., 2014).
+When attempting to understand digital public service provision, it is
+important to observe that the public official is no longer only a human,
+but can also be an artefact. This aspect of digital public services is a
+potential problem area that requires further study. The public official
+serving as a programmed system—as opposed to a human actor with
+whom citizens can discuss and negotiate public services—calls for a
+reinterpretation of the asymmetrical relationship between the citizen
+and the public official. If the citizen is interacting with automated
+systems, where algorithms make decisions, the asymmetrical power
+relationship might become even more asymmetrical. For the citizen, it
+can become difficult to know where to turn to obtain an explanation of
+what a particular decision means, and it may be impossible to negotiate
+the decision. Human public officials, who are part of the process, can
+(at best) help translate the situation. However, strictly programmed
+systems can (again, at best) reduce inequalities by treating all citizens
+equally.
+Furthermore, new technologies change the public service user
+(Pollitt, 2012). Indeed, digital public services have the potential to increase access to public services for citizens who have previously found
+it difficult to interact with the public. Citizens confined to their homes
+due to disability or illness can interact with the government by themselves without representation by others when using digital services
+(Pollitt, 2012). However, others may be excluded from public service
+access by the very same technology (cf. the digital divide). Chiefly,
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+431
+citizens can perform self-service through a digital public service if (1)
+they know that the particular service exists; (2) they know how to
+search for it (this requires digital and administrative skills such as
+knowing the official name of the service); (3) they have a digital ID or
+other means to identify themselves; and (4) the 24/7 access works for
+the online interaction and no offline support is needed. Thus, many
+skills are required of the citizen using these digital services (cf.
+Grönlund, Hatakka, & Ask, 2007), but not all citizens can or want to
+develop these skills. However, citizens equipped with such skills and
+resources are given new and more flexible ways of interacting with
+public officials and the government. In line with this argument, Pors
+(2015, p. 617) concludes that “managing and empowering citizens is
+the core task of frontline work, and how public administration is displaced into the citizen's private sphere for the purpose of creating an
+efficient, digitized society”. We view these potential shifts in skill sets
+required by citizens to orient themselves among public services as a
+potential problem area that our research community must investigate
+further.
+These role changes also motivate the introduction of another group
+of actors that have not been previously discussed—the actors designing
+and providing the actual technology enabling digital public services.
+When digital public services mediate the interaction between citizens
+and public organizations, and the IT artefact plays the role of the public
+official, the provision and design of these systems become particularly
+important. Goodsell's (1981) framework focuses on citizens and public
+organizations, and not private service providers. Today, the boundary
+between what is private and public can be less distinct than implied by
+Goodsell's framework; public services are now often provided in the
+borderland between public and private (Janssen & Klievink, 2009). The
+organization of public services varies with regard to ownership, financing, and production—meaning that public services can be owned and
+financed by a public organization but produced by a private organization (Lindgren & Jansson, 2013). Similarly, the provision of technology
+used to create digital public services can vary along these three dimensions. For example, public service provision can be digitized and
+automated by a private company, but owned and financed by a public
+organization. We have identified a potential problem area in the literature concerning actor transparency and accountability related to the
+digitalization and automation of public services. We lack the necessary
+analytical tools to understand and assess the roles played by those involved in the design, development, procurement, and maintenance of
+these systems, among other factors. How are these actors affecting and
+shaping citizens' access to public services and their interactions with
+public organizations?
+4.4. Understanding the initiation, duration, and scope of digital public
+encounters
+Upon reviewing the e-government research literature on digital
+public services, Goodsell's (1981) concepts of public encounter initiation, duration and scope appear underdeveloped. To be fair, the initiation of public services is frequently mentioned in terms of digital
+public services enabling citizens to initiate a service process anywhere
+at any time, which implies that digitalization can make citizens' initiation of these services easier. However, it is currently evident that
+digital public services blur the start and endpoints of the public encounter and challenges our traditional perception of the interaction
+between citizens and public authorities. Traditionally, one of the actors
+involved in a public encounter had to initiate the interaction. Now,
+using automated systems with sophisticated data mining and analytics,
+where will the public encounter begin and end? Potentially, we can
+build a technological infrastructure that entails constant data generation that can be used for the purpose of automated public service
+provision. With this type of technology, the government can provide
+services in a proactive way (Scholta, Mertens, Kowalkiewicz, & Becker,
+2018). A small-scale and current example can be seen in Sweden, where
+automated systems for administrating road tolls have been implemented. Systems that can scan license plates have been placed in
+some of the larger cities, and when a car is driven by a particular sensor,
+a bill is automatically sent to the citizen registered as the car's owner.
+This technology has required several government agencies to have interconnected their citizen registers. After implementation, little or no
+action is required from public officials, and the citizen simply has to pay
+the arriving bill. The system has been well accepted, as the majority of
+citizens appreciate not having to stop their cars to pay the toll, though
+concerns have been raised concerning the surveillance and registration
+of citizen behavior.
+The concepts of duration and scope, discussed by Goodsell (1981) as
+the public encounter's longitudinal and lateral dimensions (based on
+Lefton & Rosengren, 1966), are particularly worthy of further investigation. E-government studies have been criticized for ignoring the
+nature of the service in question and treating these services as generic
+phenomena (Hofmann et al., 2012; Madsen et al., 2014). Scholars have
+attempted to differentiate between different types of digital public
+service (e.g. Jansen & Ølnes, 2016; Lenk, 2002; Lindgren & Melin,
+2017), but have yet to fully capture the longitudinal and lateral dimensions of the public encounter. The longitudinal dimension—or
+duration of the encounter—covers the time span over which the encounter occurs. This dimension has received considerable attention in
+our field in the context of digital public services reducing lead times,
+being one of the main drivers behind many public service digitalization
+initiatives. Digitalization and new technologies have been said to
+‘shrink’ space and time, thereby making these factors less important for
+our understanding of public services (Pollitt, 2012). According to Pollitt, this perception is true in some respects, though far too simple since
+the “impact of technological change varies with the particular activities
+under consideration, the institutional context and culture, legal rules
+and financial considerations, and many other factors” (2012, pp.
+29–30). However, the overall expectations of when to obtain access to
+public services and how long you have to wait for a response seem to
+have changed with the introduction of digital public services. Another
+relevant temporal dimension of digital public services is that the dividing line between working time and leisure/private times has become
+blurred in citizen-government interactions. Previously, citizens had to
+take time off from work to meet a public official, while now they can
+conduct their governmental business in their private time. However,
+citizens must sometimes still perform these self-service tasks during
+office hours, since that is when support functions are accessible.
+The lateral dimension covers the extent to which an underlying
+public service influences a citizen's life. Digital public services range
+from having a limited influence on a citizen's life to being of great
+importance to a citizen's economic situation and well-being. Notably,
+we identify a potential problem area in the e-government literature
+concerning this aspect of digital public services. The notion that the
+degree of impact of a digital public service on a citizen's life can differ
+remarkably is underdeveloped in our field; it is often mentioned, but
+not explicitly treated or investigated. This aspect is partly related
+to—but is not fully covered—in the discussion on digital divide issues.
+Furthermore, apart from the literature on channel choice (cf. Reddick &
+Turner, 2012), there remains little explicit discussion regarding the
+type of public services that can and should be digitalized, and what
+types of service processes citizens require or prefer human participation
+and support for. As such, the manner in which the digital interface is
+related to perceived importance of the service outcome is not easily
+understood. For example, recent research (Madsen & Kræmmergaard,
+2016) illustrates how a digital service for applying for social benefits—for which the output is of substantial importance for citizens—can
+be perceived very differently by individual citizens. In the study
+(Madsen & Kræmmergaard, 2016), some citizens preferred the anonymity of applying for social benefits online and not being publicly observed in their ongoing life crisis, whereas other citizens preferred
+personal contact with a case worker that could help and guide them
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+432
+through the public service process. There is a clear gap in the e-government literature on the lateral aspects of digital public service provision.
+4.5. How does digitalization of public services affect the public encounter?
+Returning to the first research question (How does digitization of
+public services affect the public encounter?), the overall definition of the
+public encounter presented by Goodsell (1981, p. 4) “the interaction of
+citizen and official as they communicate to conduct business” remains
+valid within the context of contemporary digitalization. The purposes of
+the public encounter have largely remained the same since the introduction of digital public services (i.e., to exchange information,
+provide public service, and/or control or constrain citizens). However,
+the communication forms and settings have changed, and digitalization
+has created new and sometimes innovative forms and settings for public
+encounters that are likely to continue to evolve over time. The changes
+in communication forms and settings have also changed the nature of
+the actors involved. The discussion presented in this paper concludes
+that digital public services changes the dyadic nature of the public
+encounter by changing when, where, and how the interaction can
+occur, which actors are involved, what each actor does, and the skills
+required for all involved actors (see overview in Table 2).
+5. A research agenda for studies on the digitalization of public
+services and the digital public encounter
+Digital technologies can improve the quality of life for many people
+in our society. However, there is a risk that the aspiration to quickly
+improve matters in public organizations through the use of technology
+drives technological developments whose consequences are not yet
+properly analyzed. As such, we must be aware that citizens' interactions
+with these digital artefacts will determine if they obtain access to the
+right public services, which ultimately influences their views of public
+organizations. Ultimately, this affects the shaping of public organizations and the society as a whole. To sum up our discussion on identified
+problem areas, the digitalization of public services;
+• can be designed to make citizens' lives easier by providing services
+in a more convenient manner. They can also be designed for new
+types of control and constraint over citizen behavior and movement
+(e.g., using technologies that can generate and analyze large bodies
+of citizen data). This double nature of digital public services is not well
+understood. The e-government research community again risks
+being overly optimistic regarding the potential benefits of public
+service digitalization by omitting the potentially negative effects for
+citizen integrity and privacy.
+• changes the place of citizen-government interaction. The meaning and
+impact of the place of government is not explicitly dealt with in the
+e-government field. A research gap exists concerning how this
+change in setting affects citizens' perception of their government,
+and, in turn, the perceived accountability and legitimacy of government.
+• changes the casting and roles of the actors involved. A clear research
+gap exists concerning what these changes entail in terms of case
+worker discretion, power asymmetries, re-skilling, and actor transparency in government decision-making. We also lack an explicit
+discussion on the role of the actors responsible for the design and
+implementation of the technology used as well as their role in
+building and shaping a digital society.
+• is a multifaceted phenomenon involving various services and technologies. Notably, these services are often treated in a generic manner in
+the literature. In particular, an explicit treatment and discussion of
+the lateral dimensions of these services, that acknowledges digital
+public services potentially having various impacts on citizens' lives,
+remains lacking. Moreover, the often-mentioned lateral dimension
+of public services remains under-theorized in the e-government
+field.
+This summary serves in part as an answer to our second research
+question; What are the unaddressed research areas concerning the digitalization of the public encounter? In this final section, continue to answer
+this research question by presenting a research agenda in the shape of
+three research questions that we believe deserve attention from our
+community; (1) Man or machine—who is the better public official?; (2)
+What actors and skills are central for digital public encounters?; (3)
+What are the actual consequences of digital public services for citizens'
+quality of life? In a humble manner, this is also our statement on how
+we can create a better world (cf. Walsham, 2012) by addressing digitalization in relation to the public encounter in a more nuanced manner
+by moving beyond the techno-optimistic worldview of wanting to apply
+technology and digitalize public service provision just because it is
+possible.
+5.1. Man or machine—Who is the better public official?
+When attempting to understand the public encounter in a digital
+setting, it is important to acknowledge that the public official can no
+longer be understood as merely a human, as the public official can also
+be (represented by) an artefact (Pieterson et al., 2017). This calls for a
+reinterpretation of the relationship between the citizen and the public
+official. We encourage scholars in our community to further investigate
+what these changes in actors entail for the power balance between citizens and the public, and, in turn, citizens' trust in their government
+(e.g., in terms of legitimacy and accountability (cf. Wihlborg et al.,
+2016)). Furthermore, in relation to the digitalization of public services
+and particularly the automation of these services, we can see signs
+of—and aim to caution against—a new and digital era of Taylorism
+(Taylor, 2004). Office work can be broken down into parts, with each
+part being divided and taken care of in the most efficient manner—-
+either by a person or a machine (Ebbers et al., 2008). This ultimately
+leads us to the ongoing discussion on the qualities of man and machine.
+People and machines have different characteristics and qualities that
+can be utilized for different purposes; with new advancements in
+technology, these differences have become increasingly blurred.
+Therefore, digital public services must also be discussed in terms of
+what tasks we desire to hand over to technology and what tasks should
+be performed by humans—even when new technology can perform a
+certain task in a more efficient or effective manner. For example, we
+observe the need to take the issue of bureaucrats' discretion seriously
+Table 2
+Summary of how digitalization of public services affects the public encounter.
+Aspect Changes enabled by the digitalization of public services
+Nature and purpose of encounter Digitalization facilitates the automatic exchange of information and citizen self-service.
+Communication form and setting Digitalization provides additional communication channels.
+The ‘place’ of government changes from an official setting to almost anywhere, but especially to citizens' homes.
+Central actors involved Digitalization changes the roles of the actors involved and adds new actors related to the technology that can affect the interaction.
+Initiation, duration, and scope Digitalization enables 24/7 access to government services and changes citizens' expectations of government response time. Digitalization also
+enables proactive services in which the initiation is performed by the technology.
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+433
+(Busch & Henriksen, 2018; Lipsky, 2010), in an attempt to understand
+what this discretion implies for the digitalization of public services. In
+particular, we call for interdisciplinary studies of the social and societal
+consequences of increased digitalization, while a primary concern for
+future research should involve ethical concerns and challenges related
+to increased automation of public services, governments' use of internet
+of things (IoT) technology, and more efficient data mining tools. For
+example, can artificial intelligence be used to better understand and
+possibly mimic bureaucrats' decision-making and discretion, or is this
+type of decision-making something that should be left to human actors?
+5.2. What actors and skills are central for digital public encounters?
+The discussion in Section 4 concludes that digital public services
+changes the dyadic nature of the public encounter by changing when,
+where, and how the interaction can occur, what each actor does, and
+the skills required of all involved actors (cf. Grönlund et al., 2007;
+Pollitt, 2012; Pors, 2015). This raises the question of who the central
+actors in a public encounter are in a digitized society, and what skills
+these actors require (cf. Grönlund et al., 2007). Can governments use
+digital services as a means to educate and empower citizens and make
+them more aware of services they are entitled to and thereby teach
+citizens the skills they require for success in a digital society? Changes
+in the nature of the encounter also raises the seemingly eternal question
+of whether technological developments result in a de- and re-skilling of
+the workforce (cf. Zuboff, 1988). With digital public services, we might
+end up in a societal situation wherein fewer case workers are needed,
+with IT professionals instead shaping the public service encounter (cf.
+Hood & Dixon, 2015). In this scenario, who will carry the knowledge
+necessary to understand the nature of public service provision—the IT
+professional, or the citizen? Or will unforeseen new actors perform this
+task? Will this scenario lead to a situation where the citizen must be
+their own case worker (cf. Madsen & Kræmmergaard, 2016), or will the
+required knowledge be embedded in the technology? In summation, we
+call for further research on the potential workforce consequences and
+what roles can and should be played by the actors providing these
+technologies. Increased effort should be placed into investigating the
+role and influence of technology providers for the public encounter.
+This group of professionals has been invisible in the discussion until
+now. With increased digitalization of public services, the actors designing this technology inevitably become shapers of our society
+(Bovens & Zouridis, 2002). This represents a new role for IT professionals that these individuals might not even be aware of having. What
+are the risks involved in allowing IT professionals to dictate how government organizations organize their processes and interact with citizens?
+5.3. What are the consequences of digital public services on citizens' quality
+of life?
+Technological developments will continue to create new communication forms and settings for public encounters into the future, and
+the dividing line between the physical and the digital world is likely to
+become increasingly blurred (Pieterson et al., 2017). We particularly
+wish to stress the need for critical studies investigating the ethical
+concerns triggered by increased automation of public services, governments' use of IoT technology, and governments' use of data mining
+and machine learning in various contexts. We also call for meta-studies
+investigating the outcomes and consequences of digital public services
+on citizens' quality of life. As illustrated in the previous sections, even
+seemingly straightforward systems can raise ethical issues regarding
+how data on citizen behavior should be generated and used. Using
+Goodsell's (1981) conceptual framework, it is evident that public encounters originally meant for exchanging information can become interactions that control or constrain citizen behavior. In turn, this implies that services meant to have little impact on citizens' life (cf. the
+lateral dimensions of public encounters) can even become intrusive or
+controlling. We identify a great need to continuously investigate the
+consequences of such technologies for the nature and purpose of public
+encounters in the future. In this context, scholars in the e-government
+community have an important role to play. For each new technological
+development related to the public encounter, we call for e-government
+researchers and practitioners to return to Walsham's (2012) question
+and ask: Are we making a better world with ICTs in general and in
+digitalization of public services in particular? If so, how and for whom?
+6. Limitations and concluding comments
+In this paper, we illustrated the importance of greater awareness
+regarding changes that the digitalization of public services brings for
+the interactions between citizens and the government. As stated in the
+research approach section, this paper did not seek to identify and discuss all aspects of public service digitalization or completely cover the
+interaction between citizens and public officials. Instead, we strived to
+identify important and relevant aspects of digitalization and the public
+encounter that changes our understanding and taken for granted view
+on the interaction between citizens and the government.
+This paper is the result of a hermeneutic literature review aimed at
+expanding our understanding of how the digitalization of public services affects the public encounter. As a methodological approach, this
+hermeneutic literature review focused on the interpretation of meaning
+through an iterative search for comprehensive and insightful arguments
+aimed at developing our understanding of the particular topic at hand
+(Boell & Cecez- Kecmanovic, 2014). Concerning the quality of this
+work, following the hermeneutic tradition, the presented literature review and proposed research agenda can be discussed in terms of (1) its
+internal cohesion (Alvesson & Sköldberg, 2009; (2) whether the work is
+supported by ‘facts’ from the interpreted material (Alvesson &
+Sköldberg, 2009); and (3) whether the work is communicated in a way
+that makes it possible for the reader to follow how the researcher arrived at the insights presented (Klein & Myers, 1999). Essentially, instead of discussing the quality of the work in terms of validation, the
+logic of argumentation for the interpretation should be discussed
+(Alvesson & Sköldberg, 2009). The arguments and research agenda
+proposed in this paper are based on critical assessments of existing
+knowledge from the e-government field on the digitalization of public
+services using Goodsell's (1981) conceptualization of the public encounter as an analytical tool for mapping and classifying literature. The
+search and analysis of literature was performed in an iterative manner
+that was continued until findings could be synthesized in a coherent
+and well-supported line of argumentation, thereby reaching saturation
+in the process. We have continuously supported our arguments with
+empirical and theoretical examples and strived for transparency in our
+argumentation. Ultimately, however, the assessment of whether the
+argumentation is coherent, well-supported, and logical must be made
+by the reader.
+A potential critique against this type of literature review and theoretical development is that is not sufficiently ‘objective’, and thus at risk
+of being biased by the researcher's preunderstanding. The hermeneutic
+approach rejects the notion of researcher bias in the traditional sense;
+instead, it is acknowledged that the researcher's preunderstanding
+shapes the analysis (Klein & Myers, 1999). Furthermore, it is recognized
+that the researcher cannot assume a neutral stance (Orlikowski &
+Baroudi, 1991; Walsham, 1995). Instead, the researcher's prejudice,
+values, and interests always shape the manner in which s/he understands the world and the people in it. For these reasons, we have strived
+to make our preunderstanding and intellectual bases as transparent as
+possible. We who author this paper come from three different countries,
+and have different academic backgrounds. This further enables multiple
+perspectives in the analysis and reduces the risk of unwanted ‘bias’ in
+the analysis.
+Another potential limitation is set by the choice of the public
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+434
+encounter (Goodsell, 1981) as analytical tool. As stated in the methodology section, we could have used alternative concepts as our analytical point of departure and reached different results. In addition, our
+choices of practical examples and applications also affected the end
+result of the present paper. As a response to possible criticisms related
+to these limitations, we clarify that we have strived to find important
+and relevant aspects of digitalization and the public encounter that
+changes our understanding (cf. Whetten, 1989) of the interaction between citizens and government. The purpose was not to create an exhaustive and objective model for understanding the phenomenon at
+hand. Instead, we believe to have illustrated that, by investigating digitalization of public services in relation to the public encounter, our
+understanding of the interaction between citizens and the government
+changes slightly. These changes, in turn, bring consequences for how
+we should study this phenomenon in the future. It is our hope and aspiration that the research agenda presented here will attract attention
+from researchers within the e-government field and fuel studies that can
+critically inspect and discuss the consequences of the ongoing digitalization of public services.
+Acknowledgements
+An early draft of this text was presented at the 2018 Scandinavian
+Workshop on e-Government; we want to acknowledge and thank our
+colleagues in the Scandinavian e-Government community for valuable
+feedback on our work. We also wish to thank the anonymous reviewers
+for their feedback, helping us to improve our thinking and line of argument. Lindgren and Melin's participation in this work was in part
+funded by a research grant from the Swedish Transportation
+Administration. Madsen is employed and financed by the Research
+Center for Government IT, which is a collaboration between the IT
+University of Copenhagen and the Danish Ministry for Finance.
+References
+Alvesson, M., & Sköldberg, K. (2009). Reflexive methodology: New vistas for qualitative
+research (2nd ed.). London: Sage.
+Axelsson, K., Melin, U., & Lindgren, I. (2013). Public e-services for agency efficiency and
+citizen benefit – Findings from a stakeholder centred analysis. Government Information
+Quarterly, 30(1), 10–23. https://doi.org/10.1016/j.giq.2012.08.002.
+Bannister, F., & Connolly, R. (2015). The great theory hunt: Does e-government really
+have a problem? Government Information Quarterly, 32(1), 1–11. https://doi.org/10.
+1016/j.giq.2014.10.003.
+Boell, S. K., & Cecez- Kecmanovic, D. (2014). A hermeneutic approach for conducting
+literature reviews and literature searches. Communications of the AIS, 34(12),
+257–286.
+Bovens, M., & Zouridis, S. (2002). From street-level to system-level bureaucracies: How
+information and communication technology is transforming administrative discretion
+and constitutional control. Public Administration Review, 62(2), 174–184. https://doi.
+org/10.1111/0033-3352.00168.
+Busch, P. A. (2018). Conceptualizing digital discretion acceptance in public service provision: A policy maker perspective. Proceedings of the 22nd Pacific Asia conference on
+information systems (PACIS), Yokohama, Japan.
+Busch, P. A., & Henriksen, H. Z. (2018). Digital discretion: A systematic literature review
+of ICT and street-level discretion. Information Polity, 23(1), 3–28. https://doi.org/10.
+3233/IP-170050.
+Ebbers, W. E., Janssen, M., & Van Deursen, A. (2016). Impact of the digital divide on egovernment: Expanding from channel choice to channel usage. Government
+Information Quarterly, 33(4), 685–692. https://doi.org/10.1016/j.giq.2016.08.007.
+Ebbers, W. E., Pieterson, W. J., & Noordman, H. N. (2008). Electronic government:
+Rethinking channel management strategies. Government Information Quarterly, 25(2),
+181–201. https://doi.org/10.1016/j.giq.2006.11.003.
+European Commission (2016). eGovernment action plan 2016–2020 accelerating the
+digital transformation of government. Accessed on January 9, 2018, at https://eurlex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52016DC0179.
+Eurostat (2017). Key figures on the digital economy and society. Retrieved from http://
+ec.europa.eu/eurostat/web/digital-economy-and-society/data/database, Accessed
+date: 16 March 2018.
+Fountain, J. (2001). Paradoxes of public sector customer service. Governance, 14(1),
+55–73. https://doi.org/10.1111/0952-1895.00151.
+Giesbrecht, T., Schwabe, G., & Schenk, B. (2017). Service encounter thinklets: How to
+empower service agents to put value co-creation into practice. Information Systems
+Journal, 27(2), 171–196. https://doi.org/10.1111/isj.12099.
+Giritli Nygren, K., Axelsson, K., & Melin, U. (2014). Multi-channel service management in
+public sector: Three interpretative frames illustrating e-government and work
+practice in a Swedish state agency. Electronic Journal of e-Government, 12(1),
+112–125.
+Goodsell, C. T. (1981). The public encounter and its study. 1981 In C. T. Goodsell (Ed.).
+The public encounter: Where state and citizen meet (pp. 3–20). Indiana University Press.
+Gregor, S. (2006). The nature of theory in information systems. MIS Quarterly, 611–642.
+https://doi.org/10.2307/25148742.
+Grimsley, M., & Meehan, A. (2007). e-Government information systems: Evaluation-led
+design for public value and client trust. European Journal of Information Systems,
+16(2), 134–148. https://doi.org/10.1057/palgrave.ejis.3000674.
+Grönlund, Å., Hatakka, M., & Ask, A. (2007). Inclusion in the e-service society–investigating administrative literacy requirements for using e-services. In M. Wimmer, J.
+Scholl, & Å. Grönlund (Eds.). Proceedings of the 6th International Conference on
+Electronic Government (pp. 216–227). Berlin, Heidelberg: Springer. https://doi.org/
+10.1007/978-3-540-74444-3_19.
+Hasenfeld, Y., Rafferty, J. A., & Zald, M. N. (1987). The welfare state, citizenship, and
+bureaucratic encounters. Annual Review of Sociology, 13(1), 387–415. https://doi.
+org/10.1146/annurev.so.13.080187.002131.
+Heeks, R. (2006). Implementing and managing eGovernment. An international text. London:
+Sage.
+Heeks, R., & Bailur, S. (2007). Analyzing e-government research: Perspectives, philosophies, theories, methods, and practice. Government Information Quarterly, 24(2),
+243–265. https://doi.org/10.1016/j.giq.2006.06.005.
+Helbig, N., Gil-García, J. R., & Ferro, E. (2009). Understanding the complexity of electronic government: Implications from the digital divide literature. Government
+Information Quarterly, 26(1), 89–97. https://doi.org/10.1016/j.giq.2008.05.004.
+Henman, P. (2010). Governing electronically: e-government and the reconfiguration of public
+administration, policy, and power. New York: Palgrave Macmillan.
+Hirschman, A. O. (1970). Exit, voice, and loyalty: Responses to decline in firms, organisations,
+and states. Cambridge, MA: Harvard University Press.
+Hofmann, S., Räckers, M., & Becker, J. (2012). Identifying factors for e-government acceptance - a literature review. Proceedings of the 33rd International Conference on
+Information Systems (ICIS 2012). Orlando, Florida.
+Hood, C., & Dixon, R. (2015). A government that worked better and cost less? Evaluating three
+decades of reform and change in UK Central Government. Oxford: Oxford University
+Press.
+Jansen, A., & Ølnes, S. (2016). The nature of public e-services and their quality dimensions. Government Information Quarterly, 33(4), 647–657. https://doi.org/10.1016/j.
+giq.2016.08.005.
+Janssen, M., & Klievink, B. (2009). The role of intermediaries in multi-channel service
+delivery strategies. International Journal of Electronic Government Research (IJEGR),
+5(3), 36–46. https://doi.org/10.4018/jegr.2009070103.
+Katz, D., Gutek, B. A., Kahn, R. L., & Barton, Z. (1975). Bureaucratic encounters: A pilot
+study in the evaluation of government services. Ann Arbor: Institute for Social Research,
+University of Michigan.
+Klein, H. K., & Myers, M. D. (1999). A set of principles for conducting and evaluating
+interpretive field studies in information systems. MIS Quarterly, 23(1), 67–93.
+https://doi.org/10.2307/249410.
+Layne, K., & Lee, J. (2001). Developing fully functional E-government: A four stage
+model. Government Information Quarterly, 18(2), 122–136. https://doi.org/10.1016/
+S0740-624X(01)00066-1.
+Lefton, M., & Rosengren, W. R. (1966). Organisations and clients: Lateral and longitudinal
+dimensions. American Sociological Review, 802–810. https://doi.org/10.2307/
+2091659.
+Lenk, K. (2002). Electronic service delivery - a driver of public sector modernisation.
+Information Polity, 7(2,3), 87–96. https://doi.org/10.3233/IP-2002-0009.
+Liang, F., Das, V., Kostyuk, N., & Hussain, M. M. (2018). Constructing a data-driven society: China's social credit system as a state surveillance infrastructure. Policy &
+Internet.. https://doi.org/10.1002/poi3.183.
+Lindgren, I., & Jansson, G. (2013). Electronic services in the public sector: A conceptual
+framework. Government Information Quarterly, 30(2), 163–172. https://doi.org/10.
+1016/j.giq.2012.10.005.
+Lindgren, I., & Melin, U. (2017). Time to refuel the conceptual discussion on public eservices – revisiting how e-services are manifested in practice. In M. Janssen, (Ed.).
+Proceedings of the 16th IFIP WG 8.5 International Conference on Electronic Government,
+Springer, Berlin, Heidelberghttps://doi.org/10.1007/978-3-319-64677-0_8.
+Lipsky, M. (2010). Street-level bureaucracy. Dilemmas of the individual in public service
+(30th ann. ed.). Russell Sage Foundation.
+Madsen, C., & Kræmmergaard, P. (2016). Warm experts in the age of mandatory e-government: Interaction among Danish single parents regarding online application for
+public benefits. Electronic Journal of E-government, 14(1).
+Madsen, C.Ø., Berger, J., & Phythian, M. (2014). The development in leading e-government articles 2001-2010: Definitions, perspectives, scope, research philosophies,
+methods and recommendations: An update of Heeks and Bailur. In Janssen, (Ed.).
+Proceedings of the 13th IFIP WG 8.5 International Conference on Electronic Government
+(pp. 17–34). Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-662-
+44426-9_2.
+Madsen, C.Ø., & Kræmmergaard, P. (2015a). Channel choice: A literature review. In
+Tambouris, (Ed.). Proceedings from the 14th International Conference on Electronic
+Government (pp. 3–18). Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-
+319-22479-4_1.
+Madsen, C.Ø., & Kræmmergaard, P. (2015b). The efficiency of freedom: Single parents'
+domestication of mandatory e-government channels. Government Information
+Quarterly, 32(4), 380–388. https://doi.org/10.1016/j.giq.2015.09.008.
+Matheus, R., Janssen, M., & Maheshwari, D. (2018). Data science empowering the public:
+Data-driven dashboards for transparent and accountable decision-making in smart
+cities. Government Information Quarterly. https://doi.org/10.1016/j.giq.2018.01.006
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+435
+in press.
+Meijer, A., & Bekkers, V. (2015). A metatheory of e-government: Creating some order in a
+fragmented research field. Government Information Quarterly, 32(3), 237–245. https://
+doi.org/10.1016/j.giq.2015.04.006.
+Meuter, M., Ostrom, A., Roundtree, R., & Bitner, M. (2000). Self-service technologies:
+Understanding customer satisfaction with technology-based service encounters.
+Journal of Marketing, 64(3), 50–64. https://doi.org/10.1509/jmkg.64.3.50.18024.
+Moody, G. D., Lowry, P. G., & Galletta, D. F. (2017). It's complicated: Explaining the
+relationship between trust, distrust, and ambivalence in online transaction relationships using polynomial regression analysis and response surface analysis. European
+Journal of Information Systems, 26(4), 379–413. https://doi.org/10.1057/s41303-
+016-0027-9.
+Nielsen, P. A., & Persson, J. S. (2017). Useful business cases: Value creation in IS projects.
+European Journal of Information Systems, 26(1), 66–83. https://doi.org/10.1057/
+s41303-016-0026-x.
+Norris, D. F., & Reddick, C. G. (2013). Local e-government in the United States:
+Transformation or incremental change? Public Administration Review, 73(1), 165–175.
+https://doi.org/10.1111/j.1540-6210.2012.02647.x.
+Orlikowski, W. J., & Baroudi, J. J. (1991). Studying information technology in organizations: Research approaches and assumptions. Information systems research, 2(1),
+1–28. https://doi.org/10.1287/isre.2.1.1.
+Pelet, J. E., & Papadopoulou, P. (2012). The effect of colors of e-commerce websites on
+consumer mood, memorization and buying intention. European Journal of Information
+Systems, 21(4), 438–467. https://doi.org/10.1057/ejis.2012.17.
+Piccoli, G. (2016). Triggered essential reviewing: The effect of technology affordances on
+service experience evaluations. European Journal of Information Systems, 25(6),
+477–492. https://doi.org/10.1057/s41303-016-0019-9.
+Pieterson, W., Ebbers, W. E., & Madsen, C.Ø. (2017). New channels, new possibilities: a
+typology and classification of social robots and their role in multi-channel public
+service delivery. In Janssen, (Ed.). Proceedings of the 16th IFIP WG 8.5 International
+Conference on Electronic Government, Springer, Berlin, Heidelberghttps://doi.org/10.
+1007/978-3-319-64677-0_5.
+Pollitt, C. (2012). New perspectives on public services: Place and technology. Oxford: Oxford
+University Press.
+Pors, A. S. (2015). Becoming digital–passages to service in the digitized bureaucracy.
+Journal of Organizational Ethnography, 4(2), 177–192. https://doi.org/10.1108/JOE08-2014-0031.
+Reddick, C. G., & Turner, M. (2012). Channel choice and public service delivery in
+Canada: Comparing e-government to traditional service delivery. Government
+Information Quarterly, 29(1), 1–11. https://doi.org/10.1016/j.giq.2011.03.005.
+Scholta, H., Mertens, W., Kowalkiewicz, M., & Becker, J. (2018). From one-stop shop to
+no-stop shop: An e-government stage model. Government Information Quarterly.
+https://doi.org/10.1016/j.giq.2018.11.010 in press.
+Swedish National Board of Health and Welfare (2018). Digitala vårdtjänster riktade till
+patienter. Kartläggning och uppföljning. Accessed on January 9, 2018, at http://
+www.socialstyrelsen.se/Lists/Artikelkatalog/Attachments/20984/2018-6-15.pdf.
+Taylor, F. W. (2004). Scientific management. Routledge.
+Tilson, D., Lyytinen, K., & Sørensen, C. (2010). Research commentary—Digital infrastructures: The missing IS research agenda. Information Systems Research, 21(4),
+748–759. https://doi.org/10.1287/isre.1100.0318.
+Trist, E. (1981). The evolution of socio-technical systems. Occasional Paper, 2, 1981.
+Walsham, G. (1995). Interpretive case studies in IS research: Nature and method.
+European Journal of Information Systems, 4, 74–81. https://doi.org/10.1057/ejis.
+1995.9.
+Walsham, G. (2012). Are we making a better world with ICTs? Reflections on a future
+agenda for the IS field. Journal of Information Technology, 27(2), 87–93. https://doi.
+org/10.1057/jit.2012.4.
+West, D. M. (2004). E-government and the transformation of service delivery and citizen
+attitudes. Public Administration Review, 64(1), 15–27. https://doi.org/10.1111/j.
+1540-6210.2004.00343.x.
+Whetten, D. A. (1989). What constitutes a theoretical contribution? Academy of
+Management Review, 14(4), 490–495.
+Wihlborg, E., Larsson, H., & Hedström, K. (2016). The computer says no! – A case study
+on automated decision-making in public authorities. Proceedings from 49th Hawaii
+International Conference on Systems Sciences (HICSS). Washington, DC: IEEE Computer
+Society.
+Zuboff, S. (1988). In the age of the smart machine. The future of work and power. Oxford:
+Heinermann Professional Publishing.
+Ida Lindgren is an assistant professor in Information Systems, Linköping University,
+Sweden. She conducts research on information systems development in the public-sector
+context. Her work is published in e.g. Government Information Quarterly, Transforming
+Government – People, Process, Policy, and in proceedings from several IS conferences and
+the IFIP Electronic Government conference.
+Christian Østergaard Madsen is an assistant professor at the Research Center for
+Government IT at the IT University of Copenhagen. His research concerns public digitalisation, service design, and multichannel management. He has published in
+Government Information Quarterly, International Journal of Public Administration in the
+Digital Age, the Electronic Journal of e-Government and the IFIP Electronic Government
+conference.
+Sara Hofmann is an associate professor in Information Systems at the University of
+Agder, Norway. Her research focuses on digitisation in the public sector, which she has
+published in several conference and journal publications. She has participated in national
+and international research projects on e-government, service science and IT adoption.
+Ulf Melin is a full professor in Information Systems, Linköping University, Sweden. His
+research is focused on public sector digitalization. Ulf is active in several IS conferences
+and has published in e.g. Government Information Quarterly, Transforming Government
+– People, Process and Policy, International Journal of Electronic Governance,
+International Journal of Public Information Systems.
+I. Lindgren, et al. Government Information Quarterly 36 (2019) 427–436
+436
