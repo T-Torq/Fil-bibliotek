@@ -1,0 +1,818 @@
+Katalog över ASF:s insatser och tjänster utan behovsprövning, bestämmelse på verksamhetsnivå 
+Dokumentinformation
+Dokumentbeteckning:	Bestämmelse på verksamhetsnivå
+Antaget av:	Förvaltningschef, Malin Hedelin
+Diarienummer:	ASN 2025/120
+Datum/Ersätter:	2025-06-09 (gäller från 2025-07-01)
+Handlingen publiceras:	Trollhättans stads intranät
+Syfte:	Katalogen syftar till att tydliggöra vilka insatser och tjänster som förvaltningen erbjuder utan behovsprövning
+Gäller för:	Arbetsmarknads- och socialförvaltningen
+Referensdokument:	Insats utan individuell behovsprövning, riktlinje (ASN 2025/65)
+Dokumentansvarig:	Utvecklingsledare, Mikaela Andersson
+Uppföljning:	Årligen, och i samband med förändringar i förvaltningens insatser och tjänster.  
+Innehåll
+Katalog över ASF:s insatser och tjänster utan behovsprövning, bestämmelse på verksamhetsnivå	0
+Dokumentinformation	1
+1.Inledning	6
+Bakgrund och syfte	6
+Insats utan behovsprövning	6
+2. Verksamhetsområde FOI – Förebyggande och Insats	7
+2.1 Familjeteamsenheterna barn och unga samt Förebyggande enheten	7
+2.1.1 Insats: Rådgivande samtal	7
+2.1.2 Insats: Familjerådgivning	7
+2.1.3 Insats: Hembesöksprogram	7
+2.1.4 Insats: Gruppverksamhet riktad till föräldrar	8
+2.1.4.1 Tjänst: BIFF – Barn i föräldrars fokus	8
+2.1.4.2 Tjänst: Komet	8
+2.1.4.3 Tjänst: Trygga föräldrar	9
+2.1.4.4 Tjänst: Problematisk skolfrånvaro	9
+2.1.4.5 Tjänst: Måla med mammor	10
+2.1.4.6 Tjänst: Föräldraskap i förskola	10
+2.1.4.7 Tjänst: ABC – Alla Barn i Centrum	10
+2.1.5 Insats: Gruppverksamhet riktad till barn	11
+2.1.5.1 Tjänst: Skilda världar	11
+2.1.5.2 Tjänst: MBU – Människan bakom uniformen	11
+2.1.5.3 Tjänst: Musslan	12
+2.1.6 Insats: Individinriktade stödinsatser	12
+2.1.6.1 Tjänst: Schyssta relationer	12
+2.1.6.2 Tjänst: Medling vid brott	13
+2.1.6.3 Tjänst: Nätverksmöte	13
+2.1.6.4 Tjänst: SSPF – Skola, Socialtjänst, Polis och Fritid	14
+2.1.6.5 Tjänst: TuTi – Tidig upptäckt och tidig insats	14
+2.1.6.6 Tjänst: Föreningsvägledare	14
+2.1.6.7 Tjänst: SMUB – Stödmottagningen för Unga Brottsutsatta	15
+2.1.7 Insats: Familjebehandling barn och unga	15
+2.1.7.1 Tjänst: rePULSE	15
+2.1.7.2 Tjänst: Family Check-Up – Föräldraskap i vardagen	16
+2.1.7.3 Tjänst: STARK	16
+2.1.7.4 Tjänst: Nallefärdigheter	16
+2.1.7.5 Tjänst: Kriminalitet som livsstil	17
+2.1.7.6 Tjänst: A-CRA – Adolescent Community Reinforcement Approach	17
+2.1.7.7 Tjänst: FFT – Funktionell familjeterapi	18
+2.1.7.8 Tjänst: Familjebehandling allmän	18
+2.1.8 Insats: Ungdomsbehandling	18
+2.1.8.1 Tjänst: Ungdomsbehandling allmän	18
+2.1.9 Insats: Krisstöd	19
+2.1.10 Insats: Umgängesstöd	19
+2.1.10.1 Tjänst: Umgängesstöd vårdnadshavare	19
+2.1.10.2 Tjänst: Umgängesstöd	19
+2.2 Mini-Maria Norra	20
+2.2.1 Insats: Rådgivande samtal	20
+2.2.1.1 Tjänst: Rådgivning utifrån den unges behov	20
+2.2.1.2 Tjänst: Gruppverksamhet i form av föräldrautbildningar utan manual	20
+2.2.2 Insats: Utåtriktat preventivt arbete	21
+2.2.3 Insats: Psykosociala samtalsinsatser	21
+2.2.3.1 Tjänst: Individuella samtal	21
+2.2.3.2 Tjänst: Familjesamtal	21
+2.2.3.3 Tjänst: Anhörigsamtal	22
+2.2.4 Insats: Behandling utifrån manualbaserade metoder	22
+2.2.4.1 Tjänst: ÅP - Återfallsprevention	22
+2.2.4.2 Tjänst: CRA - Community Reinforcement Approach	23
+2.2.4.3 Tjänst: A-CRA – Adolescent Community Reinforcement Approach	23
+2.2.4.4 Tjänst: CRAFT – Community Reinforcement Approach and Family Training	24
+2.2.4.5 Tjänst: HAP – Haschavvänjningsprogrammet	24
+2.2.4.6 Tjänst: CPU – Cannabisprogram för ungdomar	25
+2.2.4.7 Tjänst: Första hjälpen vid spelproblem	25
+2.2.4.8 Tjänst: Till spelfriheten	26
+2.2.4.9 Tjänst: Återfallsprevention - spelproblem	26
+2.3 Enhet mot våld i nära relationer	27
+2.3.1 Insats: Rådgivande samtal	27
+2.3.1.1 Tjänst: Rådgivning; Allmän	27
+2.3.1.2 Tjänst: Rådgivning; Schyssta relationer	27
+2.3.1.3 Tjänst: Rådgivning; Heder	28
+2.3.1.4 Tjänst: Medarbetarsamtal VIN	28
+2.3.1.5 Tjänst: Föräldrastöd vid våld i familjen	29
+2.3.1.6 Tjänst: Stöd till anhörig	29
+2.3.2 Insats: Individuellt stöd till våldsutsatta och våldsutövare	30
+2.3.2.1 Tjänst: Schyssta relationer	30
+2.3.2.2 Tjänst: Samtalsstöd; Heder	30
+2.3.2.3 Tjänst: Samtal om frihet	30
+2.3.2.4 Tjänst: Kunskap om våld	31
+2.3.2.5 Tjänst: Samtalsstöd; Sexuella övergrepp	31
+2.3.2.6 Tjänst: Praktiskt stöd	32
+2.3.2.7 Tjänst: Samtal om våld	32
+2.3.3 Insats: Gruppverksamhet för våldsutsatta och våldsutövare	32
+2.3.3.1 Tjänst: Samtalsgrupp VIN, sluten grupp	32
+2.3.3.2 Tjänst: Samtalsgrupp VIN, öppen grupp	33
+2.3.3.3 Tjänst: Samtal om våld, öppen grupp	33
+2.4 Barnahus	34
+2.4.1 Insats: Rådgivande samtal	34
+2.4.1.1 Tjänst: Väntrumsbesök	34
+2.4.1.2 Tjänst: Krisstöd till omsorgspersoner	34
+2.4.1.3 Tjänst: Rådgivning; Heder	34
+2.5 Stödenheten	35
+2.5.1 Insats: Rådgivande samtal	35
+2.5.2 Insats: Konsumentvägledning	35
+2.5.3 Insats: Budget- och skuldrådgivning	36
+2.5.4 Insats: Rådgivande samtal	36
+2.5.1 Insats: Psykosociala samtalsinsatser	37
+2.5.1.1 Tjänst: HAP – Haschavvänjningsprogrammet	37
+2.5.1.2 Tjänst: CPU - Cannabisprogram för ungdomar	37
+2.5.1.3 Tjänst: ÅP – Återfallsprevention	38
+2.5.1.4 Tjänst: CRA - Community Reinforcement Approach	38
+2.5.1.5 Tjänst: Fri från spel	39
+2.5.1.6 Tjänst: Kontrollerat drickande	39
+2.5.2 Insats: Alkohol- och drogtest	40
+2.5.2.1 Tjänst: Mobil nykterhetskontroll	40
+2.5.2.2 Tjänst: Urinprov	40
+2.5.3 Insats: Anhörigstöd	41
+2.5.4 Insats: Avhopparverksamhet	41
+2.6 Vuxenstödsteamet	42
+2.6.1 Insats: Vuxenstöd	42
+2.6.1.1 Tjänst: Stödsamtal	42
+2.6.1.2 Tjänst: ÅP - Återfallsprevention	42
+2.6.1.3 Tjänst: ÅP - Spel	43
+2.6.1.4 Tjänst: CRA - Community Reinforcement Approach	43
+2.6.1.5 Tjänst: CRA - Spel	43
+2.6.1.6 Tjänst: HAP – Haschavvänjningsprogrammet	44
+2.6.1.7 Tjänst: Kriminalitet som livsstil	44
+2.6.1.8 Tjänst: Drogtest	45
+2.6.1.9 Tjänst: Mobil nykterhetskontroll	45
+2.6.1.10 Tjänst: Nykterhetskontroll	45
+3. Verksamhetsområde Individ och familjeomsorg	47
+3.1 Familjerättsenheten	47
+3.1.1 Insats: Rådgivande samtal	47
+3.1.2 Insats: Samarbetssamtal	47
+3.1.3 Insats: Informationssamtal	47
+3.2 Barn- och familjeenheterna 1-3	48
+3.2.1 Insats: Rådgivande samtal	48
+3.3 Familjehemsenheten	48
+3.3.1 Insats: Skolstödjande insats för familjehemsplacerade barn	48
+4. Extern part via IOP-avtal	49
+4.1 Brottsofferjouren	49
+4.1.1 Insats: Stöd till brottsutsatta, vittnen och anhöriga	49
+4.2 Göteborgs stadsmission	49
+4.2.1 Insats: Mötesplats	49
+
+ 
+1.	Inledning
+Bakgrund och syfte
+Denna insatskatalog är en vidareutveckling och konkretisering av Arbetsmarknads- och socialnämndens riktlinje Insatser utan individuell behovsprövning (ASN 2025/65). Katalogen är en bestämmelse på verksamhetsnivå och beslutas av förvaltningschef. Katalogen är tänkt att vara ett levande dokument och uppdateras i takt med att verksamheten utvecklas. Vid ändringar i utbudet av insatser är det dock viktigt att ta ställning kring om även riktlinjen behöver revideras. 
+Katalogen vänder sig i första hand till medarbetare inom Arbetsmarknads- och socialförvaltningen, och syftar till att tydliggöra vilka insatser och tjänster som förvaltningen erbjuder utan behovsprövning. 
+För att harmonisera med verksamhetssystemet VIVA UTF används i detta dokument begreppet tjänster för att beskriva delinsatser och metoder.
+
+Insats utan behovsprövning
+Vid insats utan behovsprövning vänder sig den enskilde direkt till utföraren för att ta emot en insats. Innan insatsen verkställs säkerställer utföraren att den enskilde uppfyller insatsens/tjänstens villkor, och informerar om rätten att ansöka om behovsprövade insatser.
+Om insatsen ges till en ungdom 15-18 år utan vårdnadshavares samtycke eller vetskap, ansvarar utföraren för att tydligt informera om insatsens syfte och omfattning, samt om utförarens anmälningsplikt. Under insatsens gång informerar utföraren kontinuerligt om ungdomens rättigheter och om möjligheten till, och i vissa fall vikten av, att involvera vårdnadshavare.
+Av katalogen framgår att vissa insatser och tjänster omfattas av undantag från dokumentationsplikten, på grund av rådgivning (14 kap. 4 § SoL) och särskilda skäl (14 kap. 5 § SoL). Det innebär att utföraren;
+- inte ska dokumentera uppgifter som rör personliga förhållanden alternativt uppgifter som kan röja den enskildes identitet,
+- alltid ska dokumentera uppgifter som krävs för uppföljning eller kontroll av verksamheten. 
+Undantagen gäller endast när insatsen/tjänsten ges fristående. Om den kombineras med en dokumentationspliktig insats/tjänst, upphör undantaget att gälla.
+
+ 
+2.	Verksamhetsområde FOI – Förebyggande och Insats
+
+2.1 Familjeteamsenheterna barn och unga samt Förebyggande enheten
+2.1.1 Insats: Rådgivande samtal
+Beskrivning: Insatsen riktar sig till familjer med barn i åldern 0-18 år, och består av en kortare samtalsserie (upp till fem samtal) med rådgivande och vägledande karaktär. Samtalen syftar till att ge kortsiktigt stöd, kartlägga behov och ge vägledning. Samtalen kan även verka kartläggande för förslag av vidare insats. Råd och stödsamtal föregår behandlingsinsats.
+Insatsen kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet. 
+Villkor:
+- Familjer med barn 0-18 år boende i Trollhättan. 
+- Barn och unga 15-18 år boende i Trollhättan.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.1.2 Insats: Familjerådgivning
+Beskrivning: Familjerådgivningen riktar sig till vuxna som är i en relation, med eller utan barn. Insatsen består av professionellt stöd i form av samtal i kris- och samlevnadsfrågor, och syftar till att stödja vuxnas relationer. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan eller avtalskommun.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.1.3 Insats: Hembesöksprogram
+Beskrivning: Det utökade hembesöksprogrammet riktar sig till förstagångsföräldrar eller föräldrar med första barnet född i Sverige. Insatsen innehåller stödjande, främjande och rådgivande samtal av familjestödjare och BVC-sköterska vid hembesök, med syfte att främja en god och trygg uppväxt för barnen. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet och är till viss del beforskad .
+Villkor: Förstagångsföräldrar eller föräldrar med första barnet född i Sverige, boendes i Trollhättan och skrivna på anslutna vårdcentraler.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.1.4 Insats: Gruppverksamhet riktad till föräldrar
+2.1.4.1 Tjänst: BIFF – Barn i föräldrars fokus
+Beskrivning: BIFF är en kortare utbildning- och samtalsgrupp som riktar sig till separerade föräldrar, eller föräldrar som är på väg att separera, och som befinner sig i familjerättslig konflikt där de inte kommer överens i frågor som rör gemensamma barn, 0-18 år. BIFF syftar till att öka föräldraförmågan och fokus på barnets behov i samband med separationen. Tjänsten genomförs i samverkan med Familjerättsenheten.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Föräldrar till barn 0-18 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras. 
+
+2.1.4.2 Tjänst: Komet
+Beskrivning: Komet riktar sig till föräldrar och trygghetspersoner till barn, i åldern 3-18 år, som upplever att de ofta hamnar i konflikt med sitt barn. Komet är en föräldrautbildning (upp till 9 tillfällen) som genomförs i grupp. Utbildningen utgår från bestämda teman, och syftar till att öka föräldrarnas positiva samspel med sina barn och förbättra deras förmåga att hantera vardagsproblem och konfliktsituationer. På så vis vill man minska risken för allvarligare beteendeproblem hos barnen på längre sikt. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. Socialstyrelsen rekommenderar metoden för att motverka normbrytande beteenden hos ungdomar .
+Villkor: Förälder/trygghetsperson till barn 3-18 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.4.3 Tjänst: Trygga föräldrar
+Beskrivning: Trygga föräldrar riktar sig till föräldrar med utländsk bakgrund som lever i socialt utsatta områden och som har en oro för att deras barn, 10-18 år, dras till miljöer med droger, kriminalitet eller våldsbeakande extremism. Utbildningen genomförs i grupp vid 9 tillfällen. Utbildningen utgår från bestämda teman, och syftar till att på olika sätt ge kunskap om risk- och skyddsfaktorer, skapa trygghet, öka föräldrarnas självtillit, främja kommunikation mellan föräldrar och deras barn samt minska föräldrarnas oro. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och är till viss del beforskad . 
+Villkor: Förälder/trygghetsperson till barn 10-18 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.4.4 Tjänst: Problematisk skolfrånvaro
+Beskrivning: Problematisk skolfrånvaro riktar sig till föräldrar till barn, 7-18 år, som upplevs ha problematisk skolfrånvaro. Det är en föräldrastödjande grupputbildning med fem bestämda teman, och syftar till att ge föräldrar mer kunskap och stöd i hur de kan bemöta och stötta sitt barn för att nå ett bättre mående.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Förälder/trygghetsperson till barn 7-18 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.4.5 Tjänst: Måla med mammor
+Beskrivning: Måla med mammor riktar sig till mammor som har kontakt med socialtjänsten utifrån sitt föräldraskap. Det är en föräldrastödjande grupp där mammor, genom en kreativ miljö och aktivitet, ges möjlighet till samvaro och dialog med andra personer i liknande situation. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Mammor boende i Trollhättan eller avtalskommun, aktuella på socialtjänsten utifrån sitt föräldraskap.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.4.6 Tjänst: Föräldraskap i förskola
+Beskrivning: Föräldraskap i förskola riktar sig föräldrar med barn som går på särskilda förskolor. Det är en föräldrastödjande gruppinsats som syftar till att stärka föräldrars roll och skapa goda förutsättningar för barnet. Tjänsten genomförs i samverkan med förskola och Polismyndigheten.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. Högskolan Väst har en pågående utvärdering av tjänsten, vilken väntas vara klar december 2025 .
+Villkor: Föräldrar till barn som går på anslutna förskolor.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.4.7 Tjänst: ABC – Alla Barn i Centrum
+Beskrivning: ABC riktar sig till föräldrar till barn i åldern 3-18 år. ABC är en föräldrautbildning på generell nivå, med fem bestämda teman, som syftar till att stärka familjerelationer och hjälpa föräldrar att handskas bättre med vardagssituationer. Tjänsten genomförs i samverkan med Utbildningsförvaltningen.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet, och är en är en brottsförebyggande metod som Socialstyrelsen rekommenderar.   
+Villkor: Förälder/trygghetsperson till barn 3-18 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.5 Insats: Gruppverksamhet riktad till barn
+2.1.5.1 Tjänst: Skilda världar
+Beskrivning: Skilda världar som riktar sig till barn i åldern 7-12 år, som lever med skilda eller separerade föräldrar. Skilda världar är en stödjande gruppverksamhet som erbjuds vid 10 tillfällen, och som utgår från bestämda teman. Syftet är att barnet ska få stöd och tillsammans med andra få dela upplevelser, känslor och tankar om föräldrarnas separation. Tjänsten genomförs i samverkan med Familjerättsenheten.
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet
+Villkor: Barn, 7-12 år, med skilda eller separerade föräldrar, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.5.2 Tjänst: MBU – Människan bakom uniformen
+Beskrivning: MBU är en utbildningsinsats som riktar sig till ungdomar och unga vuxna, 15-20 år. Utbildningen leds av olika yrkesgrupper som bär uniform och syftar till att öka tilliten till blåljuspersonal, öka ungdomars delaktighet och minska risken för kriminalitet. Tjänsten genomförs i samverkan med blåljuspersonal och näringsliv mm. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och är en är en brottsförebyggande metod som Socialstyrelsen rekommenderar .
+Villkor: Personer 15-20 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.5.3 Tjänst: Musslan
+Beskrivning: Musslan riktar sig till barn och unga, 7-18 år, som har en förälder eller annan närstående som mår psykiskt dåligt eller har ett beroende av alkohol, droger eller spel. Musslan är en stödgrupp, som utgår från bestämda teman. Syftet med Musslan är att barn och unga ska ges möjlighet att fokusera på sig själva och sina behov, och påminnas om att det är okej att må bra även om en närstående mår dåligt. Tjänsten genomförs i samverkan med Svenska kyrkan. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Barn och unga, 7-18 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.6 Insats: Individinriktade stödinsatser
+2.1.6.1 Tjänst: Schyssta relationer
+Beskrivning: Schyssta relationer riktar sig till ungdomar som har erfarenhet av våld i kärleksrelationer. Tjänsten innehåller individuella samtal baserade på metoder och verktyg såsom Samtal om frihet, Samtal om våld, MI och TMO. I tjänsten ingår även bedömningsverktygen FREDA och SARA. Schyssta relationer syftar till att stärka den unge och ge kunskap om våld i nära relationer för att kunna bryta våldets konsekvenser samt förebygga våldsamt beteende. Schyssta relationer genomförs i samverkan med Enhet mot våld i nära relationer.
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och innehåller metoder och bedömningsverktyg som ingår i Socialstyrelsens metodguide . 
+Villkor: Ungdomar 15-20 år, boende i Trollhättan. 
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.6.2 Tjänst: Medling vid brott
+Beskrivning: Medling vid brott riktar sig till unga lagöverträdare, under 21 år, och deras brottsoffer. Medling en lagstadgad insats, som dels innehåller enskilda förberedande samtal med gärningsperson och brottsoffer, samt gemensamt medlingssamtal med opartisk medlare, för att tala om brottshändelsen och dess konsekvenser. Medlingen syftar till att ge gärningspersonen ökad insikt över sina handlingar, och ge brottsoffret möjlighet att bearbeta händelsen. Medling kan ha en brottsförebyggande verkan.
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och ingår i Socialstyrelsens metodguide .
+Villkor: Lagöverträdare under 21 år boende i Trollhättan, samt deras brottsoffer.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.6.3 Tjänst: Nätverksmöte
+Beskrivning: Nätverksmöten riktar sig till familjer med barn 0-18 år, som upplever att det hade varit till gagn att samla nätverket för att barnet ska få sina behov tillgodosedda. Nätverksledare hjälper familjen att samla olika aktörer runt barnet såsom myndigheter, det professionella-, och det privata nätverket. Syftet med mötet är att främja en god och trygg uppväxt för barn. Nätverksmöten ges i både främjande syfte och utifrån särskild utsatthet. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Familjer med barn, 0-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.6.4 Tjänst: SSPF – Skola, Socialtjänst, Polis och Fritid
+Beskrivning: SSPF riktar sig till barn, 10-16 år, som är i riskzon att utveckla en brottslighet eller som begått brott, samt går i anslutna fokusskolor. Genom samverkan mellan skola, socialtjänst, polis och fritid identifieras barnet i ett tidigt skede och ett snabbt och samordnat stöd sätts in. Detta i syfte att förebygga och förhindra att brott begås, samt främja en god och trygg uppväxt för barnet. Tjänsten ges i både främjande syfte och utifrån särskild utsatthet. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och är en brottsförebyggande metod som Socialstyrelsen rekommenderar .
+Villkor: Barn 10-16 år, boende i Trollhättan som går på anslutna fokusskolor till SSPF.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.6.5 Tjänst: TuTi – Tidig upptäckt och tidig insats
+Beskrivning: TuTi riktar sig till familjer med barn 12-18 år, där barnet begått ett förstagångsbrott eller en olaglig handling och riskerar att utveckla ett riskfyllt beteende. Genom samverkan mellan polis, civilsamhälle och socialtjänst erbjuds barnet/familjen ett tidigt stöd i form av fem TuTi-samtal. Syftet är att minska risken för att barnet återfaller i brott. Tjänsten genomförs i samverkan med Polismyndigheten.  
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och har utvärderats av Högskolan Väst 
+Villkor: Barn 12-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.6.6 Tjänst: Föreningsvägledare
+Beskrivning: Föreningsvägledare riktar sig till familjer och barn 0-18 år, i behov av en meningsfull och strukturerad fritid för att undvika att hamna riskzon. Genom samtal och praktiskt stöd möjliggör vägledaren barnets deltagande i aktiviteter. Tjänsten syftar till att barnet ska få ett ökat välbefinnande och minskat utanförskap. Tjänsten genomförs i samverkan med föreningsliv och Kultur och fritid.
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Barn 0-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.6.7 Tjänst: SMUB – Stödmottagningen för Unga Brottsutsatta
+Beskrivning: SMUB riktar sig till ungdomar under 21 år som utsatts för brott i offentlig miljö, tex misshandel, rån, hot och hatbrott på grund av etnicitet, könsidentitet eller sexuell läggning. Tjänsten syftar till att främja en god och trygg uppväxt, och ges i både främjande syfte och utifrån särskild utsatthet. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Ungdom under 21 år, boende i Trollhättan och utsatt för brott i offentlig miljö.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.1.7 Insats: Familjebehandling barn och unga
+2.1.7.1 Tjänst: rePULSE
+Beskrivning: rePULSE är en metod som riktar sig till familjer med barn, 5-18 år, med svårigheter i känsloreglering, impulskontroll, problemlösning och sociala färdigheter. rePULSE syftar till att hjälpa barn, tonåringar och deras föräldrar att hitta strategier för att hantera känsloutbrott och impulser. Individuella samtal kombineras med social färdighetsträning. Tjänsten pågår under max ett år.
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet och ingår i Socialstyrelsens metodguide .
+Villkor: 
+- Familjer med barn 5-18 år, boende i Trollhättan.
+- Ungdomar 15-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.7.2 Tjänst: Family Check-Up – Föräldraskap i vardagen
+Beskrivning: Family Check-Up riktar sig till föräldrar med barn, 2-17 år, med beteendeproblem. Det är en modell för att kartlägga och medvetandegöra föräldrars styrke- och utvecklingsområden i föräldraskapet. Inom ramen för Family Check-Up kan föräldern erbjudas modellens egna föräldrastödsprogram Föräldraskap i Vardagen. Syftet med tjänsten är att minska barns beteendeproblem genom att stärka förälderns strategier och ledarskap i familjen. Tjänsten pågår under max ett år.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet, och ingår i Socialstyrelsens metodguide . 
+Villkor: Familjer med barn 2-17 år, boende i Trollhättan.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.7.3 Tjänst: STARK
+Beskrivning: STARK riktar sig till familjer med barn 0-18 år, som har varit utsatta för sexuella övergrepp och kränkningar i relation, i offentlig miljö och/eller på nätet. Behandlare träffar barnet/ungdomen en gång per vecka under 8-12 veckor i syfte att stärka barnet. Parallellt med dessa träffar sker även samtal med föräldrar/omsorgsgivare. Tjänsten pågår under max ett år.
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. 
+Villkor: 
+- Barn/Familjer med barn 0-18 år, boende i Trollhättan.
+- Ungdomar 15-18 år, boende i Trollhättan. 
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.7.4 Tjänst: Nallefärdigheter
+Beskrivning: Nallefärdigheter är ett samtalsstöd som riktar sig till familjer med barn 0-18 år, som varit utsatta för sexuella övergrepp. Syftet med Nallefärdigheter är att barnet och omsorgspersonerna ska få möjlighet att tala om sina upplevelser och få verktyg att hantera obehagliga känslor. Tjänsten pågår under max ett år. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Barn/familjer med barn 0-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.7.5 Tjänst: Kriminalitet som livsstil
+Beskrivning: Kriminalitet som livsstil riktar sig till familjer med ungdomar 12-18 år. Tjänsten syftar till att hjälpa deltagarna att bryta kriminella tankemönster och beteenden samt minska risken för återfall genom kognitiva övningar. Tjänsten pågår under max ett år.
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet .
+Villkor:
+- Familjer med ungdomar 12-18 år, boende i Trollhättan.
+- Ungdomar 15-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.7.6 Tjänst: A-CRA – Adolescent Community Reinforcement Approach
+Beskrivning: A-CRA är en manualbaserad behandlingsmetod som riktar sig till familjer med barn 12-18 år, som har alkohol- eller drogproblem. Metoden bygger på kognitiv beteendeterapi (KBT) och syftar till att hjälpa ungdomar att uppnå drogfrihet och en mer hälsosam livsstil. Behandlingen fokuserar på att främja positiva sociala aktiviteter och relationer samt att utveckla färdigheter för att hantera problem och undvika återfall. Tjänsten pågår under max ett år. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet, och ingår i Socialstyrelsens nationella riktlinjer .
+Villkor:
+- Familjer med barn 12-18 år, boende i Trollhättan.
+- Ungdomar 15-18 år, boende i Trollhättan. 
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.7.7 Tjänst: FFT – Funktionell familjeterapi
+Beskrivning: FFT är en behandlingsmetod som riktar sig till familjer med ungdomar 11–18 år som visar ett utagerande beteende, har begått brott eller har ett skadligt bruk/beroende. Behandlingen genomförs med hela familjen i rummet. Det kortsiktiga syftet är att förbättra relationerna och kommunikationen i familjen, det långsiktiga syftet är att ungdomens antisociala beteende ska upphöra. Tjänsten pågår under max ett år.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet, och ingår i Socialstyrelsens nationella riktlinjer 
+Villkor: Familjer med barn 11-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.7.8 Tjänst: Familjebehandling allmän
+Beskrivning: Den allmänna familjebehandlingen riktar sig till familjer med barn 0-18 år, med behov av stöd i familjesystemet. Denna familjebehandling är ej manualstyrd utan utformas utifrån familjens behov och kan innehålla olika metoder och verktyg. Syftet är att motverka och behandla social- och familjerelationell problematik. Tjänsten pågår under max ett år.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Familjer med barn 0-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.8 Insats: Ungdomsbehandling
+2.1.8.1 Tjänst: Ungdomsbehandling allmän
+Beskrivning: Ungdomsbehandling riktar sig till ungdomar 15-18 år, och är en tjänst som dels kan utgå utifrån manualbaserade metoder såsom rePulse, STARK, Kriminalitet som livsstil och A-CRA, men som också kan ha mer allmän inriktning. Behandlingen ges i syfte att motverka och behandla olika former av problematik. Tjänsten pågår under max ett år. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet.
+Villkor: Ungdom 15-18 år, boende i Trollhättan.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.9 Insats: Krisstöd
+Beskrivning: Krisstöd riktar sig till familjer med barn 0-18 år i kris. Krisstödet innehåller en kort serie stabiliserande samtal med syfte att stödja familjen att hantera en traumatisk händelse. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Familjer med barn 0-18 år, boende i Trollhättan.
+Dokumentation: Insatsen är ej undantagen dokumentationsplikten.
+
+2.1.10 Insats: Umgängesstöd
+2.1.10.1 Tjänst: Umgängesstöd vårdnadshavare
+Beskrivning: Umgängesstödet riktar sig till särskilt förordnade vårdnadshavare som övertagit vårdnaden om tidigare placerat barn. Tjänsten utgör ett stöd för att bibehålla ett gott umgänge mellan barn, föräldrar och det vårdnadsöverflyttade familjehemmet. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: SFV med övertagen vårdnad om tidigare placerat barn.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.1.10.2 Tjänst: Umgängesstöd
+Beskrivning: Umgängesstödet riktar sig till barn 0-18 år, med frihetsberövad förälder. Tjänsten utgör ett stöd för att barn ska kunna bibehålla goda relationer till sin förälder. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Barn 0-18 år, boende i Trollhättan med frihetsberövad förälder.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+
+ 
+2.2 Mini-Maria Norra
+2.2.1 Insats: Rådgivande samtal
+2.2.1.1 Tjänst: Rådgivning utifrån den unges behov
+Beskrivning: Rådgivningen riktar sig till barn, ungdomar och unga vuxna, 13-21 år, som har ett riskbruk, skadligt bruk eller beroende av alkohol, narkotika eller spel om pengar. Rådgivningen ges genom individuella samtal och familjesamtal. Syftet med rådgivningen är att skapa lösningar utifrån den unges livssituation. Tjänsten genomförs i samverkan med Regionhälsan. 
+Tjänsten kan ges till ungdom från 15 år utan vårdnadshavares samtycke. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.2.1.2 Tjänst: Gruppverksamhet i form av föräldrautbildningar utan manual
+Beskrivning: Gruppverksamheten riktar sig till föräldrar vars barn, ungdomar och unga vuxna, 13-21 år, har ett riskbruk, skadligt bruk eller beroende av alkohol, narkotika eller spel om pengar. Föräldrautbildningarna ges genom en serie av gruppsamtal med teman kring föräldraskap, kommunikation och gränssättning kopplat till alkohol, droger eller spel om pengar. Gruppen leds av en samtalsledare och deltagarna ges möjlighet att dela erfarenheter, lära av varandra och känna igen sig i varandras upplevelser. Tjänsten syftar till att stärka föräldrar i sin roll och ge verktyg för stöd hemma. Tjänsten genomförs i samverkan med Regionhälsan.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+ 
+2.2.2 Insats: Utåtriktat preventivt arbete
+Beskrivning: DrogSmart riktar sig till elever i årskurs sex – årskurs ett på gymnasiet. Det är en drogförebyggande utbildningsinsats som består av föreläsningar, diskussionsövningar och reflektion kring fakta och konsekvenser av drogbruk. Syftet med DrogSmart är att, i förebyggande syfte, sprida rätt och aktuell kunskap om droger. Insatsen genomförs i samverkan med Regionhälsan.
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet, och har indirekt vetenskapligt stöd via evidens som visar att skolbaserade och kunskapsförmedlande ANDT-program kan vara effektiva . 
+Villkor: Skolor i Fyrbodal där drogförebyggande utbildningsinsatser ej erbjuds idag.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.2.3 Insats: Psykosociala samtalsinsatser
+2.2.3.1 Tjänst: Individuella samtal
+Beskrivning: Tjänsten individuella samtal riktar sig till barn, ungdomar och unga vuxna 13-21 år som har ett riskbruk, skadligt bruk eller beroende av alkohol, narkotika eller spel om pengar. Samtalen syftar till att motivera barnet/den unge till förändring och vidmakthållande av förändring, samt för att motivera till vidare behandling. Tjänsten genomförs i samverkan med Regionhälsan.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och utgår från MI, vilket ingår i Socialstyrelsens metodguide 
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.3.2 Tjänst: Familjesamtal
+Beskrivning: Familjesamtal riktar sig till barn, ungdomar och unga vuxna 13-21 år som har ett riskbruk, skadligt bruk eller beroende av alkohol, narkotika eller spel om pengar, samt deras familj. Samtalen genomförs tillsammans med familjen, och syftar till att motivera ungdomen till förändring och vidmakthållande av förändring, samt för att motivera till vidare behandling. Tjänsten syftar också till ökad förståelse och kunskap för familjen. Tjänsten genomförs i samverkan med Regionhälsan.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och utgår från MI, vilket ingår i Socialstyrelsens metodguide 
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.3.3 Tjänst: Anhörigsamtal
+Beskrivning: Anhörigsamtal riktar sig till närstående till barn, ungdomar och unga vuxna 13-21 år som har ett riskbruk, skadligt bruk eller beroende av alkohol, narkotika eller spel om pengar. Samtalen syftar till att stötta och motivera närstående till ungdomar med missbruksproblematik. Tjänsten genomförs i samverkan med Regionhälsan.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och utgår från MI, vilket ingår i Socialstyrelsens metodguide 
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4 Insats: Behandling utifrån manualbaserade metoder
+2.2.4.1 Tjänst: ÅP - Återfallsprevention
+Beskrivning: Återfallsprevention riktar sig till ungdomar/unga vuxna med beroendeproblem som rör alkohol, narkotika, läkemedel, tobak eller spel. Återfallsprevention är en form av KBT som bygger på social inlärningsteori och kognitiv psykologi. Kursen fokuserar på att identifiera risksituationer, hantera sug, utveckla strategier för nykterhet samt skapa nödplaner vid återfallsrisk. Syftet är att förebygga återfall i missbruk och beroende. Tjänsten genomförs i samverkan med Regionhälsan.   
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. Återfallsprevention ingår i Socialstyrelsens metodguide och nationella riktlinjer. RCT-studier visar att KBT-baserad återfallsprevention signifikant minskar alkoholkonsumtion bland ungdomar 13–18 år .
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.2 Tjänst: CRA - Community Reinforcement Approach
+Beskrivning: CRA riktar sig till unga vuxna med skadligt bruk eller beroende av alkohol eller narkotika. CRA är en manualbaserad behandlingsmetod, baserad på inlärningspsykologi och KBT. Metoden fokuserar på att stärka drogfritt beteende genom funktionsanalys, färdighetsträning, ökad drogfri aktivitet och återfallsprevention. Syftet med CRA är att hjälpa personer till ett drogfritt liv. Faktorer som främjar drogfrihet i personens närmiljö förstärks medan faktorer som främjar droganvändningen minskas. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. CRA ingår i Socialstyrelsens metodguide och nationella riktlinjer. RCT-studier visar att CRA är mer effektiv än sedvanlig behandling vid alkohol- och kokainberoende särskilt i kombination med incitamentsbaserade inslag .
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.3 Tjänst: A-CRA – Adolescent Community Reinforcement Approach
+Beskrivning: A-CRA riktar sig till ungdomar/unga vuxna med skadligt bruk eller beroende av alkohol eller narkotika. A-CRA är en manualbaserad behandlingsmetod för ungdomar, baserad på CRA. Tjänsten syftar till att hjälpa ungdomar att uppnå drogfrihet och en mer hälsosam livsstil, samt att främja positiva sociala aktiviteter och relationer. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. A-CRA ingår i Socialstyrelsens metodguide och nationella riktlinjer. Enligt vetenskaplig studie visar unga vuxna som genomgått A-CRA signifikant minskad användning av opioider, alkohol och cannabis .
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.4 Tjänst: CRAFT – Community Reinforcement Approach and Family Training
+Beskrivning: CRAFT riktar sig till vuxna närstående till personer med skadligt bruk eller beroende av alkohol eller narkotika som både vill hjälpa sig själv och stödja den andre till förändring. CRAFT är en icke-konfrontativ, manualbaserad metod för närstående till personer med substansbruk, baserad på CRA. Metoden syftar till att stärka positiva beteenden hos den beroende, minska belöning för oönskade beteenden och samtidigt förbättra livskvalitet och hälsa hos den närstående. Den närstående får stöd i att motivera till behandling, minska substanskonsumtion och skuld, samt stärka familjerelationer. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. CRAFT ingår i Socialstyrelsens metodguide och nationella riktlinjer. Forskning visar att CRAFT är effektiv för att motivera motvilliga till behandling, cirka två tredjedelar börjar behandling efter i snitt 4–6 sessioner .
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.5 Tjänst: HAP – Haschavvänjningsprogrammet
+Beskrivning: HAP riktar sig till unga vuxna med skadligt bruk eller beroende av cannabis och som vill sluta använda drogen. HAP är ett KBT-baserat program med fokus på känslomässig, kognitiv och beteendemässig förändring. Programmet är uppdelat i tre faser; medicinsk, psykologisk och social, med fokus på hälsa och återfallsprevention. Hemuppgifter, urinprov och uppföljning ingår. Syftet med tjänsten är att minska droganvändning och stärka psykisk och social funktion. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. HAP ingår i Socialstyrelsens metodguide och nationella riktlinjer. Trots att det vetenskapliga underlaget är otillräckligt, har HAP stöd i beprövad erfarenhet och används ofta i praktiken med goda resultat för att minska cannabisanvändning . 
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.6 Tjänst: CPU – Cannabisprogram för ungdomar
+Beskrivning: CPU riktar sig till ungdomar och unga vuxna som använt cannabis, samt till deras närstående. Tjänsten passar de ungdomar som är för unga för HAP, alternativt har använt cannabis i mindre omfattning och därför inte är aktuella för HAP. CPU är en förenklad variant av HAP och består av tre faser: medicinsk, psykologisk och social, med fokus på hälsa, risksituationer och föräldrainvolvering. Programmet inleds med ett informationssamtal med familjen. Två behandlare arbetar därefter i ärendet samtidigt, en för ungdomen och en för föräldrar och ev syskon. Tjänsten inkluderar familjesamtal och urinprov. Syftet är att stötta ungdomar i att sluta med cannabis och behålla drogfrihet. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och ingår i Socialstyrelsens metodguide .
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.7 Tjänst: Första hjälpen vid spelproblem
+Beskrivning: Första hjälpen vid spelproblem riktar sig till ungdomar och unga vuxna som har problem med spel om pengar, samt till deras närstående. Första hjälpen vid spelproblem är en självhjälpsmanual baserad på MI och KBT, med övningar som stödjer förändring. Den ger verktyg för att hantera tankefällor, ta kontroll över ekonomin, förebygga återfall och hitta alternativ till spel. Manualen syftar till att hjälpa individer att reflektera över sitt spelbeteende, fatta egna beslut om förändring och stärka anhörigas stöd utan konflikt. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Manualen grundar sig på behandlingsmetoder med vetenskapligt stöd vid spelproblem, MI och KBT, men själva programmet "Första hjälpen vid spelproblem" har i sig inte presenterats i några peer review-granskade vetenskapliga studier .
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.8 Tjänst: Till spelfriheten
+Beskrivning: Till spelfriheten riktar sig till ungdomar och unga vuxna som har ett problematiskt spelbeteende eller lider av spelberoende (spel om pengar).
+Till spelfriheten är en manualbaserad behandling med KBT som grund, inriktad på att hantera triggers, spelsug och motstånd mot förändring. Behandlingen inkluderar övningar i problemlösning, självbild och exponering, med hemuppgifter efter varje session. Målet är ökad livskvalitet och ett stabilt spelfritt liv. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Manualen grundar sig på KBT, som har ett gott vetenskapligt stöd vid behandling mot spelberoende. Manualen i sig är dock ej utvärderad i några peer review-granskade vetenskapliga studier .
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.2.4.9 Tjänst: Återfallsprevention - spelproblem
+Beskrivning: Återfallsprevention – spelproblem riktar sig till barn, ungdomar och unga vuxna. Tjänsten består av samtalsstöd, strategier för att hantera spelimpulser och identifiering av risker, och syftar till att minska risk för återfall i spelberoende. Tjänsten genomförs i samverkan med Regionhälsan.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Personer 13-21 år samt deras anhöriga, inom Fyrbodals avtalskommuner.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+
+2.3 Enhet mot våld i nära relationer
+2.3.1 Insats: Rådgivande samtal
+2.3.1.1 Tjänst: Rådgivning; Allmän 
+Beskrivning: Den allmänna rådgivningen riktar sig till personer över 15 år med erfarenhet av våld i nära relation, sexuella övergrepp, hedersrelaterat våld och förtryck och/eller människohandel för sexuella ändamål. Rådgivningen är en kort individuell tjänst, upp till tre tillfällen, med möjlighet till orienterande samtal, råd och stöd. I rådgivningen används metoden MI och bedömningsverktygen FREDA, SARA, Patriark samt screening för PTSD. Rådgivningen syftar till att vara trygghetsskapande och ge vägledning till att leva ett liv fritt från våld. 
+Tjänsten kan ges till ungdom från 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, den innehåller MI och bedömningsverktyg som ingår i Socialstyrelsens metodguide  . 
+Villkor: Personer från 15 år boende i Trollhättan eller i avtalskommuner.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.3.1.2 Tjänst: Rådgivning; Schyssta relationer
+Beskrivning: Rådgivning; Schyssta relationer riktar sig till ungdomar som önskar samtala om våld i kärleksrelationer. Rådgivningen är en kort individuell tjänst, upp till tre tillfällen, och syftar till att förebygga våld och främja jämställdhet. 
+Tjänsten kan ges till ungdom från 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Ungdomar mellan 15-20 år boende i Trollhättan 
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.3.1.3 Tjänst: Rådgivning; Heder
+Beskrivning: Rådgivning; Heder riktar sig till personer över 15 år som är utsatta för hedersrelaterat våld och förtryck. Rådgivningen är en kort individuell tjänst, upp till tre tillfällen, med möjlighet till orienterande samtal, råd och stöd. I rådgivningen används metoden MI och bedömningsverktygen FREDA, SARA, Patriark samt screening för PTSD. Rådgivningen syftar till att vara trygghetsskapande och ge vägledning till att leva ett liv fritt från hedersrelaterat våld och förtryck.
+Tjänsten kan ges till ungdom från 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet Tjänsten bygger på beprövad erfarenhet, den innehåller MI och bedömningsverktyg som ingår i Socialstyrelsens metodguide  .
+Villkor: Personer från 15 år boende i Trollhättan eller i avtalskommuner. Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.3.1.4 Tjänst: Medarbetarsamtal VIN
+Beskrivning: Medarbetarsamtal VIN riktar sig till anställda inom Trollhättans stad som har erfarenhet av våld i nära relation. Rådgivningen är en kort individuell tjänst, upp till fem tillfällen, med möjlighet till orienterande samtal, råd och stöd samt vägledning. I samtalen används metoden MI och bedömningsverktygen FREDA, SARA och Patriark, samt screening för PTSD. Tjänsten syftar till att öka frisknärvaro och minska sjukfrånvaro utifrån våld i nära relation.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, den innehåller MI och bedömningsverktyg som ingår i Socialstyrelsens metodguide  .
+Villkor: Personer anställda i Trollhättans stad, i samråd med chef, HR eller Hälsan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.3.1.5 Tjänst: Föräldrastöd vid våld i familjen
+Beskrivning: Föräldrastödet riktar sig till vårdnadshavare med erfarenhet av våld i nära relation, som har behov av stöd i sin föräldraroll. Föräldrastödet bygger på MI och är en kort tjänst, upp till tre tillfällen. Samtalen fokuserar på föräldraskap, gränssättning, barnets behov och skydd. Tjänsten syftar till att stärka förälderns förmåga att skydda, trygga och stötta sitt barn.
+Vetenskap och beprövad erfarenhet:  Tjänsten bygger på beprövad erfarenhet, den innehåller MI som ingår i Socialstyrelsens metodguide  .
+Villkor: Vårdnadshavare boende i Trollhättan eller i avtalskommun. 
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.3.1.6 Tjänst: Stöd till anhörig
+Beskrivning: Stödet riktar sig till anhöriga till vuxna personer som är utsatta för, eller som utövar, våld i nära relation. Stödet är en kort individuell tjänst, upp till fem tillfällen, vilken bygger på MI. Fokus ligger på information, avlastning och gränssättning. Syftet är att minska anhörigas stressnivå, främja deras egen återhämtning, samt stärka deras förmåga att stötta den våldsutsatta/våldsutövaren utan att involveras i våldsdynamiken.
+Tjänsten kan ges till ungdom från 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet Tjänsten bygger på beprövad erfarenhet, den innehåller MI som ingår i Socialstyrelsens metodguide  .
+Villkor: Personer från 15 år boende i Trollhättan eller i avtalskommuner. 
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+
+
+2.3.2 Insats: Individuellt stöd till våldsutsatta och våldsutövare
+2.3.2.1 Tjänst: Schyssta relationer
+Beskrivning: Schyssta relationer riktar sig till ungdomar som har erfarenhet av våld i kärleksrelationer. Tjänsten innehåller individuella samtal baserade på metoder och verktyg såsom Samtal om frihet, Samtal om våld, MI och TMO. I tjänsten ingår även bedömningsverktygen FREDA och SARA. Schyssta relationer syftar till att stärka den unge och ge kunskap om våld i nära relationer för att kunna bryta våldets konsekvenser samt förebygga våldsamt beteende.
+Tjänsten genomförs i samverkan med Fältenheten/Förebyggande enheten. 
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. Den innehåller metoder och bedömningsverktyg som ingår i Socialstyrelsens metodguide . 
+Villkor: Ungdomar 15-20 år, boende i Trollhättan. 
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.3.2.2 Tjänst: Samtalsstöd; Heder
+Beskrivning: Samtalsstöd; Heder riktar sig till personer från 15 år som är utsatta för hedersrelaterat våld och förtryck. Tjänsten innehåller individuella samtal baserade på MI och bedömningsverktyget Patriark. Tjänsten syftar till att stärka den unge och hjälpa hen att bryta våldets konsekvenser.  
+Tjänsten kan ges till ungdomar över 15 år utan vårdnadshavares samtycke
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. Den innehåller MI och bedömningsverktyg som ingår i Socialstyrelsens metodguide 
+Villkor: Personer från 15 år boende i Trollhättan eller i avtalskommuner. Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.3.2.3 Tjänst: Samtal om frihet
+Beskrivning: Samtal om frihet riktar sig till vuxna personer som är utsatta för pågående våld i nära relation. Det är en strukturerad samtalsmodell, vilken bygger på inslag av MI, KBT och traumateori. I modellen ingår bland annat kartläggning av känslomässiga konsekvenser av våldet, psykoedukation om traumatiska band, känsloreglering, exponeringsövningar, träning i självhävdelse samt vidmakthållandeplan. Samtal om frihet syftar till att stärka individen, ge kunskap om våld i nära relationer för att kunna bryta våldets konsekvenser.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. Den innehåller MI och KBT vilka ingår i Socialstyrelsens metodguide . 
+Villkor: Vuxna personer boende i Trollhättan eller i avtalskommuner. Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.3.2.4 Tjänst: Kunskap om våld
+Beskrivning: Kunskap om våld riktar sig till vuxna personer som lämnat en nära relation där de utsatts för våld. Kunskap om våld genomförs vid fem individuella samtal, där fokus ligger på information om våld i nära relationer. Samtalen utgår från en arbetsbok, framtagen utifrån Socialstyrelsens rekommendationer, och innehåller bland annat genomgång av våldet, kris- och traumarespons, normaliseringsprocessen, varningstecken och traumatiska band. Tjänsten syftar till att ge kunskap om våld i nära relationer och dess konsekvenser för att förebygga ytterligare utsatthet. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet .
+Villkor: Vuxna personer boende i Trollhättan eller i avtalskommuner.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.3.2.5 Tjänst: Samtalsstöd; Sexuella övergrepp
+Beskrivning: Samtalsstödet riktar sig till vuxna personer utsatta för sexuella övergrepp, sexuell exploatering eller människohandel för sexuella ändamål. I samtalsstödet ingår individuella samtal med fokus på psykoedukation och hotbild. Tjänsten syftar till att ge personen kunskap om reaktioner och konsekvenser av sexuella övergrepp, samt stärka den psykiska hälsan och självbilden. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan eller i avtalskommuner. Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.3.2.6 Tjänst: Praktiskt stöd
+Beskrivning: Det praktiska stödet riktar sig till vuxna personer som lever i pågående våld eller eftervåld med sociala konsekvenser. I det praktiska stödet ingår hjälp vid processer som är nödvändiga för att leva ett liv fritt från våld. Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan. 
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.3.2.7 Tjänst: Samtal om våld
+Beskrivning: Samtal om våld riktar sig till vuxna personer som utövat någon form av lindrigt till måttligt partnervåld, och som inte uppfyller kriterierna för allvarlig personlighetsstörning. Samtal om våld är en individuell behandling, med fokus på känslohantering, våldsanalys, relationsfärdigheter och empatiförmåga. Behandlingen syftar till att våldsbeteendet ska upphöra genom ökad känslohantering, förbättrad kommunikation och relationsfärdigheter samt ökad empati.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. Samtal om våld ingår i Socialstyrelsens metodguide, och FoU i Väst har en pågående effektutvärdering av behandlingen . 
+Villkor: Vuxna personer boende i Trollhättan eller i avtalskommuner. Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.3.3 Insats: Gruppverksamhet för våldsutsatta och våldsutövare
+2.3.3.1 Tjänst: Samtalsgrupp VIN, sluten grupp
+Beskrivning: Samtalsgruppen riktar sig till kvinnor utsatta för våld i nära relation. Samtalen sker i en grupp med fasta deltagare vid 10 tillfällen. Samtalen syftar till att ge kunskap om våld i nära relationer, minska de våldsutsattas isolering och stärka personernas förmåga att skydda sig mot ytterligare våld. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan eller i avtalskommuner.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.3.3.2 Tjänst: Samtalsgrupp VIN, öppen grupp
+Beskrivning: Samtalsgruppen riktar sig till personer utsatta för våld i nära relation, och består av stödjande samtal i en grupp med löpande intag. Samtalen syftar till att ge kunskap om våld i nära relationer, minska de våldsutsattas isolering och stärka personernas förmåga att skydda sig mot ytterligare våld.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan eller i avtalskommuner.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.3.3.3 Tjänst: Samtal om våld, öppen grupp
+Beskrivning: Gruppverksamheten Samtal om våld riktar sig till våldsutövande personer som önskar samtala om och göra en förändring avseende sin ilska, svartsjuka och aggressivitet. Samtalen sker i en grupp med löpande intag. Samtalen fokuserar på ansvarstagande och beteendeförändring. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. Samtal om våld ingår i Socialstyrelsens metodguide, och FoU i Väst har en pågående effektutvärdering av behandlingen .
+Villkor: Vuxna personer boende i Trollhättan eller i avtalskommuner.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+ 
+2.4 Barnahus
+2.4.1 Insats: Rådgivande samtal
+2.4.1.1 Tjänst: Väntrumsbesök
+Beskrivning: Väntrumsbesök riktar sig till medföljande vuxen omsorgsperson (förälder, familjehem eller annan utsedd trygghetsperson) till barn som genomför barnförhör hos Polisen, med anledning av misstanke om våld och/eller övergrepp. Medan barnet förhörs erbjuds omsorgspersonen vägledning och stöttning i situationen samt avstämning kring mående och befintligt stöd kring familjen. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxen omsorgsperson till barn, boende i Trollhättan eller avtalskommun, som genomför barnförhör utifrån misstanke om våld och/eller övergrepp. 
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.4.1.2 Tjänst: Krisstöd till omsorgspersoner
+Beskrivning: Krisstödet riktar sig till föräldrar, familjehem eller annan utsedd trygghetsperson till barn inom Barnahus målgrupp (dvs barn och ungdomar 0-18 år som man misstänker har varit utsatta för våld i nära relation, sexuella övergrepp, hedersrelaterat våld och förtryck, sexuell exploatering och barnfridsbrott, samt barn under 15 år med sexuella beteendeproblem). Krisstödet till omsorgspersonen innebär en till två stabiliserande, vägledande och/eller trygghetsskapande samtal för egen del via samordnare på Barnahus eller BUP-representant. Krisstödet blir aktuellt efter förfrågan från socialtjänst eller polismyndigheten.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxen omsorgsperson till barn, 0-18 år, boende i Trollhättan eller avtalskommun.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.4.1.3 Tjänst: Rådgivning; Heder
+Beskrivning: Rådgivning; Heder riktar sig till personer över 15 år som är utsatta för hedersrelaterat våld och förtryck. Rådgivningen är en kort individuell tjänst, upp till tre tillfällen, med möjlighet till orienterande samtal, råd och stöd. I rådgivningen används metoden MI och bedömningsverktygen FREDA, SARA, Patriark samt screening för PTSD. Rådgivningen syftar till att vara trygghetsskapande och ge vägledning till att leva ett liv fritt från hedersrelaterat våld och förtryck.
+Tjänsten kan ges till ungdom från 15 år utan vårdnadshavares samtycke.
+Vetenskap och beprövad erfarenhet Tjänsten bygger på beprövad erfarenhet, den innehåller MI och bedömningsverktyg som ingår i Socialstyrelsens metodguide  .
+Villkor: Personer från 15 år boende i Trollhättan eller i avtalskommuner. Dokumentation: Tjänsten är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+
+2.5 Stödenheten 
+2.5.1 Insats: Rådgivande samtal
+Beskrivning: Rådgivande samtal gällande privatekonomi, skuldsituationer och konsumenträtt erbjuds till personer boende i Trollhättan. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Personer boende i Trollhättan.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.5.2 Insats: Konsumentvägledning
+Beskrivning: Konsumentvägledning riktar sig till personer som önskar information och vägledning inom det konsumenträttsliga området för att förebygga överskuldsättning. Vägledningen kan bland annat gälla köp av varor eller tjänster, reklamationer, avtalsfrågor, hjälp vid överklagan, rådgivning inför anmälan till ARN och Konsumentverket samt praktiskt stöd till konsumenter med begränsad digital förmåga. Konsumentvägledning ges enskilt och i grupp. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Personer boende i Trollhättan
+Dokumentation: Insatsen är ej undantagen dokumentationsplikten.
+ 
+2.5.3 Insats: Budget- och skuldrådgivning
+Beskrivning: Budget- och skuldrådgivning riktar sig till personer som behöver hjälp med att hitta långsiktiga lösningar på ekonomiska problem. I insatsen ingår bland annat hjälp med avbetalningsplaner, ackord, skuldsaneringsansökningar, hjälp vid överklagan och förhandling med fordringsägare. Via budget- och skuldrådgivningen kan den enskilde även få stöd med ansökningar om förmåner och ersättningar inom socialförsäkringen, hjälp med ansökan om god man och kontakt med personligt ombud etc. Budget- och skuldrådgivning ges enskilt och i grupp.
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet och följer Konsumentverkets rekommendationer. Konsumentverkets rapporter visar bland annat att skuldsanering och kommunal budget- och skuldrådgivning generellt har positiva effekter på överskuldsatta personers livssituation, men betonar vikten av tidiga insatser för att motverka stress, hälsoproblem och förvärrad ekonomisk situation .
+Villkor: Personer boende i Trollhättan.
+Dokumentation: Insatsen är ej undantagen dokumentationsplikten.
+
+2.5.4 Insats: Rådgivande samtal
+Beskrivning: Enstaka rådgivningssamtal erbjuds till vuxna med oro för egen eller närståendes konsumtion av alkohol, narkotika eller spel om pengar, samt till vuxna personer som önskar hoppa av organiserad brottslighet. Rådgivning erbjuds även till närstående till personer med skadligt bruk, beroendeproblematik och organiserad brottslighet.
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: 
+- Vuxna personer/närstående till vuxna personer boende i Trollhättan.
+- Vuxna personer/närstående till personer som önskar hoppa av organiserad brottslighet, boende i Trollhättan.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+2.5.1 Insats: Psykosociala samtalsinsatser
+2.5.1.1 Tjänst: HAP – Haschavvänjningsprogrammet
+Beskrivning: HAP riktar sig till vuxna med skadligt bruk eller beroende av cannabis och som vill sluta använda drogen. HAP är ett KBT-baserat program med fokus på känslomässig, kognitiv och beteendemässig förändring. Programmet är uppdelat i tre faser; medicinsk, psykologisk och social, med fokus på hälsa och återfallsprevention. Hemuppgifter, urinprov och uppföljning ingår. Syftet med tjänsten är att minska droganvändning och stärka psykisk och social funktion. Tjänsten kan ges enskilt och i grupp. Tjänsten avslutas när målet är uppfyllt eller om programmet inte har effekt, dock max 6 månader. Vid ytterligare behov hjälps den enskilde vidare till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. HAP ingår i Socialstyrelsens metodguide och nationella riktlinjer. Trots att det vetenskapliga underlaget är otillräckligt, har HAP stöd i beprövad erfarenhet och används ofta i praktiken med goda resultat för att minska cannabisanvändning .
+Villkor: Vuxna personer boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.1.2 Tjänst: CPU - Cannabisprogram för ungdomar
+Beskrivning: CPU riktar sig till unga vuxna som använt cannabis, samt till deras närstående. Tjänsten passar personer som har använt cannabis i mindre omfattning och därför inte är aktuella för HAP. CPU är en förenklad variant av HAP och består av tre faser: medicinsk, psykologisk och social, med fokus på hälsa, risksituationer och föräldrainvolvering. Programmet inleds med ett informationssamtal med familjen. Två behandlare arbetar därefter i ärendet samtidigt, en för den unge och en för föräldrar och ev syskon. CPU inkluderar familjesamtal och urinprov. Syftet är att stötta unga vuxna i att sluta med cannabis och behålla drogfrihet. Tjänsten kan ges enskilt och i grupp. Tjänsten avslutas när målet är uppfyllt eller om programmet inte har effekt, dock max 6 månader. Vid ytterligare behov hjälps den enskilde vidare till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, och ingår i Socialstyrelsens metodguide .
+Villkor: Vuxna personer boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.1.3 Tjänst: ÅP – Återfallsprevention
+Beskrivning: Återfallsprevention riktar sig till vuxna med beroendeproblem som rör alkohol, narkotika, läkemedel, tobak eller spel. Återfallsprevention är en form av KBT som bygger på social inlärningsteori och kognitiv psykologi. Kursen fokuserar på att identifiera risksituationer, hantera sug, utveckla strategier för nykterhet samt skapa nödplaner vid återfallsrisk. Syftet är att förebygga återfall i missbruk och beroende. Tjänsten kan ges enskilt och i grupp. Tjänsten avslutas när målet är uppfyllt eller om programmet inte har effekt, dock max 6 månader. Vid ytterligare behov hjälps den enskilde vidare till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. Återfallsprevention ingår i Socialstyrelsens metodguide och nationella riktlinjer .
+Villkor: Vuxna personer boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.1.4 Tjänst: CRA - Community Reinforcement Approach
+Beskrivning: CRA riktar sig till vuxna med skadligt bruk eller beroende av alkohol eller narkotika. CRA är en manualbaserad behandlingsmetod, baserad på inlärningspsykologi och KBT. Metoden fokuserar på att stärka drogfritt beteende genom funktionsanalys, färdighetsträning, ökad drogfri aktivitet och återfallsprevention. Syftet med CRA är att hjälpa personer till ett drogfritt liv. Faktorer som främjar drogfrihet i personens närmiljö förstärks medan faktorer som främjar droganvändningen minskas. Tjänsten kan ges enskilt och i grupp. Tjänsten avslutas när målet är uppfyllt eller om behandlingen inte har effekt, dock max 6 månader. Vid ytterligare behov hjälps den enskilde vidare till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. CRA ingår i Socialstyrelsens metodguide och nationella riktlinjer. RCT-studier visar att CRA är mer effektiv än sedvanlig behandling vid alkohol- och kokainberoende särskilt i kombination med incitamentsbaserade inslag .
+Villkor: Vuxna personer boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.1.5 Tjänst: Fri från spel
+Beskrivning: Fri från spel riktar sig till vuxna som har svårt att kontrollera sitt spelande om pengar. Det är ett samtalsbaserat stöd, med målet att hjälpa individen att uppnå och bibehålla spelfrihet. Tjänsten kan ges enskilt och i grupp. Tjänsten avslutas när målet är uppfyllt eller om stödet inte har effekt, dock max 6 månader. Vid ytterligare behov hjälps den enskilde vidare till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.1.6 Tjänst: Kontrollerat drickande
+Beskrivning: Kontrollerat drickande vänder sig till vuxna som vill minska sin alkoholkonsumtion och återgå till kontrollerat eller måttligt drickande. Här ingår att undersöka motivation för förändring, identifiera situationer för problematiskt drickande, öva på måttlighetsstrategier och hitta tillfällen då man vill avstå helt. Tjänsten kan ges enskilt och i grupp. Tjänsten avslutas när målet är uppfyllt eller om programmet inte har effekt, dock max 6 månader. Vid ytterligare behov hjälps den enskilde vidare till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.2 Insats: Alkohol- och drogtest
+2.5.2.1 Tjänst: Mobil nykterhetskontroll
+Beskrivning: Den mobila nykterhetskontrollen riktar sig till vuxna personer, aktuella på Samtalsmottagningen Kraften, som vill kontrollera sin nykterhet utifrån eget behov och önskemål. Syftet med nykterhetskontrollen är alltså ej att utgöra ett intyg till anhöriga eller andra instanser. Kontrollen genomförs med hjälp av en mobil alkoholmätare där promillehalten mäts via en app i den enskildes smartphone. Den är utformad för att ge den enskilde kontroll över sin alkoholkonsumtion. Tjänsten avslutas om målet är uppfyllt eller om det inte har effekt, exempelvis om den enskilde vid upprepade tillfällen ej genomför testet eller påvisar upprepad alkoholpåverkan, dock max 6 månader. Den enskilde hjälps då vidare till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan, aktuella på Samtalsmottagningen Kraften.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.2.2 Tjänst: Urinprov
+Beskrivning: Urinprov riktar sig till vuxna personer, aktuella på Samtalsmottagningen Kraften, som vill kontrollera sin drogfrihet utifrån eget behov och önskemål. Syftet med drogfrihetskontrollen är alltså ej att utgöra ett intyg till anhöriga eller andra instanser. Tjänsten avslutas om målet är uppfyllt eller om det inte har effekt. Exempelvis om klienten vid upprepade tillfällen ej genomför testet eller påvisar upprepade positiva urinprov, dock max 6 månader. Den enskilde hjälps då över till annan insats/tjänst.  
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan, aktuella på Samtalsmottagningen Kraften.
+Dokumentation: Tjänsten är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+2.5.3 Insats: Anhörigstöd
+Beskrivning: Anhörigstödet Möjligheternas väg riktar sig till vuxna anhöriga som upplever oro för en närstående som dricker för mycket, tar narkotika eller spelar om pengar. Tjänsten syftar till att den anhörige ska bli stärkt genom att få kunskap, stöd och hanteringsstrategier, vilket kan hjälpa den anhörige att må bättre, förbättra situationen och att stötta sin närstående. Möjligheternas väg erbjuds både som enskilda samtal och i grupp. 
+Tjänsten avslutas när målet är uppfyllt, dock max 6 månader. Vid behov av större insatser/stöd hjälps den anhörige att komma i kontakt med andra stödinsatser. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan.
+Dokumentation: Insatsen är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+2.5.4 Insats: Avhopparverksamhet
+Beskrivning: Avhopparverksamheten riktar sig till vuxna avhoppare, eller potentiella avhoppare, från kriminella nätverk och organiserad brottslighet. Avhopparverksamheten innefattar bland annat motiverande samtal, vägledning, stöd i kontakter med myndigheter/verksamheter och samordning av insatser mm. Insatsen genomförs i samarbete med Polismyndigheten, Utredningsgruppen Vuxen och Beroendestöd och Socialt stöd och försörjning. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Vuxna avhoppare eller potentiella avhoppare, enligt Polismyndighetens definition, boende i Trollhättan.
+Dokumentation: Insatsen är ej undantagen dokumentationsplikten.
+ 
+2.6	Vuxenstödsteamet
+2.6.1 Insats: Vuxenstöd
+2.6.1.1 Tjänst: Stödsamtal 
+Beskrivning: Stödsamtal riktar sig till personer över 18 år som upplever problem med skadligt bruk/beroende av alkohol, narkotika eller spel. Det är ett psykosocialt stöd som bygger på MI och innehåller standardiserade bedömningsmetoder som AUDIT och DUDIT. Stödet utgår från den enskildes behov och mål, och kan bland annat innefatta stöd i boendesituationen, hjälp i kontakt med myndigheter, sjukvård, kriminalvård, andra enheter inom socialtjänsten, hyresvärdar och civilsamhället etc. Tjänsten syftar till att den enskilde ska bli drogfri/nykter och möjliggöra ett så självständigt liv som möjligt utifrån den enskildes förutsättningar.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet, den innehåller MI och standardiserade bedömningsmetoder som ingår i Socialstyrelsens metodguide  .
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.2 Tjänst: ÅP - Återfallsprevention
+Beskrivning: Återfallsprevention riktar sig till vuxna med beroendeproblem som rör alkohol, narkotika, läkemedel, tobak eller spel. Återfallsprevention är en form av KBT som bygger på social inlärningsteori och kognitiv psykologi. Kursen fokuserar på att identifiera risksituationer, hantera sug, utveckla strategier för nykterhet samt skapa nödplaner vid återfallsrisk. Syftet är att förebygga återfall i missbruk och beroende. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. Återfallsprevention ingår i Socialstyrelsens metodguide och nationella riktlinjer .
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.3 Tjänst: ÅP - Spel
+Beskrivning: ÅP – Spel är en behandling för vuxna som har problem med spelberoende. Metoden bygger på återfallsprevention (ÅP), en form av KBT som utgår från social inlärningsteori och kognitiv psykologi. Syftet är att hjälpa personen att känna igen och hantera situationer, tankar och känslor som kan öka risken för att börja spela igen.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. Återfallsprevention och KBT ingår i Socialstyrelsens metodguide och kunskapsstöd vid behandling av spelmissbruk och spelberoende .
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.4 Tjänst: CRA - Community Reinforcement Approach
+Beskrivning: CRA riktar sig till vuxna med skadligt bruk eller beroende av alkohol eller narkotika. CRA är en manualbaserad behandlingsmetod, baserad på inlärningspsykologi och KBT. Metoden fokuserar på att stärka drogfritt beteende genom funktionsanalys, färdighetsträning, ökad drogfri aktivitet och återfallsprevention. Syftet med CRA är att hjälpa personer till ett drogfritt liv. Faktorer som främjar drogfrihet i personens närmiljö förstärks medan faktorer som främjar droganvändningen minskas. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. CRA ingår i Socialstyrelsens metodguide och nationella riktlinjer. RCT-studier visar att CRA är mer effektiv än sedvanlig behandling vid alkohol- och kokainberoende särskilt i kombination med incitamentsbaserade inslag .
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.5 Tjänst: CRA - Spel
+Beskrivning: CRA – Spel är en behandling för vuxna som har problem med spelberoende. Metoden bygger på Community Reinforcement Approach (CRA) och har anpassats för att hjälpa personer att hitta andra, mer positiva belöningar än spel. Behandlingen är manualbaserad och utgår från inlärningspsykologi och KBT. Syftet är att minska spelandet genom att stärka andra positiva beteenden och skapa en mer meningsfull vardag. Fokus ligger på att förbättra livskvaliteten genom att utveckla sociala relationer, hitta meningsfulla aktiviteter och förbättra förmågan att lösa problem. Ofta får även närstående vara med i behandlingen.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. CRA ingår i Socialstyrelsens metodguide .
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.6 Tjänst: HAP – Haschavvänjningsprogrammet
+Beskrivning: HAP riktar sig till vuxna med skadligt bruk eller beroende av cannabis och som vill sluta använda drogen. HAP är ett KBT-baserat program med fokus på känslomässig, kognitiv och beteendemässig förändring. Programmet är uppdelat i tre faser; medicinsk, psykologisk och social, med fokus på hälsa och återfallsprevention. Hemuppgifter, urinprov och uppföljning ingår. Syftet med tjänsten är att minska droganvändning och stärka psykisk och social funktion. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet. HAP ingår i Socialstyrelsens metodguide och nationella riktlinjer. Trots att det vetenskapliga underlaget är otillräckligt, har HAP stöd i beprövad erfarenhet och används ofta i praktiken med goda resultat för att minska cannabisanvändning . 
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.7 Tjänst: Kriminalitet som livsstil
+Beskrivning: Kriminalitet som livsstil riktar sig till vuxna personer som vill bryta med kriminaliteten. Det är ett behandlingsprogram som fokuserar på att identifiera och förändra kriminella tankemönster och beteenden. Genom samtal, kartläggning och värderingsövningar får den enskilde insikt i hur hens bakgrund, försvarsmekanismer och identitet bidragit till ett liv i kriminalitet, med målet att förebygga återfall.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet .
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.8 Tjänst: Drogtest
+Beskrivning: Drogtest riktar sig till vuxna personer med upplevt behov av stöd gällande skadligt bruk/beroende av narkotika. Testet används för att detektera droger i kroppen. Syftet med testet är att hjälpa den enskilde att hålla sig drogfri, öka ansvarstagandet och stödja förändringsprocessen. 
+Provlämningen ska alltid övervakas av personal för att säkerställa att testet inte manipuleras.
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.9 Tjänst: Mobil nykterhetskontroll
+Beskrivning: Mobil nykterhetskontroll riktar sig till vuxna personer med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol. Kontrollen genomförs med hjälp av en mobil alkoholmätare där promillehalten mäts via en app i den enskildes smartphone. Syftet med nykterhetskontrollen är att enskilde ska få kontroll över sin alkoholkonsumtion, hjälpa den enskilde att hålla sig nykter, öka ansvarstagandet och stödja förändringsprocessen. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+
+2.6.1.10 Tjänst: Nykterhetskontroll
+Beskrivning: Nykterhetskontroll riktar sig till vuxna personer med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol. Syftet med nykterhetskontrollen är att hjälpa den enskilde att hålla sig nykter, öka ansvarstagandet och stödja förändringsprocessen. 
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på beprövad erfarenhet.
+Villkor: Vuxna personer boende i Trollhättan, med upplevt behov av stöd gällande skadligt bruk/beroende av alkohol, narkotika eller spel.
+Dokumentation: Tjänsten är ej undantagen dokumentationsplikten.
+ 
+3.	Verksamhetsområde Individ och familjeomsorg
+
+3.1	Familjerättsenheten
+3.1.1 Insats: Rådgivande samtal
+Beskrivning: Orienterande samtal, råd, stöd och vägledning i familjerättsliga frågor erbjuds till kommunens medborgare. 
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Personer boende i Trollhättan.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+3.1.2 Insats: Samarbetssamtal
+Beskrivning: Samarbetssamtal är en frivillig medling mellan föräldrar (även SFV och andra närstående) som har separerat, eller är i färd med att separera.  Insatsen syftar till att nå samförstånd i vad som är till deras gemensamma barns bästa.
+Villkor: Föräldrar/SFV/närstående till barn boende i Trollhättan.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+3.1.3 Insats: Informationssamtal
+Beskrivning: Informationssamtal riktar sig till kommuninvånare med barn, 0-18 år, som har separerat eller är i färd med att separera, där det råder oenighet mellan föräldrarna kring vårdnad, boende och umgänge. Insatsen består av information till föräldrar om hur den familjerättsliga processen i domstol ser ut, samt vilka alternativ som finns till en sådan. Insatsen syftar till att underlätta för föräldrar att hitta den lösning som är bäst för barnet. Ett skriftlig intyg utfärdas efter samtalet, att bifoga vid eventuell stämningsansökan.
+Villkor: 
+- Förälder till barn boende i Trollhättan. 
+- Undantag: Förälder boende i Trollhättan med barn som bor i annan kommun.
+Dokumentation: Insatsen är ej undantagen dokumentationsplikten.
+3.2 Barn- och familjeenheterna 1-3
+3.2.1 Insats: Rådgivande samtal
+Beskrivning: Råd och stöd riktar sig till barn och familjer som har varit föremål för utredning på Barn- och familjeenheterna. I insatsen ingår orienterande samtal, råd, stöd och vägledning samt medverkande vid tex SIP, i syfte att skapa ett mjukt avslut på en längre tids kontakt med socialtjänstens barnavård.
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Personer boende i Trollhättan som utretts och/eller precis avslutat en insats via Barn- och familjeenheterna.
+Dokumentation: Insatsen är ej undantagen dokumentationsplikten.
+
+3.3 Familjehemsenheten
+3.3.1 Insats: Skolstödjande insats för familjehemsplacerade barn
+Beskrivning: Skolfam riktar sig till familjehemsplacerade barn i åldern 6-13 år, placerade av Trollhättans stad. Skolfam är en manualbaserad samverkansinsats där psykolog, socialpedagog, barnsekreterare och familjehemssekreterare bildar ett team som kartlägger och följer det familjehemsplacerade barnets utveckling i skolan, med syfte att främja barnets skolgång. Insatsen genomförs i samarbete med PPR/ Utbildningsförvaltningen. Antalet platser är begränsat, fördelningen sker genom lottning.    
+Vetenskap och beprövad erfarenhet: Tjänsten bygger på vetenskap och beprövad erfarenhet. Effektutvärdering har visat att Skolfam fungerar som en skyddsfaktor mot negativ utveckling, jämfört med ordinarie kommunalt stöd bland familjehemsplacerade barn i Sverige. Detta gäller oavsett barnets kön och modersmål .
+Villkor: Familjehemsplacerade barn i grundskola, placerade av Trollhättans stad.
+Dokumentation: Insatsen är ej undantagen dokumentationsplikten.
+4. Extern part via IOP-avtal
+4.1 Brottsofferjouren
+4.1.1 Insats: Stöd till brottsutsatta, vittnen och anhöriga
+Beskrivning: Brottsofferjouren erbjuder, via ett IOP-avtal med Arbetsmarknads- och socialförvaltningen, råd, stöd och vägledning till brottsutsatta, vittnen och anhöriga i frågor om polisanmälan, rättsprocess och ersättningsfrågor, stöd vid eventuell rättegång samt hjälp i kontakt med myndigheter och försäkringsbolag.
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Personer boende i Trollhättan.
+Dokumentation: Insatsen är undantagen dokumentationsplikten enligt 14 kap 4 § SoL, vilket innebär att uppgifter om enskildas personliga förhållanden inte behöver dokumenteras.
+
+4.2 Göteborgs stadsmission
+4.2.1 Insats: Mötesplats
+Beskrivning: Mötesplats Polhem är en öppen verksamhet som drivs av Göteborgs Stadsmission, via ett IOP-avtal med Arbetsmarknads- och socialförvaltningen. Genom insatsen erbjuds vuxna stöd i form av individuella stödsamtal, råd/stöd i eller till myndighetskontakter och vårdinstanser, samt gemenskap och aktiviteter som bidrar till att bryta ensamhet. Mötesplatsens caféverksamhet erbjuder enklare förtäring.  
+Vetenskap och beprövad erfarenhet: Insatsen bygger på beprövad erfarenhet.
+Villkor: Vuxna personer
+Dokumentation: Insatsen är undantagen dokumentationsplikten utifrån särskilda skäl, enligt 14 kap 5 § SoL. Detta innebär att uppgifter som kan röja den enskildes identitet inte ska dokumenteras.
+
+ 
+Trollhättans stad
+Gärdhemsvägen 9, 461 83 Trollhättan
+ 	Telefon: 0520-49 50 00
+ 	Epost: kontaktcenter@trollhattan.se
+ 	Webb: www.trollhattan.se
